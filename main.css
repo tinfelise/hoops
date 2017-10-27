@@ -1,0 +1,128 @@
+html {
+	box-sizing: border-box;
+	font-family: sans-serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%; 
+	margin:0;
+	padding:0;
+	background-color: #fafafa;
+	color:#2e343b;
+}
+*, 
+*:before, 
+*:after {
+	box-sizing: inherit;
+}
+a {
+	text-decoration: none;
+	white-space: nowrap;
+	color:blue;
+	font-weight:bold;
+}
+a:hover {
+	color:black;
+}
+a:active {
+	color:green;
+}
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	font-size:16px;
+	margin: 2em auto;
+	/*padding:2em;*/
+	/*border-radius: .25em;*/
+	max-width:650px;
+}
+
+header,
+main,
+footer {
+	padding:2em;
+	background-color:#fff;
+}
+header {
+	border-radius: .25em .25em 0 0;
+	padding-bottom:1em;
+}
+header h1 {
+	margin:0;
+}
+main {
+	padding-top:0;
+	padding-bottom:0;
+}
+
+#gameFeed {}
+#gameFeed .game {
+	display:flex;
+	align-items: center;
+	position: relative;
+	padding-bottom:2em;
+}
+#gameFeed .game:last-of-type {
+	padding-bottom:0;
+}
+#gameFeed .game .logos {
+	/*padding-right:1em;*/
+}
+#gameFeed .game .logos img {
+	height:6em;
+}
+#gameFeed .game .logos .home {
+	transform: translate(-1.25em);
+}
+#gameFeed .game .data {
+	flex-grow:1;
+}
+#gameFeed .game .data h3 {
+	margin:0;
+}
+#gameFeed .game .data span,
+#gameFeed .game .data a {
+	display: inline-block;
+	width:50%;
+}
+#gameFeed .game .data a {
+	text-align:right;
+}
+#gameFeed .game .data a img {
+	height:1em;
+	display: inline-block;
+	padding-right:.5em;
+}
+#gameFeed .game .leagueIcon {
+	height:2em;
+	position: absolute;
+    right: 0;
+    top: 0;
+}
+
+footer {
+	padding-top:1em;
+	text-align:center;
+	font-size:.75em;
+	border-radius: 0 0 .25em .25em;
+}
+#madeBy {
+	text-align:center;
+	margin-top:1em;
+}
+#madeBy img {
+	height:1em;
+}
+
+
+
+
+
+@media only screen and (max-width: 650px) {
+	body {
+		margin:0;
+		border-radius: 0;
+		padding:1em;
+	}
+	#gameFeed .game .logos img {
+		height:3em;
+	}
+}

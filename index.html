@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Watch some hoops!</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<script src="https://use.fontawesome.com/1727fd84aa.js"></script>
+	<link rel="stylesheet" href="main.css">
+</head>
+<body>
+	<header>
+		<h1>Watch Hoops</h1>
+	</header>
+	<main>
+		<div id='gameFeed'></div>
+	</main>
+	<footer>
+		<div>All times display in <span id='timezone'></span>.
+	</footer>
+	<div id='madeBy'>Made with <img src='https://cdn.worldvectorlogo.com/logos/dribbble-icon-1.svg' alt='love'> by Tyler Infelise.</div>
+
+	<!-- Libraries -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js'></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+	<!-- <script src="https://momentjs.com/downloads/moment-timezone.min.js"></script> -->
+	<script src="https://momentjs.com/downloads/moment-timezone-with-data-2012-2022.min.js"></script>
+
+	<!-- Javascript -->
+	<script src="nba.js"></script>
+	<script>
+
+		var now = new Date();
+			now = now.getTime();
+		var today = moment(now).format('YYYYMMDD');
+		var month = moment(now).format('MMMM');
+
+		var games = [
+			// {
+			// 	"league":"NBA",
+			// 	"home_team":"Warriors",
+			// 	"away_team":"Rockets",
+			// 	"start":"Oct 22 2017 16:00:00 PDT",
+			// 	"network":""
+			// },
+			// {
+			// 	"league":"NBA",
+			// 	"home_team":"Thunder",
+			// 	"away_team":"Pelicans",
+			// 	"start":"Oct 22 2017 17:30:00 PDT",
+			// 	"network":"TNT"	
+			// }
+		];
+
+		// var todays_NBA_games = [];
+		function filterNBAData () {
+			nba = nba.lscd;
+			var x = 0;
+			var nba_games = [];
+			
+			for (i in nba) {
+				var month_games = nba[i].mscd;
+				for (each in month_games.g) {
+					nba_games[x] = month_games.g[each];
+					x++;
+				};
+			};
+
+			for (i in nba_games) {
+				var start_time_EST = nba_games[i].etm;
+					start_time_EST = moment(start_time_EST).format('YYYYMMDD');
+				if (start_time_EST == today) {
+					var home = nba_games[i].h.tn;
+					var away = nba_games[i].v.tn;
+					var start = nba_games[i].etm;
+					var network = '';
+					var networks = nba_games[i].bd.b;
+					for (i in networks) {
+						if ( (networks[i].scope == 'natl') && (networks[i].type == 'tv') && (networks[i].disp != 'NBATV') ) {
+							network = networks[i].disp;
+						};
+					};
+					// todays_NBA_games.push(home);
+					createGame('NBA', home, away, start, network);
+				}
+			};
+		};
+		filterNBAData();
+
+		// var months = {
+		// 	"January":1,
+		// 	"February":2,
+		// 	"March":3,
+		// 	"April":4,
+		// 	"May":5,
+		// 	"June":6,
+		// 	"July":7,
+		// 	"August":8,
+		// 	"September":9,
+		// 	"October":10,
+		// 	"November":11,
+		// 	"December":12
+		// };
+
+		// var nba_schedule_url = "https://api.mysportsfeeds.com/v1.1/pull/nba/2017-2018-current/daily_game_schedule.json?fordate=" + today;
+			// nba_schedule_url = "https://api.mysportsfeeds.com/v1.1/pull/nba/current/daily_game_schedule.json?fordate=" + today; // trying not to specify the season
+				// https://www.mysportsfeeds.com/data-feeds/api-docs/#
+				// date format: 20171022
+		// console.log(nba_schedule_url);
+
+		// $.ajax({
+		// 	type: "GET",
+		// 	url: nba_schedule_url,
+		// 	dataType: 'json',
+		// 	async: false,
+		// 	headers: {
+		// 		"Authorization": "Basic " + btoa('tinfelise' + ":" + 'ewFEwbYMKMeDacwPgN4q')
+		//   	},
+		//   	data: '{ "comment" }',
+		//   	success: function (){
+		//     	alert('Thanks for your comment!'); 
+		//   	}
+		// });
+
+		// var nba_schedule_url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2017/league/00_full_schedule_week.json';
+		// var nba = [];
+		// $.ajax({
+		// 	type: "GET",
+		// 	url: nba_schedule_url,
+		// 	dataType: 'jsonp',
+		// 	// async: false,
+		//   	// data: '{ "comment" }',
+		//   	// jsonp: false,
+		//   	// jsonpCallback: "myJsonMethod",
+		//   	success: function (data){
+		  		
+		//     	// console.log(data);
+		//     	nba = data.lscd;
+		//     	var x = 0;
+		//     	var nba_games = [];
+		//     	for (i in nba) {
+		//     		var month_games = nba[i].mscd;
+		//     		// console.log(month_games.g.length);
+		//     		for (each in month_games.g) {
+		//     			nba_games[x] = month_games.g[each];
+		//     			x++;
+		//     		};
+		//     	};
+
+
+		//     	var first_month = data.lscd[0].mscd.mon;
+		//   		var current_month = months[month] - months[first_month];
+		//     	nba = data.lscd[current_month].mcsd.g;
+		//     	console.log(nba);
+		//   	}
+		// });
+
+		// function callback(json) {
+		// 	console.log(json.Message);
+		// };
+		// $.ajax({
+		// 	type: "GET",
+		// 	url: "https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2017/league/00_full_schedule_week.json?format=jsonp",
+		// 	dataType: 'jsonp',
+		// 	jsonpCallback: 'callback',
+		// 	jsonp:false
+		//   	success: function (data){
+		//     	console.log(data);
+		//   	}
+		// });
+
+		var league_logos = {
+			"NBA":"https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg",
+			"NCAA":"https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",
+			"NESCAC":"http://cdnak1.psbin.com/dk4a6ui7bcqy4017/images/setup/2014/footer_logo_nescac.png"
+		};
+		
+		var nba_teams = {
+			"Hawks":{"city":"Atlanta","color":"#C8102E","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/ATL.svg"},
+			"Celtics":{"city":"Boston","color":"#007A33","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/BOS.svg"},"Nets":{"city":"Brooklyn","color":"#FFFFFF","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/BKN.svg"},"Hornets":{"city":"Charlotte","color":"#201747","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/CHA.svg"},"Bulls":{"city":"Chicago","color":"#BA0C2F","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/CHI.svg"},"Cavaliers":{"city":"Cleveland","color":"#6F263D","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/CLE.svg"},"Mavericks":{"city":"Dallas","color":"#0050B5","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/DAL.svg"},"Nuggets":{"city":"Denver","color":"#418FDE","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/DEN.svg"},"Pistons":{"city":"Detroit","color":"#003DA5","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/DET.svg"},"Warriors":{"city":"Golden State","color":"#003DA5","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/GSW.svg"},"Rockets":{"city":"Houston","color":"#BA0C2F","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/HOU.svg"},"Pacers":{"city":"Indiana","color":"#041E42","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/IND.svg"},"Clippers":{"city":"Los Angeles","color":"#D50032","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/LAC.svg"},"Lakers":{"city":"Los Angeles","color":"#702F8A","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/LAL.svg"},"Grizzlies":{"city":"Memphis","color":"#23375B","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/MEM.svg"},"Heat":{"city":"Miami","color":"#862633","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/MIA.svg"},"Bucks":{"city":"Milwaukee","color":"#2C5234","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/MIL.svg"},"Timberwolves":{"city":"Minnesota","color":"#002B5C","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/MIN.svg"},"Pelicans":{"city":"New Orleans","color":"#002B5C","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/NOP.svg"},"Knicks":{"city":"New York","color":"#003DA5","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/NYK.svg"},"Thunder":{"city":"Oklahoma City","color":"#007DC3","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/OKC.svg"},"Magic":{"city":"Orlando","color":"#007DC5","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/ORL.svg"},"76ers":{"city":"Philadelphia","color":"#006BB6","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/PHI.svg"},"Suns":{"city":"Phoenix","color":"#E56020","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/PHX.svg"},"Trail Blazers":{"city":"Portland","color":"#F0163A","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/POR.svg"},"Kings":{"city":"Sacramento","color":"#724C9F","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/SAC.svg"},"Spurs":{"city":"San Antonio","color":"#B6BFBF","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/SAS.svg"},"Raptors":{"city":"Toronto","color":"#CE1141","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/TOR.svg"},"Jazz":{"city":"Utah","color":"#002B5C","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/UTA.svg"},"Wizards":{"city":"Washington","color":"#0C2340","logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/WAS.svg"}
+		};
+
+
+
+		var networks = {
+			"ESPN": {
+				"logo":"http://stats.nba.com/media/img/broadcast-logos/espn.svg",
+				"link":"http://www.espn.com/watch/",
+				"app": {
+					"link":"sportscenter://x-callback-url/showFeatured",
+					"icon":"http://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons/espn_icon-57x57.min.png"
+				}
+			},
+			"TNT": {
+				"logo":"http://stats.nba.com/media/img/broadcast-logos/tnt.svg",
+				"link":"http://www.tntdrama.com/watchtnt"
+			},
+			"NBATV": {
+				"logo":"http://stats.nba.com/media/img/broadcast-logos/nbatv.svg"
+			}
+		};
+
+		function createGame(league, home, away, start, network) {
+			var game = {};
+			game.league = league;
+			game.home_team = home;
+			game.away_team = away;
+			game.start = start;
+			if (network) {
+				game.network = network;
+			};
+			games.push(game);
+		};
+
+		function createCountdown (elem, timestamp) {
+			$(elem).countdown(timestamp)
+				.on('update.countdown', function(event) {
+					var format = '';
+					if(event.offset.hours > 0) {
+						format = '<div>In %-H hour%!H</div> ';
+					} else if(event.offset.minutes > 15) {
+						format = '<div>In %-M minute%!M</div> ';
+					} else {
+						format = '<div>Starting soon</div>';
+					};
+					$(this).html(event.strftime(format));
+				})
+				.on('finish.countdown', function(event) {
+					$(this).html('LOC Chicken is currently open');
+				});
+		};
+
+		function createDailyFeed () {
+			for (i in games) {
+				var league_logo = league_logos[games[i].league];
+				var destination = '';
+				var cta = '';
+				var network_logo = '';
+
+				if (games[i].network) {
+					var network = games[i].network;
+					destination = "Watch on " + games[i].network;
+					cta = networks[network].link;
+					network_logo = networks[network].logo;
+				} else {
+					destination = "Search on Reddit";
+					cta = reddit(games[i].league,games[i].home_team,games[i].away_team);
+					network_logo = 'http://svgshare.com/i/2SL.svg';
+				}
+				
+				var home_logo = nba_teams[games[i].home_team].logo;
+				var away_logo = nba_teams[games[i].away_team].logo;
+				var time = moment(games[i].start).format('h:mmA');
+				
+				
+				var html = ''
+					+ "<div class='game'>"
+						+ "<div class='logos'>"
+							+ "<img class='away' src='" + away_logo + "' alt='" + games[i].away_team + " Logo'>"
+							+ "<img class='home' src='" + home_logo + "' alt='" + games[i].home_team + " Logo'>"
+						+ "</div>"
+						+ "<div class='data'>"
+							+ "<h3>" + games[i].away_team + " @ " + games[i].home_team + "</h3>"
+							// + "<div>"
+								+ "<span class='time'>" + time + "</span>"
+								+ "<a href='" + cta + "' target='blank_'>" 
+									+ "<img src='" + network_logo + "' >"
+									+ destination 
+								+ "</a>"
+							// + "</div>"
+						+ "</div>"
+						+ "<img class='leagueIcon' src='" + league_logo + "' alt='" + games[i].league + " logo'>"
+					+ "</div>";
+				$('#gameFeed').append(html);
+			};
+		};
+
+		function reddit (league, home, away) {
+			var link = "";
+			if (league == "NBA") {
+				link = "https://www.reddit.com/r/nbastreams/search?q=";
+				link += home + "+" + away;
+				link += "&restrict_sr=on";
+			};
+			return link;
+		};
+
+		createDailyFeed();
+
+		var est_timezone = moment.tz.guess();
+		var est_timezone_abr = moment.tz(est_timezone).zoneName();
+		// moment(now).tz('America/New_York').format('h:mmA z');
+		$('#timezone').append(est_timezone_abr);
+
+	</script>
+
+</body>
+</html>
