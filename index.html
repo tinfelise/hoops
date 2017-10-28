@@ -73,12 +73,13 @@
 			};
 
 			for (i in nba_games) {
-				var start_time_EST = nba_games[i].etm;
-					start_time_EST = moment(start_time_EST).format('YYYYMMDD');
-				if (start_time_EST == today) {
+				var game_day = nba_games[i].etm;
+					game_day = moment(game_day).format('YYYYMMDD');
+				if (game_day == today) {
 					var home = nba_games[i].h.tn;
 					var away = nba_games[i].v.tn;
 					var start = nba_games[i].etm;
+						start = start + '-04:00'; // EST timezone offset
 					var network = '';
 					var networks = nba_games[i].bd.b;
 					for (i in networks) {
