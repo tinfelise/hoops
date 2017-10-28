@@ -233,7 +233,10 @@
 			$(elem).countdown(timestamp)
 				.on('update.countdown', function(event) {
 					var timer = '';
-					if(event.offset.hours > 0) {
+					if(event.offset.hours > 5) {
+						timer = '<div>Later today</div>';
+						$(this).addClass('later');
+					} else if(event.offset.hours > 0) {
 						timer = '<div>In %-H hour%!H %-M minute%!M</div>';
 					} else if(event.offset.minutes > 15) {
 						timer = '<div>In %-M minute%!M</div>';

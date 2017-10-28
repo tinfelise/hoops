@@ -106,10 +106,12 @@ main {
 #gameFeed .gametime .game .data a {
 	display:block;
 }
-.gametime.now h2 {
+.block.now h2,
+.block.later h2 {
 	display:none;
 }
-.gametime.now:first-of-type h2 {
+.block.now:first-of-type h2,
+.block.later:first-of-type h2 {
 	display:block;
 }
 
