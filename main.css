@@ -102,12 +102,6 @@ main {
 #gameFeed .gametime .game .data a {
 	display:block;
 }
-.gametime.now h2 {
-	display:none;
-}
-.gametime.now:first-of-type h2 {
-	display:block;
-}
 
 #gameFeed .game .data a img {
 	height:1em;

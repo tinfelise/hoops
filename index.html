@@ -231,13 +231,12 @@
 						timer = '<div>In %-M minute%!M</div>';
 					} else {
 						timer = '<div>Starting soon</div>';
-						$(this).addClass('gametime');
+						$('.game', this).addClass('gametime');
 					};
 					$('.countdown', this).html(event.strftime(timer));
 				})
 				.on('finish.countdown', function(event) {
 					$('.countdown', this).html('<div>On now</div>');
-					$(this).addClass('gametime now');
 				});
 		};
 		function createCountdowns (selector) {
