@@ -7,6 +7,7 @@ html {
 	padding:0;
 	background-color: #fafafa;
 	color:#2e343b;
+	color: rgba(0,0,0,.75);
 }
 *, 
 *:before, 
@@ -16,14 +17,15 @@ html {
 a {
 	text-decoration: none;
 	white-space: nowrap;
-	color:blue;
+	color:#FF5F5A;
 	font-weight:bold;
 }
 a:hover {
-	color:black;
+	/*color:black;*/
+	text-shadow: 0px 0px 2em #555;
 }
 a:active {
-	color:green;
+	color:rgba(0,0,0,.75);
 }
 
 body {
