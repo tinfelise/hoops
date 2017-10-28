@@ -83,7 +83,7 @@ main {
 	height:6em;
 }
 #gameFeed .game .logos .home {
-	transform: translate(-1.25em);
+	transform: translate(-.5em);
 }
 #gameFeed .game .data {
 	flex-grow:1;
