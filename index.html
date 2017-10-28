@@ -211,6 +211,15 @@
 			games.push(game);
 		};
 
+		function orderGames () {
+			games = games.sort(function (a, b) {
+		    	return moment(a.start).format('x')
+		    		.localeCompare(
+		    			moment(b.start).format('x')
+					);
+			});
+		};
+
 		function createCountdown (elem, timestamp) {
 			$(elem).countdown(timestamp)
 				.on('update.countdown', function(event) {
