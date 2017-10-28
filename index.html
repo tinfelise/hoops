@@ -255,8 +255,6 @@
 			$(selector).each( function() {
 				var id = '#' + $(this).attr('id');
 				var timestamp = $(this).attr('data-timestamp');
-				console.log(id);
-				console.log(timestamp);
 				createCountdown(id, timestamp);
 			});
 		};
