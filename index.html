@@ -221,24 +221,46 @@
 		};
 
 		function createCountdown (elem, timestamp) {
+			$(elem).prepend('<h2 class="countdown"></h2>');
 			$(elem).countdown(timestamp)
 				.on('update.countdown', function(event) {
-					var format = '';
+					var timer = '';
 					if(event.offset.hours > 0) {
-						format = '<div>In %-H hour%!H</div> ';
+						timer = '<div>In %-H hour%!H %-M minute%!M</div>';
 					} else if(event.offset.minutes > 15) {
-						format = '<div>In %-M minute%!M</div> ';
+						timer = '<div>In %-M minute%!M</div>';
 					} else {
-						format = '<div>Starting soon</div>';
+						timer = '<div>Starting soon</div>';
+						$('.game', this).addClass('gametime');
 					};
-					$(this).html(event.strftime(format));
+					$('.countdown', this).html(event.strftime(timer));
 				})
 				.on('finish.countdown', function(event) {
-					$(this).html('LOC Chicken is currently open');
+					$('.countdown', this).html('<div>On now</div>');
 				});
+		};
+		function createCountdowns (selector) {
+			$(selector).each( function() {
+				var id = '#' + $(this).attr('id');
+				var timestamp = $(this).attr('data-timestamp');
+				console.log(id);
+				console.log(timestamp);
+				createCountdown(id, timestamp);
+			});
+		};
+
+		function reddit (league, home, away) {
+			var link = "";
+			if (league == "NBA") {
+				link = "https://www.reddit.com/r/nbastreams/search?q=";
+				link += home + "+" + away;
+				link += "&restrict_sr=on";
+			};
+			return link;
 		};
 
 		function createDailyFeed () {
+			var games_html = '';
 			for (i in games) {
 				var league_logo = league_logos[games[i].league];
 				var destination = '';
@@ -246,6 +268,7 @@
 				var network_logo = '';
 
 				if (games[i].network) {
+					var national = true;
 					var network = games[i].network;
 					destination = "Watch on " + games[i].network;
 					cta = networks[network].link;
@@ -259,7 +282,15 @@
 				var home_logo = nba_teams[games[i].home_team].logo;
 				var away_logo = nba_teams[games[i].away_team].logo;
 				var time = moment(games[i].start).format('h:mmA');
-				
+				var display_time = time;
+				var unix_time = moment(games[i].start).format('x');
+				var same_time_as_last = false;
+				if ( (i > 0) && ( time == moment(games[i-1].start).format('h:mmA') ) ) {
+					same_time_as_last = true;
+				};
+				if (national) {
+					display_time += " on " + network_logo;
+				};
 				
 				var html = ''
 					+ "<div class='game'>"
@@ -270,7 +301,7 @@
 						+ "<div class='data'>"
 							+ "<h3>" + games[i].away_team + " @ " + games[i].home_team + "</h3>"
 							// + "<div>"
-								+ "<span class='time'>" + time + "</span>"
+								+ "<span class='time'>" + display_time + "</span>"
 								+ "<a href='" + cta + "' target='blank_'>" 
 									+ "<img src='" + network_logo + "' >"
 									+ destination 
@@ -279,18 +310,21 @@
 						+ "</div>"
 						+ "<img class='leagueIcon' src='" + league_logo + "' alt='" + games[i].league + " logo'>"
 					+ "</div>";
-				$('#gameFeed').append(html);
-			};
-		};
 
-		function reddit (league, home, away) {
-			var link = "";
-			if (league == "NBA") {
-				link = "https://www.reddit.com/r/nbastreams/search?q=";
-				link += home + "+" + away;
-				link += "&restrict_sr=on";
+				var block_id = moment(games[i].start).format('hmmA') + '_start';
+				if (i==0) {
+					html = "<div class='block' id='" + block_id + "' data-timestamp='" + unix_time + "'>" + html;
+				} else if ( (i > 0) && (same_time_as_last == false) ) {
+					html = "</div>" + "<div class='block' id='" + block_id + "' data-timestamp='" + unix_time + "'>" + html;
+				};
+				if (i==games.length - 1) {
+					html += '</div>'
+				};
+				games_html += html;
 			};
-			return link;
+
+			$('#gameFeed').append(games_html);
+			createCountdowns('.block');
 		};
 
 		createDailyFeed();

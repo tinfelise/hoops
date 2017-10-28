@@ -54,13 +54,22 @@ main {
 }
 
 #gameFeed {}
+#gameFeed .block {}
+#gameFeed .block h2 {
+	margin:0;
+	padding:.5em 0;
+	position:sticky;
+	top:0;
+	background-color:rgba(255,255,255,.5);
+	z-index: 1;
+}
 #gameFeed .game {
 	display:flex;
 	align-items: center;
 	position: relative;
 	padding-bottom:2em;
 }
-#gameFeed .game:last-of-type {
+#gameFeed .block:last-of-type .game:last-of-type {
 	padding-bottom:0;
 }
 #gameFeed .game .logos {
@@ -80,12 +89,20 @@ main {
 }
 #gameFeed .game .data span,
 #gameFeed .game .data a {
-	display: inline-block;
-	width:50%;
+	display: block;
+	/*width:50%;*/
+	padding-top:.5em;
 }
 #gameFeed .game .data a {
-	text-align:right;
+	display:none;
 }
+#gameFeed .gametime .game .data span {
+	display:none;
+}
+#gameFeed .gametime .game .data a {
+	display:block;
+}
+
 #gameFeed .game .data a img {
 	height:1em;
 	display: inline-block;
@@ -93,9 +110,9 @@ main {
 }
 #gameFeed .game .leagueIcon {
 	height:2em;
-	position: absolute;
+	/*position: absolute;
     right: 0;
-    top: 0;
+    top: 0;*/
 }
 
 footer {
@@ -119,10 +136,17 @@ footer {
 @media only screen and (max-width: 650px) {
 	body {
 		margin:0;
-		border-radius: 0;
+	}
+	header, main, footer {
 		padding:1em;
+	}
+	header, footer {
+		border-radius: 0;
 	}
 	#gameFeed .game .logos img {
 		height:3em;
+	}
+	#madeBy {
+		margin-bottom:1em;
 	}
 }
