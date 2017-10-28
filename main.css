@@ -58,6 +58,10 @@ main {
 #gameFeed .block h2 {
 	margin:0;
 	padding:.5em 0;
+	position: -webkit-sticky;
+	position: -moz-sticky;
+	position: -ms-sticky;
+	position: -o-sticky;
 	position:sticky;
 	top:0;
 	background-color:rgba(255,255,255,.5);
