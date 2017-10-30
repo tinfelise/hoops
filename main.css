@@ -137,6 +137,7 @@ main {
 	display:block;
 }
 
+#gameFeed .game .data .time img,
 #gameFeed .game .data .action img {
 	height:1em;
 	display: inline-block;
