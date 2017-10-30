@@ -27,6 +27,11 @@ a:hover {
 a:active {
 	color:rgba(0,0,0,.75);
 }
+h1 span,
+h2 span,
+h3 span {
+	white-space: nowrap;
+}
 
 body {
 	font-family: 'Quicksand', sans-serif;
