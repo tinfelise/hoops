@@ -342,10 +342,9 @@
 		function testURLs() {
 			var currentURL = window.location.href;
 				currentURL = currentURL.split('?')[1];
-				if (currentURL) {
-					currentURL = currentURL.split('&');
-				};
-				// console.log(currentURL);
+			if (currentURL) {
+				currentURL = currentURL.split('&');
+			};
 			var parameters = {};
 			for (i in currentURL) {
 				var key = currentURL[i].split('=')[0];
@@ -353,9 +352,7 @@
 				parameters[key] = val;
 			};
 			console.log(parameters);
-			// if (parameters.test) {};
 			var test = parameters.test;
-			// console.log(test);
 			if (test) {
 				window[test]();
 			};
