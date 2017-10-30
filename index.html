@@ -291,7 +291,7 @@
 				};
 				
 				var html = ''
-					+ "<div class='game'>"
+					+ "<a class='game' href='" + cta + "' target='blank_'>"
 						+ "<div class='logos'>"
 							+ "<img class='away' src='" + away_logo + "' alt='" + games[i].away_team + " Logo'>"
 							+ "<img class='home' src='" + home_logo + "' alt='" + games[i].home_team + " Logo'>"
@@ -300,14 +300,14 @@
 							+ "<h3>" + games[i].away_team + " @ " + games[i].home_team + "</h3>"
 							// + "<div>"
 								+ "<span class='time'>" + display_time + "</span>"
-								+ "<a href='" + cta + "' target='blank_'>" 
+								+ "<span class='action'>" //href='" + cta + "' target='blank_'
 									+ "<img src='" + network_logo + "' >"
 									+ destination 
-								+ "</a>"
+								+ "</span>"
 							// + "</div>"
 						+ "</div>"
 						+ "<img class='leagueIcon' src='" + league_logo + "' alt='" + games[i].league + " logo'>"
-					+ "</div>";
+					+ "</a>";
 
 				var block_id = moment(games[i].start).format('hmmA') + '_start';
 				if (i==0) {

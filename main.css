@@ -17,12 +17,12 @@ html {
 a {
 	text-decoration: none;
 	white-space: nowrap;
-	color:#FF5F5A;
-	font-weight:bold;
+	/*color:#FF5F5A;
+	font-weight:bold;*/
 }
 a:hover {
 	/*color:black;*/
-	text-shadow: 0px 0px 2em #555;
+	/*text-shadow: 0px 0px 2em #555;*/
 }
 a:active {
 	color:rgba(0,0,0,.75);
@@ -73,10 +73,20 @@ main {
 	display:flex;
 	align-items: center;
 	position: relative;
-	padding-bottom:2em;
+	margin-bottom:2em;
+	color:inherit;
+	pointer-events: none;
+	cursor: default;
 }
+#gameFeed .game:hover {
+	box-shadow: 0 0 13px 0 #e0e0e0;
+}
+#gameFeed .game:active .data .action {
+	color:inherit;
+}
+
 #gameFeed .block:last-of-type .game:last-of-type {
-	padding-bottom:0;
+	margin-bottom:0;
 }
 #gameFeed .game .logos {
 	/*padding-right:1em;*/
@@ -93,20 +103,25 @@ main {
 #gameFeed .game .data h3 {
 	margin:0;
 }
-#gameFeed .game .data span,
-#gameFeed .game .data a {
+#gameFeed .game .data .time,
+#gameFeed .game .data .action {
 	display: block;
-	/*width:50%;*/
 	padding-top:.5em;
 }
-#gameFeed .game .data a {
+#gameFeed .game .data .action {
+	display:none;
+	color:#FF5F5A;
+	font-weight:bold;
+}
+#gameFeed .gametime .game {
+	pointer-events: auto;
+	cursor: auto;
+}
+#gameFeed .gametime .game .data .time {
 	display:none;
 }
-#gameFeed .gametime .game .data span {
-	display:none;
-}
-#gameFeed .gametime .game .data a {
-	display:block;
+#gameFeed .gametime .game .data .action {
+	display:flex;
 }
 .block.now h2,
 .block.later h2 {
@@ -117,13 +132,14 @@ main {
 	display:block;
 }
 
-#gameFeed .game .data a img {
+#gameFeed .game .data .action img {
 	height:1em;
 	display: inline-block;
 	padding-right:.5em;
 }
 #gameFeed .game .leagueIcon {
 	height:2em;
+	margin-right:1em;
 	/*position: absolute;
     right: 0;
     top: 0;*/
