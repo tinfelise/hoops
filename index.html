@@ -330,8 +330,6 @@
 			guess_timezone();
 		};
 
-		createDailyFeed();
-
 		function guess_timezone() {
 			var est_timezone = moment.tz.guess();
 			var est_timezone_abr = moment.tz(est_timezone).zoneName();
@@ -341,7 +339,31 @@
 		};
 
 		// Tests
-		function testNoGames () {
+		function testURLs() {
+			var currentURL = window.location.href;
+				currentURL = currentURL.split('?')[1];
+				if (currentURL) {
+					currentURL = currentURL.split('&');
+				};
+				// console.log(currentURL);
+			var parameters = {};
+			for (i in currentURL) {
+				var key = currentURL[i].split('=')[0];
+				var val = currentURL[i].split('=')[1];
+				parameters[key] = val;
+			};
+			console.log(parameters);
+			// if (parameters.test) {};
+			var test = parameters.test;
+			// console.log(test);
+			if (test) {
+				window[test]();
+			};
+			createDailyFeed();
+		};
+		testURLs();
+
+		function noGames () {
 			games = [];
 		}
 
