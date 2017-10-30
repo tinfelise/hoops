@@ -259,6 +259,10 @@
 
 		function createDailyFeed () {
 			var games_html = '';
+			if (games.length == 0) {
+				games_html = '<h2 id="noGames">There are no games today. <span>Stay strong.</span></h2>';
+				$('footer div').hide();
+			};
 			for (i in games) {
 				var league_logo = league_logos[games[i].league];
 				var destination = '';
@@ -331,7 +335,9 @@
 		function guess_timezone() {
 			var est_timezone = moment.tz.guess();
 			var est_timezone_abr = moment.tz(est_timezone).zoneName();
-			$('#timezone').append(est_timezone_abr);
+			if (games.length > 0) {
+				$('#timezone').append(est_timezone_abr);
+			};
 		};
 
 		// Tests

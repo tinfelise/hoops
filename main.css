@@ -158,6 +158,13 @@ footer {
 #madeBy img {
 	height:1em;
 }
+#noGames {
+	margin:0;
+}
+#noGames span {
+	display: block;
+	font-weight: 100;
+}
 
 
 
