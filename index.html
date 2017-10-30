@@ -323,14 +323,21 @@
 
 			$('#gameFeed').append(games_html);
 			createCountdowns('.block');
+			guess_timezone();
 		};
 
 		createDailyFeed();
 
-		var est_timezone = moment.tz.guess();
-		var est_timezone_abr = moment.tz(est_timezone).zoneName();
-		// moment(now).tz('America/New_York').format('h:mmA z');
-		$('#timezone').append(est_timezone_abr);
+		function guess_timezone() {
+			var est_timezone = moment.tz.guess();
+			var est_timezone_abr = moment.tz(est_timezone).zoneName();
+			$('#timezone').append(est_timezone_abr);
+		};
+
+		// Tests
+		function testNoGames () {
+			games = [];
+		}
 
 	</script>
 
