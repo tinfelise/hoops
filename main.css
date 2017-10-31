@@ -14,6 +14,30 @@ html {
 *:after {
 	box-sizing: inherit;
 }
+input, 
+label,
+a,
+header {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition:    all 0.2s ease-in-out;
+	-ms-transition:     all 0.2s ease-in-out;
+	-o-transition:      all 0.2s ease-in-out;
+	transition:         all 0.2s ease-in-out;
+}
+a,
+button,
+input[type='radio'],
+input[type='radio'] + label,
+input[type='checkbox'],
+input[type='checkbox'] + label {
+	cursor: pointer;
+}
+input:focus, 
+select:focus, 
+textarea:focus, 
+button:focus {
+    outline: none;
+}
 a {
 	text-decoration: none;
 	white-space: nowrap;
