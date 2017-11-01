@@ -63,7 +63,7 @@ body {
 	margin: 2em auto;
 	/*padding:2em;*/
 	/*border-radius: .25em;*/
-	max-width:650px;
+	max-width:700px;
 }
 
 header,
@@ -74,6 +74,7 @@ footer {
 }
 header {
 	border-radius: .25em .25em 0 0;
+	/*padding-top:3em;*/
 	padding-bottom:1em;
 }
 header h1 {
@@ -82,10 +83,11 @@ header h1 {
 main {
 	padding-top:0;
 	padding-bottom:0;
-	min-height:75vh;
 }
 
-#gameFeed {}
+#gameFeed {
+	min-height:50vh;
+}
 #gameFeed .block {}
 #gameFeed .block h2 {
 	margin:0;
@@ -107,6 +109,7 @@ main {
 	color:inherit;
 	pointer-events: none;
 	cursor: default;
+	border-radius:.25em;
 }
 #gameFeed .game:hover {
 	box-shadow: 0 0 13px 0 #e0e0e0;
@@ -201,12 +204,13 @@ footer {
 
 
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 700px) {
 	body {
 		margin:0;
 	}
 	header, main, footer {
-		padding:1em;
+		padding-left: 1em;
+		padding-right: 1em;
 	}
 	header, footer {
 		border-radius: 0;
@@ -220,7 +224,7 @@ footer {
 }
 
 @media only screen and (max-width: 700px) and (orientation:landscape) {
-	main {
-		min-height:45vh;
+	#gameFeed {
+		/*min-height:45vh;*/
 	}
 }
