@@ -284,11 +284,11 @@
 				
 				var home_logo = nba_teams[games[i].home_team].logo;
 				var away_logo = nba_teams[games[i].away_team].logo;
-				var time = moment(games[i].start).format('h:mmA');
+				var time = moment(games[i].start).format('h:mma');
 				var display_time = time;
 				var unix_time = moment(games[i].start).format('x');
 				var same_time_as_last = false;
-				if ( (i > 0) && ( time == moment(games[i-1].start).format('h:mmA') ) ) {
+				if ( (i > 0) && ( time == moment(games[i-1].start).format('h:mma') ) ) {
 					same_time_as_last = true;
 				};
 				if (national) {
