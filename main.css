@@ -135,6 +135,7 @@ main {
 }
 #gameFeed .game .data h3 {
 	margin:0;
+	white-space: normal;
 }
 #gameFeed .game .data .time,
 #gameFeed .game .data .action {
