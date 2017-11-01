@@ -268,11 +268,12 @@
 				var destination = '';
 				var cta = '';
 				var network_logo = '';
+				var national = false;
 
 				if (games[i].network) {
-					var national = true;
+					national = true;
 					var network = games[i].network;
-					destination = "Watch on " + games[i].network;
+					destination = "Watch on " + network;
 					cta = networks[network].link;
 					network_logo = networks[network].logo;
 				} else {
