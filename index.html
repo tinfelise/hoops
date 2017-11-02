@@ -366,18 +366,65 @@
 				var val = currentURL[i].split('=')[1];
 				parameters[key] = val;
 			};
-			console.log(parameters);
 			var test = parameters.test;
 			if (test) {
-				window[test]();
+				test = test.split('(')[0];
+				console.log(test);
+				var input = test.split('(')[1];
+				if (input) {
+					input = input.split(')')[0];
+					console.log('with input: ' + input);
+				};
+				window[test](input);
 			};
-			createDailyFeed();
+			if (test != 'notLoading') {
+				createDailyFeed();
+			};
 		};
 		testURLs();
 
 		function noGames () {
 			games = [];
 		}
+		function NBAVariety () {
+			games = [];
+			var second = 1000;
+			var minute = second*60;
+			var hour = minute*60;
+
+			games = [
+				{
+					"league":"NBA",
+					"home_team":"Warriors",
+					"away_team":"Rockets",
+					"start": moment().format('MMM DD YYYY hh:mm:ss'),
+					"network":""
+				},
+				{
+					"league":"NBA",
+					"home_team":"Timberwolves",
+					"away_team":"Trail Blazers",
+					"start": moment( now + (minute*15) + (second*3) ).format('MMM DD YYYY hh:mm:ss'),
+					"network":"ESPN"
+				},
+				{
+					"league":"NBA",
+					"home_team":"Thunder",
+					"away_team":"Pelicans",
+					"start": moment( now + (hour*1) ).format('MMM DD YYYY hh:mm:ss'),
+					// "start":"Oct 22 2017 17:30:00 PDT",
+					"network":"TNT"	
+				},
+				{
+					"league":"NBA",
+					"home_team":"Knicks",
+					"away_team":"Lakers",
+					"start": moment( now + (hour*2) ).format('MMM DD YYYY hh:mm:ss'),
+					"network":""	
+				}
+			];
+		};
+		function notLoading() {};
 
 	</script>
 
