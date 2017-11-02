@@ -209,13 +209,19 @@
 			});
 		};
 
-		function createCountdown (elem, timestamp) {
+		function createCountdown (elem, unix_timestamp) {
+			var hour = moment(unix_timestamp, 'x').format('H');
+			var time_of_day = 'today';
+			if (hour > 16) {
+				time_of_day = 'tonight';
+			};
+
 			$(elem).prepend('<h2 class="countdown"></h2>');
-			$(elem).countdown(timestamp)
+			$(elem).countdown(unix_timestamp)
 				.on('update.countdown', function(event) {
 					var timer = '';
 					if(event.offset.hours > 5) {
-						timer = '<div>Later today</div>';
+						timer = '<div>Later ' + time_of_day + '</div>';
 						$(this).addClass('later');
 					} else if(event.offset.hours > 0) {
 						timer = '<div>In %-H hour%!H %-M minute%!M</div>';
