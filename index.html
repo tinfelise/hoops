@@ -60,17 +60,16 @@
 		var now = new Date();
 			now = now.getTime();
 		var today = moment(now).format('YYYYMMDD');
-		var month = moment(now).format('MMMM');
 
 		var games = [];
 
-		function filterNBAData () {
-			nba = nba.lscd;
+		function filterNBAData (date) {
+			games = [];
 			var x = 0;
 			var nba_games = [];
 			
-			for (i in nba) {
-				var month_games = nba[i].mscd;
+			for (i in nba.lscd) {
+				var month_games = nba.lscd[i].mscd;
 				for (each in month_games.g) {
 					nba_games[x] = month_games.g[each];
 					x++;
@@ -80,7 +79,7 @@
 			for (i in nba_games) {
 				var game_day = nba_games[i].etm;
 					game_day = moment(game_day).format('YYYYMMDD');
-				if (game_day == today) {
+				if (game_day == date) {
 					var home = nba_games[i].h.tn;
 					var away = nba_games[i].v.tn;
 					var start = nba_games[i].etm;
@@ -96,7 +95,7 @@
 				}
 			};
 		};
-		filterNBAData();
+		filterNBAData(today);
 
 		// var nba_schedule_url = "https://api.mysportsfeeds.com/v1.1/pull/nba/2017-2018-current/daily_game_schedule.json?fordate=" + today;
 			// nba_schedule_url = "https://api.mysportsfeeds.com/v1.1/pull/nba/current/daily_game_schedule.json?fordate=" + today; // trying not to specify the season
@@ -350,13 +349,12 @@
 			};
 			var test = parameters.test;
 			if (test) {
-				test = test.split('(')[0];
-				console.log(test);
 				var input = test.split('(')[1];
 				if (input) {
 					input = input.split(')')[0];
 					console.log('with input: ' + input);
 				};
+				test = test.split('(')[0];
 				window[test](input);
 			};
 			if (test != 'notLoading') {
@@ -367,7 +365,7 @@
 
 		function noGames () {
 			games = [];
-		}
+		};
 		function NBAVariety () {
 			games = [];
 			var second = 1000;
@@ -405,6 +403,10 @@
 					"network":""	
 				}
 			];
+		};
+		function changeDate(date) {
+			filterNBAData(date);
+			console.log(date);
 		};
 		function notLoading() {};
 
