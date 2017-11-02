@@ -45,7 +45,6 @@
 		<div id='madeBy'>Made with <img src='https://cdn.worldvectorlogo.com/logos/dribbble-icon-1.svg' alt='love'> by Tyler Infelise.</div>	
 	</footer>
 	
-
 	<!-- Libraries -->
 	<script src="https://use.fontawesome.com/1727fd84aa.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -63,24 +62,8 @@
 		var today = moment(now).format('YYYYMMDD');
 		var month = moment(now).format('MMMM');
 
-		var games = [
-			// {
-			// 	"league":"NBA",
-			// 	"home_team":"Warriors",
-			// 	"away_team":"Rockets",
-			// 	"start":"Oct 22 2017 16:00:00 PDT",
-			// 	"network":""
-			// },
-			// {
-			// 	"league":"NBA",
-			// 	"home_team":"Thunder",
-			// 	"away_team":"Pelicans",
-			// 	"start":"Oct 22 2017 17:30:00 PDT",
-			// 	"network":"TNT"	
-			// }
-		];
+		var games = [];
 
-		// var todays_NBA_games = [];
 		function filterNBAData () {
 			nba = nba.lscd;
 			var x = 0;
@@ -109,7 +92,6 @@
 							network = networks[i].disp;
 						};
 					};
-					// todays_NBA_games.push(home);
 					createGame('NBA', home, away, start, network);
 				}
 			};
