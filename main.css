@@ -254,6 +254,8 @@ svg path {
 	body {
 		margin:0;
 		padding: 2em 1em;
+		padding-left: env(safe-area-inset-left);
+    	padding-right: env(safe-area-inset-right);
 		/*box-shadow: none;*/
 	}
 	header, main, footer {
@@ -268,6 +270,15 @@ svg path {
 	}
 	#madeBy {
 		margin-bottom:1em;
+	}
+}
+
+@supports(padding: max(0px)) {
+	@media only screen and (max-width: 700px) {
+	    body {
+	        padding-left: max(1em, env(safe-area-inset-left));
+	        padding-right: max(1em, env(safe-area-inset-right));
+	    }
 	}
 }
 
