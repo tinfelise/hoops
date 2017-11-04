@@ -272,13 +272,15 @@
 				if (games[i].network) {
 					national = true;
 					var network = games[i].network;
-					destination = "Watch on " + network;
 					cta = networks[network].link;
 					network_logo = networks[network].logo;
+					destination = "Watch on <img src='" + network_logo + "' alt='" +  network +"'>";
 				} else {
-					destination = "Search on Reddit";
+					// destination = "Search on Reddit";
 					cta = reddit(games[i].league,games[i].home_team,games[i].away_team);
-					network_logo = 'http://svgshare.com/i/2SL.svg';
+					// network_logo = 'http://svgshare.com/i/2SL.svg';
+					network_logo = 'https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/1024px-Reddit_logo_and_wordmark.svg.png';
+					destination = "Search on <img src='" + network_logo +"' alt='Reddit'>";
 				}
 				
 				var home_logo = nba_teams[games[i].home_team].logo;
