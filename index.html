@@ -343,7 +343,7 @@
 		};
 
 		// Tests
-		function testURLs() {
+		function parseURLs() {
 			var currentURL = window.location.href;
 				currentURL = currentURL.split('?')[1];
 			if (currentURL) {
@@ -355,7 +355,12 @@
 				var val = currentURL[i].split('=')[1];
 				parameters[key] = val;
 			};
-			var test = parameters.test;
+			check_for_tests(parameters);
+		};
+		parseURLs();
+
+		function check_for_tests (obj) {
+			var test = obj.test;
 			if (test) {
 				var input = test.split('(')[1];
 				if (input) {
@@ -369,7 +374,7 @@
 				createDailyFeed();
 			};
 		};
-		testURLs();
+
 
 		function noGames () {
 			games = [];
