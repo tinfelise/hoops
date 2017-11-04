@@ -165,7 +165,7 @@ main {
 	display:none;
 }
 #gameFeed .gametime .game .data .action {
-	display:flex;
+	display:block;
 }
 .block.now h2,
 .block.later h2 {
@@ -180,7 +180,7 @@ main {
 #gameFeed .game .data .action img {
 	height:1em;
 	display: inline-block;
-	padding-right:.5em;
+	padding-left:.5em;
 }
 #gameFeed .game .leagueIcon {
 	height:2em;
