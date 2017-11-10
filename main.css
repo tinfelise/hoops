@@ -265,6 +265,9 @@ svg path {
 	header, footer {
 		border-radius: 0;
 	}
+	#gameFeed .game {
+		padding: .5em 0;
+	}
 	#gameFeed .game .logos img {
 		height:3em;
 	}
