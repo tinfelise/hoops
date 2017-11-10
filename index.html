@@ -78,8 +78,14 @@
 				var game_day = nba_games[i].etm;
 					game_day = moment(game_day).format('YYYYMMDD');
 				if (game_day == date) {
-					var home = nba_games[i].h.tn;
-					var away = nba_games[i].v.tn;
+					var home = {};
+						home.team = nba_games[i].h.tn;
+						home.logo = nba_teams[home.team].logo;
+						home.color = nba_teams[home.team].color;
+					var away = {};
+						away.team = nba_games[i].v.tn;
+						away.logo = nba_teams[away.team].logo;
+						away.color = nba_teams[away.team].color;
 					var start = nba_games[i].etm;
 						start = start + '-04:00'; // EST timezone offset
 					var network = '';
@@ -189,8 +195,8 @@
 		function createGame(league, home, away, start, network, division, conference) {
 			var game = {};
 			game.league = league;
-			game.home_team = home;
-			game.away_team = away;
+			game.home = home;
+			game.away = away;
 			game.start = start;
 			if (network) {
 				game.network = network;
@@ -281,14 +287,16 @@
 					destination = "Watch on <img src='" + network_logo + "' alt='" +  network +"'>";
 				} else {
 					// destination = "Search on Reddit";
-					cta = reddit(games[i].league,games[i].home_team,games[i].away_team);
+					cta = reddit(games[i].league,games[i].home.team,games[i].away.team);
 					// network_logo = 'http://svgshare.com/i/2SL.svg';
 					network_logo = 'https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/1024px-Reddit_logo_and_wordmark.svg.png';
 					destination = "Search on <img src='" + network_logo +"' alt='Reddit'>";
 				}
 				
-				var home_logo = nba_teams[games[i].home_team].logo;
-				var away_logo = nba_teams[games[i].away_team].logo;
+				// if (games[i].league == 'NBA') {
+				// 	var home_logo = nba_teams[games[i].home_team].logo;
+				// 	var away_logo = nba_teams[games[i].away_team].logo;
+				// };
 				var time = moment(games[i].start).format('h:mma');
 				var display_time = time;
 				var unix_time = moment(games[i].start).format('x');
@@ -302,12 +310,23 @@
 				
 				var html = ''
 					+ "<a class='game' href='" + cta + "' target='blank_'>"
-						+ "<div class='logos'>"
-							+ "<img class='away' src='" + away_logo + "' alt='" + games[i].away_team + " Logo'>"
-							+ "<img class='home' src='" + home_logo + "' alt='" + games[i].home_team + " Logo'>"
-						+ "</div>"
+						+ "<div class='logos'>";
+
+					if (games[i].away.logo) {
+						html += "<img class='away' src='" + games[i].away.logo + "' alt='" + games[i].away.team + " Logo'>";
+					} else {
+						html += "<div style='background-color:" + games[i].away.color + "'>" + games[i].away.team.slice(0,1) + "</div>";
+					};
+
+					if (games[i].home.logo) {
+						html += "<img class='home' src='" + games[i].home.logo + "' alt='" + games[i].home.team + " Logo'>"
+					} else {
+						html += "<div style='background-color:" + games[i].home.color + "'>" + games[i].home.team.slice(0,1) + "</div>";
+					};
+					
+					html += "</div>"
 						+ "<div class='data'>"
-							+ "<h3>" + games[i].away_team + " @ " + games[i].home_team + "</h3>"
+							+ "<h3>" + games[i].away.team + " @ " + games[i].home.team + "</h3>"
 							// + "<div>"
 								+ "<span class='time'>" + display_time + "</span>"
 								+ "<span class='action'>" //href='" + cta + "' target='blank_'
@@ -392,30 +411,62 @@
 			games = [
 				{
 					"league":"NBA",
-					"home_team":"Warriors",
-					"away_team":"Rockets",
+					"home": {
+						"team":"Warriors",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/GSW.svg",
+						"color":"#003DA5"
+					},
+					"away": {
+						"team":"Rockets",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/HOU.svg",
+						"color":"#BA0C2F"
+					},
 					"start": moment().format('MMM DD YYYY hh:mm:ss'),
 					"network":""
 				},
 				{
 					"league":"NBA",
-					"home_team":"Timberwolves",
-					"away_team":"Trail Blazers",
+					"home": {
+						"team":"Timberwolves",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/MIN.svg",
+						"color":"#002B5C"
+					},
+					"away": {
+						"team":"Trail Blazers",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/POR.svg",
+						"color":"#F0163A"
+					},
 					"start": moment( now + (minute*15) + (second*3) ).format('MMM DD YYYY hh:mm:ss'),
 					"network":"ESPN"
 				},
 				{
 					"league":"NBA",
-					"home_team":"Thunder",
-					"away_team":"Pelicans",
+					"home":{
+						"team":"Thunder",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/OKC.svg",
+						"color":"#007DC3"
+					},
+					"away": {
+						"team":"Pelicans",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/NOP.svg",
+						"color":"#002B5C"
+					},
 					"start": moment( now + (hour*1) ).format('MMM DD YYYY hh:mm:ss'),
 					// "start":"Oct 22 2017 17:30:00 PDT",
 					"network":"TNT"	
 				},
 				{
 					"league":"NBA",
-					"home_team":"Knicks",
-					"away_team":"Lakers",
+					"home":{
+						"team":"Knicks",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/NYK.svg",
+						"color":"#003DA5"
+					},
+					"away":{
+						"team":"Lakers",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/LAL.svg",
+						"color":"#702F8A"
+					},
 					"start": moment( now + (hour*2) ).format('MMM DD YYYY hh:mm:ss'),
 					"network":""	
 				}
