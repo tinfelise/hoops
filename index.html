@@ -186,7 +186,7 @@
 			}
 		};
 
-		function createGame(league, home, away, start, network) {
+		function createGame(league, home, away, start, network, division, conference) {
 			var game = {};
 			game.league = league;
 			game.home_team = home;
@@ -194,6 +194,12 @@
 			game.start = start;
 			if (network) {
 				game.network = network;
+			};
+			if (division) {
+				game.division = division;
+			};
+			if (conference) {
+				game.conference = conference;
 			};
 			games.push(game);
 		};
