@@ -103,7 +103,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -192,7 +192,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -267,7 +267,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -395,7 +395,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -477,7 +477,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -657,14 +657,14 @@ var nba = {
             "ptsls": {
               "pl": [
                 {
-                  "pid": "1627768",
-                  "fn": "Perry",
-                  "ln": "Ellis",
-                  "val": "19",
-                  "tid": 15015,
-                  "ta": "SYD",
-                  "tn": "Kings",
-                  "tc": "Sydney"
+                  "pid": "203918",
+                  "fn": "Rodney",
+                  "ln": "Hood",
+                  "val": "20",
+                  "tid": 1610612762,
+                  "ta": "UTA",
+                  "tn": "Jazz",
+                  "tc": "Utah"
                 }
               ]
             },
@@ -766,7 +766,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -956,7 +956,7 @@ var nba = {
                   "pid": "203076",
                   "fn": "Anthony",
                   "ln": "Davis",
-                  "val": "22",
+                  "val": "24",
                   "tid": 1610612740,
                   "ta": "NOP",
                   "tn": "Pelicans",
@@ -984,7 +984,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -1059,7 +1059,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -1141,7 +1141,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -1168,7 +1168,7 @@ var nba = {
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": "70"
+              "s": "84"
             },
             "h": {
               "tid": 1610612746,
@@ -1176,7 +1176,7 @@ var nba = {
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": "86"
+              "s": "98"
             },
             "gweek": null,
             "gdtutc": "2017-10-04",
@@ -1291,7 +1291,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -1676,7 +1676,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -1758,7 +1758,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -1887,7 +1887,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -2015,7 +2015,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -2090,7 +2090,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -2672,7 +2672,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -2771,7 +2771,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -2876,6 +2876,16 @@ var nba = {
             "ptsls": {
               "pl": [
                 {
+                  "pid": "203810",
+                  "fn": "Casper",
+                  "ln": "Ware Jr.",
+                  "val": "22",
+                  "tid": 15016,
+                  "ta": "MEL",
+                  "tn": "United",
+                  "tc": "Melbourne"
+                },
+                {
                   "pid": "202331",
                   "fn": "Paul",
                   "ln": "George",
@@ -2907,7 +2917,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -3523,7 +3533,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -3598,7 +3608,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -3884,7 +3894,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -4780,7 +4790,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -4855,7 +4865,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -5209,7 +5219,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -6325,7 +6335,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -6400,7 +6410,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -6667,7 +6677,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "TSN",
+                  "disp": "TSN1/3",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -6756,7 +6766,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -7084,20 +7094,27 @@ var nba = {
                 },
                 {
                   "seq": 2,
+                  "disp": "TSN2",
+                  "scope": "can",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 3,
                   "disp": "TNT-SAP",
                   "scope": "span",
                   "type": "tv",
                   "lan": "Spanish"
                 },
                 {
-                  "seq": 3,
+                  "seq": 4,
                   "disp": "710 AM ESPN / 1330 AM ESPN DEPORTES",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 4,
+                  "seq": 5,
                   "disp": "AM 570 LA Sports",
                   "scope": "away",
                   "type": "radio",
@@ -7337,7 +7354,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -7949,7 +7966,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -8509,14 +8526,14 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -8824,7 +8841,7 @@ var nba = {
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": "96"
+              "s": "95"
             },
             "gweek": 1,
             "gdtutc": "2017-10-22",
@@ -8864,7 +8881,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -8885,7 +8902,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -9056,7 +9073,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -9384,7 +9401,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -9616,7 +9633,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -9876,7 +9893,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -9986,20 +10003,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "ESPN 580 / Salsa 98.1 FM (ESP)",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WFAN",
                   "scope": "away",
                   "type": "radio",
@@ -10228,7 +10238,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -10400,8 +10410,8 @@ var nba = {
             "an": "Spectrum Center",
             "ac": "Charlotte",
             "as": "NC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10436,24 +10446,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "1-3",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "93"
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "2-2",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "110"
             },
             "gweek": 2,
             "gdtutc": "2017-10-25",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626163",
+                  "fn": "Frank",
+                  "ln": "Kaminsky",
+                  "val": "20",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -10468,8 +10492,8 @@ var nba = {
             "an": "Little Caesars Arena",
             "ac": "Detroit",
             "as": "MI",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10504,24 +10528,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "2-3",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "3-2",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "122"
             },
             "gweek": 2,
             "gdtutc": "2017-10-25",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202699",
+                  "fn": "Tobias",
+                  "ln": "Harris",
+                  "val": "34",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -10536,8 +10574,8 @@ var nba = {
             "an": "Wells Fargo Center",
             "ac": "Philadelphia",
             "as": "PA",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10556,7 +10594,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "TSN2",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -10572,24 +10610,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "4-1",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "105"
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "1-4",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "104"
             },
             "gweek": 2,
             "gdtutc": "2017-10-25",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201569",
+                  "fn": "Eric",
+                  "ln": "Gordon",
+                  "val": "29",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -10604,8 +10656,8 @@ var nba = {
             "an": "Barclays Center",
             "ac": "Brooklyn",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10647,24 +10699,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "3-2",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "107"
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "3-2",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "112"
             },
             "gweek": 2,
             "gdtutc": "2017-10-25",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "2544",
+                  "fn": "LeBron",
+                  "ln": "James",
+                  "val": "29",
+                  "tid": 1610612739,
+                  "ta": "CLE",
+                  "tn": "Cavaliers",
+                  "tc": "Cleveland"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -10679,8 +10745,8 @@ var nba = {
             "an": "AmericanAirlines Arena",
             "ac": "Miami",
             "as": "FL",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10722,24 +10788,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "4-0",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "117"
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "2-2",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "100"
             },
             "gweek": 2,
             "gdtutc": "2017-10-26",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "200746",
+                  "fn": "LaMarcus",
+                  "ln": "Aldridge",
+                  "val": "31",
+                  "tid": 1610612759,
+                  "ta": "SAS",
+                  "tn": "Spurs",
+                  "tc": "San Antonio"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -10754,8 +10834,8 @@ var nba = {
             "an": "Chesapeake Energy Arena",
             "ac": "Oklahoma City",
             "as": "OK",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10790,24 +10870,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "2-3",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "96"
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "2-2",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "114"
             },
             "gweek": 2,
             "gdtutc": "2017-10-26",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203506",
+                  "fn": "Victor",
+                  "ln": "Oladipo",
+                  "val": "35",
+                  "tid": 1610612754,
+                  "ta": "IND",
+                  "tn": "Pacers",
+                  "tc": "Indiana"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -10822,8 +10916,8 @@ var nba = {
             "an": "American Airlines Center",
             "ac": "Dallas",
             "as": "TX",
-            "st": "1",
-            "stt": "8:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10835,7 +10929,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -10858,24 +10952,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "3-1",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-4",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "103"
             },
             "gweek": 2,
             "gdtutc": "2017-10-26",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201188",
+                  "fn": "Marc",
+                  "ln": "Gasol",
+                  "val": "26",
+                  "tid": 1610612763,
+                  "ta": "MEM",
+                  "tn": "Grizzlies",
+                  "tc": "Memphis"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -10890,8 +10998,8 @@ var nba = {
             "an": "Talking Stick Resort Arena",
             "ac": "Phoenix",
             "as": "AZ",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -10926,24 +11034,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "2-3",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "88"
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "2-3",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "97"
             },
             "gweek": 2,
             "gdtutc": "2017-10-26",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203933",
+                  "fn": "TJ",
+                  "ln": "Warren",
+                  "val": "27",
+                  "tid": 1610612756,
+                  "ta": "PHX",
+                  "tn": "Suns",
+                  "tc": "Phoenix"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -10958,8 +11080,8 @@ var nba = {
             "an": "ORACLE Arena",
             "ac": "Oakland",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11001,24 +11123,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "2-2",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "112"
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "3-2",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "117"
             },
             "gweek": 2,
             "gdtutc": "2017-10-26",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201939",
+                  "fn": "Stephen",
+                  "ln": "Curry",
+                  "val": "30",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 9
           },
           {
@@ -11033,8 +11169,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11076,24 +11212,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "3-1",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "2-2",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "102"
             },
             "gweek": 2,
             "gdtutc": "2017-10-26",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203078",
+                  "fn": "Bradley",
+                  "ln": "Beal",
+                  "val": "28",
+                  "tid": 1610612764,
+                  "ta": "WAS",
+                  "tn": "Wizards",
+                  "tc": "Washington"
+                }
+              ]
+            },
             "seq": 10
           },
           {
@@ -11108,8 +11258,8 @@ var nba = {
             "an": "United Center",
             "ac": "Chicago",
             "as": "IL",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11144,24 +11294,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "1-4",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "86"
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "1-3",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "91"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201158",
+                  "fn": "Marco",
+                  "ln": "Belinelli",
+                  "val": "23",
+                  "tid": 1610612737,
+                  "ta": "ATL",
+                  "tn": "Hawks",
+                  "tc": "Atlanta"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -11176,13 +11340,13 @@ var nba = {
             "an": "FedExForum",
             "ac": "Memphis",
             "as": "TN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -11212,24 +11376,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-5",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "91"
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "4-1",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "96"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201188",
+                  "fn": "Marc",
+                  "ln": "Gasol",
+                  "val": "25",
+                  "tid": 1610612763,
+                  "ta": "MEM",
+                  "tn": "Grizzlies",
+                  "tc": "Memphis"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -11244,8 +11422,8 @@ var nba = {
             "an": "UW-Milwaukee Panther Arena",
             "ac": "Milwaukee",
             "as": "WI",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11257,27 +11435,20 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 3,
                   "disp": "TNT-SAP",
                   "scope": "span",
                   "type": "tv",
                   "lan": "Spanish"
                 },
                 {
-                  "seq": 4,
+                  "seq": 3,
                   "disp": "AM 620 WTMJ",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "100.7 WZLX",
                   "scope": "away",
                   "type": "radio",
@@ -11287,24 +11458,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "3-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "96"
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "3-2",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "89"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203507",
+                  "fn": "Giannis",
+                  "ln": "Antetokounmpo",
+                  "val": "28",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -11319,8 +11504,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11355,24 +11540,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "4-0",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "3-2",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "103"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201933",
+                  "fn": "Blake",
+                  "ln": "Griffin",
+                  "val": "25",
+                  "tid": 1610612746,
+                  "ta": "LAC",
+                  "tn": "Clippers",
+                  "tc": "LA"
+                },
+                {
+                  "pid": "203081",
+                  "fn": "Damian",
+                  "ln": "Lillard",
+                  "val": "25",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -11387,8 +11596,8 @@ var nba = {
             "an": "Golden 1 Center",
             "ac": "Sacramento",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11430,24 +11639,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "2-3",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "114"
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "1-4",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "106"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202326",
+                  "fn": "DeMarcus",
+                  "ln": "Cousins",
+                  "val": "41",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -11462,8 +11685,8 @@ var nba = {
             "an": "Spectrum Center",
             "ac": "Charlotte",
             "as": "NC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11491,24 +11714,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "5-1",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "109"
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "2-3",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "93"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201935",
+                  "fn": "James",
+                  "ln": "Harden",
+                  "val": "27",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -11523,8 +11760,8 @@ var nba = {
             "an": "Amway Center",
             "ac": "Orlando",
             "as": "FL",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11559,24 +11796,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "4-1",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "87"
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "4-1",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "114"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203095",
+                  "fn": "Evan",
+                  "ln": "Fournier",
+                  "val": "25",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -11591,8 +11842,8 @@ var nba = {
             "an": "Philips Arena",
             "ac": "Atlanta",
             "as": "GA",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11627,24 +11878,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "2-3",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "105"
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "1-5",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "100"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203471",
+                  "fn": "Dennis",
+                  "ln": "Schroder",
+                  "val": "20",
+                  "tid": 1610612737,
+                  "ta": "ATL",
+                  "tn": "Hawks",
+                  "tc": "Atlanta"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -11659,8 +11924,8 @@ var nba = {
             "an": "Madison Square Garden",
             "ac": "New York",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11695,24 +11960,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "3-3",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "86"
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "1-3",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "107"
             },
             "gweek": 2,
             "gdtutc": "2017-10-27",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "204001",
+                  "fn": "Kristaps",
+                  "ln": "Porzingis",
+                  "val": "30",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -11727,13 +12006,13 @@ var nba = {
             "an": "Target Center",
             "ac": "Minneapolis",
             "as": "MN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -11754,20 +12033,13 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 5,
                   "disp": "830 WCCO",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 6,
+                  "seq": 5,
                   "disp": "WWLS 98.1FM OKC",
                   "scope": "away",
                   "type": "radio",
@@ -11777,24 +12049,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "2-3",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "116"
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "3-3",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "119"
             },
             "gweek": 2,
             "gdtutc": "2017-10-28",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626157",
+                  "fn": "Karl-Anthony",
+                  "ln": "Towns",
+                  "val": "33",
+                  "tid": 1610612750,
+                  "ta": "MIN",
+                  "tn": "Timberwolves",
+                  "tc": "Minnesota"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -11809,13 +12095,13 @@ var nba = {
             "an": "ORACLE Arena",
             "ac": "Oakland",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -11852,24 +12138,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "3-2",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "117"
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "4-2",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "120"
             },
             "gweek": 2,
             "gdtutc": "2017-10-28",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201142",
+                  "fn": "Kevin",
+                  "ln": "Durant",
+                  "val": "31",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -11884,8 +12184,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11927,24 +12227,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "3-2",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "2-3",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "92"
             },
             "gweek": 2,
             "gdtutc": "2017-10-28",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201942",
+                  "fn": "DeMar",
+                  "ln": "DeRozan",
+                  "val": "24",
+                  "tid": 1610612761,
+                  "ta": "TOR",
+                  "tn": "Raptors",
+                  "tc": "Toronto"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -11959,8 +12273,8 @@ var nba = {
             "an": "Smoothie King Center",
             "ac": "New Orleans",
             "as": "LA",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -11979,20 +12293,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "WRNO 99.5FM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
                   "scope": "away",
                   "type": "radio",
@@ -12002,24 +12309,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "3-3",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "3-3",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "123"
             },
             "gweek": 2,
             "gdtutc": "2017-10-28",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203076",
+                  "fn": "Anthony",
+                  "ln": "Davis",
+                  "val": "30",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -12034,8 +12355,8 @@ var nba = {
             "an": "AmericanAirlines Arena",
             "ac": "Miami",
             "as": "FL",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12070,24 +12391,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "4-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "96"
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "2-3",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "90"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202681",
+                  "fn": "Kyrie",
+                  "ln": "Irving",
+                  "val": "24",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -12102,8 +12437,8 @@ var nba = {
             "an": "United Center",
             "ac": "Chicago",
             "as": "IL",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12138,24 +12473,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "3-3",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "1-4",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "69"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "2546",
+                  "fn": "Carmelo",
+                  "ln": "Anthony",
+                  "val": "21",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -12170,13 +12519,13 @@ var nba = {
             "an": "FedExForum",
             "ac": "Memphis",
             "as": "TN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -12199,24 +12548,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "5-2",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "89"
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "5-1",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "103"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202718",
+                  "fn": "Chandler",
+                  "ln": "Parsons",
+                  "val": "24",
+                  "tid": 1610612763,
+                  "ta": "MEM",
+                  "tn": "Grizzlies",
+                  "tc": "Memphis"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -12231,8 +12594,8 @@ var nba = {
             "an": "American Airlines Center",
             "ac": "Dallas",
             "as": "TX",
-            "st": "1",
-            "stt": "8:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12267,24 +12630,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "2-4",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "112"
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-6",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "110"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203084",
+                  "fn": "Harrison",
+                  "ln": "Barnes",
+                  "val": "25",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -12299,8 +12676,8 @@ var nba = {
             "an": "Vivint Smart Home Arena",
             "ac": "Salt Lake City",
             "as": "UT",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12335,24 +12712,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "2-4",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "81"
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "3-3",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "96"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1628378",
+                  "fn": "Donovan",
+                  "ln": "Mitchell",
+                  "val": "22",
+                  "tid": 1610612762,
+                  "ta": "UTA",
+                  "tn": "Jazz",
+                  "tc": "Utah"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -12367,8 +12758,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12387,20 +12778,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "Rip City Radio 620",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "Arizona Sports 98.7 FM",
                   "scope": "away",
                   "type": "radio",
@@ -12410,24 +12794,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "2-4",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "107"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "4-2",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "114"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626164",
+                  "fn": "Devin",
+                  "ln": "Booker",
+                  "val": "34",
+                  "tid": 1610612756,
+                  "ta": "PHX",
+                  "tn": "Suns",
+                  "tc": "Phoenix"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -12442,8 +12840,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12478,24 +12876,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "4-2",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "95"
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "4-1",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "87"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203085",
+                  "fn": "Austin",
+                  "ln": "Rivers",
+                  "val": "20",
+                  "tid": 1610612746,
+                  "ta": "LAC",
+                  "tn": "Clippers",
+                  "tc": "LA"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -12510,8 +12922,8 @@ var nba = {
             "an": "Philips Arena",
             "ac": "Atlanta",
             "as": "GA",
-            "st": "1",
-            "stt": "3:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12530,20 +12942,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "92.9 FM \"The Game\"",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "AM 620 WTMJ",
                   "scope": "away",
                   "type": "radio",
@@ -12553,24 +12958,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "4-2",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "117"
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "1-6",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "106"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "19:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203507",
+                  "fn": "Giannis",
+                  "ln": "Antetokounmpo",
+                  "val": "33",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -12585,8 +13004,8 @@ var nba = {
             "an": "Bankers Life Fieldhouse",
             "ac": "Indianapolis",
             "as": "IN",
-            "st": "1",
-            "stt": "4:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12621,24 +13040,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "4-2",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "3-3",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "97"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "20:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "200746",
+                  "fn": "LaMarcus",
+                  "ln": "Aldridge",
+                  "val": "26",
+                  "tid": 1610612759,
+                  "ta": "SAS",
+                  "tn": "Spurs",
+                  "tc": "San Antonio"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -12653,8 +13086,8 @@ var nba = {
             "an": "Barclays Center",
             "ac": "Brooklyn",
             "as": "NY",
-            "st": "1",
-            "stt": "6:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12689,24 +13122,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "3-3",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "124"
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "3-4",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "111"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "22:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627750",
+                  "fn": "Jamal",
+                  "ln": "Murray",
+                  "val": "26",
+                  "tid": 1610612743,
+                  "ta": "DEN",
+                  "tn": "Nuggets",
+                  "tc": "Denver"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -12721,8 +13168,8 @@ var nba = {
             "an": "Spectrum Center",
             "ac": "Charlotte",
             "as": "NC",
-            "st": "1",
-            "stt": "6:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12757,24 +13204,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "4-2",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "113"
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "3-3",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "120"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "22:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202689",
+                  "fn": "Kemba",
+                  "ln": "Walker",
+                  "val": "34",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -12789,8 +13250,8 @@ var nba = {
             "an": "Golden 1 Center",
             "ac": "Sacramento",
             "as": "CA",
-            "st": "1",
-            "stt": "6:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12825,24 +13286,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "4-2",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "1-5",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "83"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "22:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202322",
+                  "fn": "John",
+                  "ln": "Wall",
+                  "val": "19",
+                  "tid": 1610612764,
+                  "ta": "WAS",
+                  "tn": "Wizards",
+                  "tc": "Washington"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -12857,8 +13332,8 @@ var nba = {
             "an": "Quicken Loans Arena",
             "ac": "Cleveland",
             "as": "OH",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12877,13 +13352,6 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
                   "scope": "home",
                   "type": "radio",
@@ -12893,24 +13361,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "2-3",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "114"
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "3-4",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "95"
             },
             "gweek": 2,
             "gdtutc": "2017-10-29",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203501",
+                  "fn": "Tim",
+                  "ln": "Hardaway Jr.",
+                  "val": "34",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -12925,8 +13407,8 @@ var nba = {
             "an": "ORACLE Arena",
             "ac": "Oakland",
             "as": "CA",
-            "st": "1",
-            "stt": "8:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -12968,24 +13450,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "5-2",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "115"
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "4-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "107"
             },
             "gweek": 2,
             "gdtutc": "2017-10-30",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202691",
+                  "fn": "Klay",
+                  "ln": "Thompson",
+                  "val": "29",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -13000,13 +13496,13 @@ var nba = {
             "an": "TD Garden",
             "ac": "Boston",
             "as": "MA",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -13050,24 +13546,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "4-3",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "5-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "108"
             },
             "gweek": 3,
             "gdtutc": "2017-10-30",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202681",
+                  "fn": "Kyrie",
+                  "ln": "Irving",
+                  "val": "24",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -13082,8 +13592,8 @@ var nba = {
             "an": "AmericanAirlines Arena",
             "ac": "Miami",
             "as": "FL",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13102,20 +13612,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "790 The Ticket / S: WAQI 710 AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "830 WCCO",
                   "scope": "away",
                   "type": "radio",
@@ -13125,24 +13628,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "4-3",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "125"
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "2-4",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "122"
             },
             "gweek": 3,
             "gdtutc": "2017-10-30",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203079",
+                  "fn": "Dion",
+                  "ln": "Waiters",
+                  "val": "33",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -13157,8 +13674,8 @@ var nba = {
             "an": "Madison Square Garden",
             "ac": "New York",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13186,24 +13703,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "3-4",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "3-3",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "116"
             },
             "gweek": 3,
             "gdtutc": "2017-10-30",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "204001",
+                  "fn": "Kristaps",
+                  "ln": "Porzingis",
+                  "val": "38",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -13218,8 +13749,8 @@ var nba = {
             "an": "Toyota Center",
             "ac": "Houston",
             "as": "TX",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13247,24 +13778,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "3-4",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "115"
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "5-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "107"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201935",
+                  "fn": "James",
+                  "ln": "Harden",
+                  "val": "29",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -13279,13 +13824,13 @@ var nba = {
             "an": "FedExForum",
             "ac": "Memphis",
             "as": "TN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -13315,24 +13860,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "4-3",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "5-2",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "99"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202689",
+                  "fn": "Kemba",
+                  "ln": "Walker",
+                  "val": "27",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -13347,8 +13906,8 @@ var nba = {
             "an": "Smoothie King Center",
             "ac": "New Orleans",
             "as": "LA",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13383,24 +13942,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "5-2",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "115"
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "3-4",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "99"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203076",
+                  "fn": "Anthony",
+                  "ln": "Davis",
+                  "val": "39",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -13415,8 +13988,8 @@ var nba = {
             "an": "Vivint Smart Home Arena",
             "ac": "Salt Lake City",
             "as": "UT",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13451,24 +14024,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-7",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "89"
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "4-3",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "104"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203918",
+                  "fn": "Rodney",
+                  "ln": "Hood",
+                  "val": "25",
+                  "tid": 1610612762,
+                  "ta": "UTA",
+                  "tn": "Jazz",
+                  "tc": "Utah"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -13483,8 +14070,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13503,7 +14090,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN",
+                  "disp": "TSN4",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -13526,24 +14113,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "4-2",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "4-3",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "85"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203081",
+                  "fn": "Damian",
+                  "ln": "Lillard",
+                  "val": "36",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -13558,13 +14159,13 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -13601,24 +14202,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "5-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "141"
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "4-2",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "113"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201939",
+                  "fn": "Stephen",
+                  "ln": "Curry",
+                  "val": "31",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 9
           },
           {
@@ -13633,8 +14248,8 @@ var nba = {
             "an": "Bankers Life Fieldhouse",
             "ac": "Indianapolis",
             "as": "IN",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13669,24 +14284,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "1-6",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "83"
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "4-3",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "101"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1628368",
+                  "fn": "De'Aaron",
+                  "ln": "Fox",
+                  "val": "18",
+                  "tid": 1610612758,
+                  "ta": "SAC",
+                  "tn": "Kings",
+                  "tc": "Sacramento"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -13701,8 +14330,8 @@ var nba = {
             "an": "Barclays Center",
             "ac": "Brooklyn",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13737,24 +14366,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "3-4",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "122"
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "3-5",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "114"
             },
             "gweek": 3,
             "gdtutc": "2017-10-31",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626156",
+                  "fn": "D'Angelo",
+                  "ln": "Russell",
+                  "val": "33",
+                  "tid": 1610612751,
+                  "ta": "BKN",
+                  "tn": "Nets",
+                  "tc": "Brooklyn"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -13769,13 +14412,13 @@ var nba = {
             "an": "BMO Harris Bradley Center",
             "ac": "Milwaukee",
             "as": "WI",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -13819,24 +14462,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "4-3",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "4-3",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "91"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203507",
+                  "fn": "Giannis",
+                  "ln": "Antetokounmpo",
+                  "val": "28",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -13851,13 +14508,13 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -13901,24 +14558,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "5-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "93"
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "3-4",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "113"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202699",
+                  "fn": "Tobias",
+                  "ln": "Harris",
+                  "val": "18",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                },
+                {
+                  "pid": "202704",
+                  "fn": "Reggie",
+                  "ln": "Jackson",
+                  "val": "18",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
             "seq": 4
           }
         ]
@@ -13940,8 +14621,8 @@ var nba = {
             "an": "Spectrum Center",
             "ac": "Charlotte",
             "as": "NC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -13976,24 +14657,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "4-4",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "121"
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-3",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "126"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203114",
+                  "fn": "Khris",
+                  "ln": "Middleton",
+                  "val": "43",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -14008,8 +14703,8 @@ var nba = {
             "an": "Quicken Loans Arena",
             "ac": "Cleveland",
             "as": "OH",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14044,24 +14739,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "5-3",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "124"
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "3-5",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "107"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "2544",
+                  "fn": "LeBron",
+                  "ln": "James",
+                  "val": "33",
+                  "tid": 1610612739,
+                  "ta": "CLE",
+                  "tn": "Cavaliers",
+                  "tc": "Cleveland"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -14076,8 +14785,8 @@ var nba = {
             "an": "Wells Fargo Center",
             "ac": "Philadelphia",
             "as": "PA",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14112,24 +14821,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "1-7",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "109"
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "4-4",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "119"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203471",
+                  "fn": "Dennis",
+                  "ln": "Schroder",
+                  "val": "25",
+                  "tid": 1610612737,
+                  "ta": "ATL",
+                  "tn": "Hawks",
+                  "tc": "Atlanta"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -14144,8 +14867,8 @@ var nba = {
             "an": "Capital One Arena",
             "ac": "Washington",
             "as": "DC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14164,20 +14887,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "1500 AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "ESPN 620 AM",
                   "scope": "away",
                   "type": "radio",
@@ -14187,24 +14903,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-4",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "122"
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "4-3",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "116"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203933",
+                  "fn": "TJ",
+                  "ln": "Warren",
+                  "val": "40",
+                  "tid": 1610612756,
+                  "ta": "PHX",
+                  "tn": "Suns",
+                  "tc": "Phoenix"
+                },
+                {
+                  "pid": "203078",
+                  "fn": "Bradley",
+                  "ln": "Beal",
+                  "val": "40",
+                  "tid": 1610612764,
+                  "ta": "WAS",
+                  "tn": "Wizards",
+                  "tc": "Washington"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -14219,8 +14959,8 @@ var nba = {
             "an": "TD Garden",
             "ac": "Boston",
             "as": "MA",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14255,24 +14995,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "1-7",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "86"
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "6-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "113"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202681",
+                  "fn": "Kyrie",
+                  "ln": "Irving",
+                  "val": "22",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                },
+                {
+                  "pid": "1627759",
+                  "fn": "Jaylen",
+                  "ln": "Brown",
+                  "val": "22",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -14287,8 +15051,8 @@ var nba = {
             "an": "AmericanAirlines Arena",
             "ac": "Miami",
             "as": "FL",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14323,24 +15087,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "1-5",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "91"
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "3-4",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "97"
             },
             "gweek": 3,
             "gdtutc": "2017-11-01",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1628374",
+                  "fn": "Lauri",
+                  "ln": "Markkanen",
+                  "val": "25",
+                  "tid": 1610612741,
+                  "ta": "CHI",
+                  "tn": "Bulls",
+                  "tc": "Chicago"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -14355,8 +15133,8 @@ var nba = {
             "an": "Madison Square Garden",
             "ac": "New York",
             "as": "NY",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14377,24 +15155,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "6-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "119"
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "3-4",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "97"
             },
             "gweek": 3,
             "gdtutc": "2017-11-02",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201935",
+                  "fn": "James",
+                  "ln": "Harden",
+                  "val": "31",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -14409,13 +15201,13 @@ var nba = {
             "an": "FedExForum",
             "ac": "Memphis",
             "as": "TN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -14445,24 +15237,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "6-2",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "5-3",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "99"
             },
             "gweek": 3,
             "gdtutc": "2017-11-02",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201936",
+                  "fn": "Tyreke",
+                  "ln": "Evans",
+                  "val": "32",
+                  "tid": 1610612763,
+                  "ta": "MEM",
+                  "tn": "Grizzlies",
+                  "tc": "Memphis"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -14477,8 +15283,8 @@ var nba = {
             "an": "Smoothie King Center",
             "ac": "New Orleans",
             "as": "LA",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14513,24 +15319,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "5-3",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "3-5",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "98"
             },
             "gweek": 3,
             "gdtutc": "2017-11-02",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202326",
+                  "fn": "DeMarcus",
+                  "ln": "Cousins",
+                  "val": "35",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 9
           },
           {
@@ -14545,8 +15365,8 @@ var nba = {
             "an": "Pepsi Center",
             "ac": "Denver",
             "as": "CO",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14588,24 +15408,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "4-3",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "111"
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "4-4",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "129"
             },
             "gweek": 3,
             "gdtutc": "2017-11-02",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627750",
+                  "fn": "Jamal",
+                  "ln": "Murray",
+                  "val": "24",
+                  "tid": 1610612743,
+                  "ta": "DEN",
+                  "tn": "Nuggets",
+                  "tc": "Denver"
+                }
+              ]
+            },
             "seq": 10
           },
           {
@@ -14620,8 +15454,8 @@ var nba = {
             "an": "Vivint Smart Home Arena",
             "ac": "Salt Lake City",
             "as": "UT",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14656,24 +15490,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "4-4",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "103"
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-3",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "112"
             },
             "gweek": 3,
             "gdtutc": "2017-11-02",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203081",
+                  "fn": "Damian",
+                  "ln": "Lillard",
+                  "val": "33",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 11
           },
           {
@@ -14688,8 +15536,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14731,24 +15579,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-8",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "98"
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-2",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "119"
             },
             "gweek": 3,
             "gdtutc": "2017-11-02",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201933",
+                  "fn": "Blake",
+                  "ln": "Griffin",
+                  "val": "20",
+                  "tid": 1610612746,
+                  "ta": "LAC",
+                  "tn": "Clippers",
+                  "tc": "LA"
+                }
+              ]
+            },
             "seq": 12
           },
           {
@@ -14763,8 +15625,8 @@ var nba = {
             "an": "AT&T Center",
             "ac": "San Antonio",
             "as": "TX",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14813,24 +15675,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "6-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "112"
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "4-4",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "92"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202691",
+                  "fn": "Klay",
+                  "ln": "Thompson",
+                  "val": "27",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -14845,8 +15721,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14888,24 +15764,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "3-5",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "5-4",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "113"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203081",
+                  "fn": "Damian",
+                  "ln": "Lillard",
+                  "val": "32",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -14920,8 +15810,8 @@ var nba = {
             "an": "Little Caesars Arena",
             "ac": "Detroit",
             "as": "MI",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -14956,24 +15846,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "4-5",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "96"
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "6-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "105"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203507",
+                  "fn": "Giannis",
+                  "ln": "Antetokounmpo",
+                  "val": "29",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -14988,8 +15892,8 @@ var nba = {
             "an": "Amway Center",
             "ac": "Orlando",
             "as": "FL",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15024,24 +15928,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-5",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "105"
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "6-3",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "83"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203095",
+                  "fn": "Evan",
+                  "ln": "Fournier",
+                  "val": "21",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -15056,8 +15974,8 @@ var nba = {
             "an": "Wells Fargo Center",
             "ac": "Philadelphia",
             "as": "PA",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15092,24 +16010,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "5-4",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "5-4",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "121"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203506",
+                  "fn": "Victor",
+                  "ln": "Oladipo",
+                  "val": "31",
+                  "tid": 1610612754,
+                  "ta": "IND",
+                  "tn": "Pacers",
+                  "tc": "Indiana"
+                },
+                {
+                  "pid": "200755",
+                  "fn": "JJ",
+                  "ln": "Redick",
+                  "val": "31",
+                  "tid": 1610612755,
+                  "ta": "PHI",
+                  "tn": "76ers",
+                  "tc": "Philadelphia"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -15124,8 +16066,8 @@ var nba = {
             "an": "Capital One Arena",
             "ac": "Washington",
             "as": "DC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15144,20 +16086,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "1500 AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
                   "scope": "away",
                   "type": "radio",
@@ -15167,24 +16102,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "4-5",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "130"
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "4-4",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "122"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "2544",
+                  "fn": "LeBron",
+                  "ln": "James",
+                  "val": "57",
+                  "tid": 1610612739,
+                  "ta": "CLE",
+                  "tn": "Cavaliers",
+                  "tc": "Cleveland"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -15199,8 +16148,8 @@ var nba = {
             "an": "Philips Arena",
             "ac": "Atlanta",
             "as": "GA",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15228,24 +16177,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "7-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "119"
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "1-8",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "104"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201935",
+                  "fn": "James",
+                  "ln": "Harden",
+                  "val": "29",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -15260,8 +16223,8 @@ var nba = {
             "an": "Madison Square Garden",
             "ac": "New York",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15289,24 +16252,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-5",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "107"
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "4-4",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "120"
             },
             "gweek": 3,
             "gdtutc": "2017-11-03",
             "utctm": "23:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "204001",
+                  "fn": "Kristaps",
+                  "ln": "Porzingis",
+                  "val": "37",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -15321,8 +16298,8 @@ var nba = {
             "an": "American Airlines Center",
             "ac": "Dallas",
             "as": "TX",
-            "st": "1",
-            "stt": "8:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15357,24 +16334,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "4-5",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-9",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "94"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203076",
+                  "fn": "Anthony",
+                  "ln": "Davis",
+                  "val": "30",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -15389,8 +16380,8 @@ var nba = {
             "an": "AT&T Center",
             "ac": "San Antonio",
             "as": "TX",
-            "st": "1",
-            "stt": "8:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15425,24 +16416,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-4",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "5-4",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "108"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203087",
+                  "fn": "Jeremy",
+                  "ln": "Lamb",
+                  "val": "27",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -15457,8 +16462,8 @@ var nba = {
             "an": "Pepsi Center",
             "ac": "Denver",
             "as": "CO",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15493,24 +16498,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "3-5",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "5-4",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "95"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "200794",
+                  "fn": "Paul",
+                  "ln": "Millsap",
+                  "val": "27",
+                  "tid": 1610612743,
+                  "ta": "DEN",
+                  "tn": "Nuggets",
+                  "tc": "Denver"
+                }
+              ]
+            },
             "seq": 9
           },
           {
@@ -15525,8 +16544,8 @@ var nba = {
             "an": "Vivint Smart Home Arena",
             "ac": "Salt Lake City",
             "as": "UT",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15568,24 +16587,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "5-3",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "109"
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-4",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "100"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201942",
+                  "fn": "DeMar",
+                  "ln": "DeRozan",
+                  "val": "37",
+                  "tid": 1610612761,
+                  "ta": "TOR",
+                  "tn": "Raptors",
+                  "tc": "Toronto"
+                }
+              ]
+            },
             "seq": 10
           },
           {
@@ -15600,8 +16633,8 @@ var nba = {
             "an": "Chesapeake Energy Arena",
             "ac": "Oklahoma City",
             "as": "OK",
-            "st": "1",
-            "stt": "9:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15643,24 +16676,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "7-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "4-4",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "94"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "01:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202681",
+                  "fn": "Kyrie",
+                  "ln": "Irving",
+                  "val": "25",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                },
+                {
+                  "pid": "202331",
+                  "fn": "Paul",
+                  "ln": "George",
+                  "val": "25",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                }
+              ]
+            },
             "seq": 11
           },
           {
@@ -15675,8 +16732,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15711,24 +16768,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "3-6",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "112"
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "4-5",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "124"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201572",
+                  "fn": "Brook",
+                  "ln": "Lopez",
+                  "val": "34",
+                  "tid": 1610612747,
+                  "ta": "LAL",
+                  "tn": "Lakers",
+                  "tc": "Los Angeles"
+                }
+              ]
+            },
             "seq": 12
           },
           {
@@ -15743,8 +16814,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "3:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15756,14 +16827,14 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN",
+                  "disp": "TSN1",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -15786,24 +16857,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "6-3",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "113"
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-3",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "104"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "19:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201933",
+                  "fn": "Blake",
+                  "ln": "Griffin",
+                  "val": "30",
+                  "tid": 1610612746,
+                  "ta": "LAC",
+                  "tn": "Clippers",
+                  "tc": "LA"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -15818,8 +16903,8 @@ var nba = {
             "an": "Little Caesars Arena",
             "ac": "Detroit",
             "as": "MI",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15838,7 +16923,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "97.1 FM The Ticket",
+                  "disp": "104.3 FM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
@@ -15854,24 +16939,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "1-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "7-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "108"
             },
             "gweek": 3,
             "gdtutc": "2017-11-04",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202340",
+                  "fn": "Avery",
+                  "ln": "Bradley",
+                  "val": "24",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -15886,8 +16985,8 @@ var nba = {
             "an": "United Center",
             "ac": "Chicago",
             "as": "IL",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15922,24 +17021,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "5-5",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "96"
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-6",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "90"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203076",
+                  "fn": "Anthony",
+                  "ln": "Davis",
+                  "val": "27",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -15954,8 +17067,8 @@ var nba = {
             "an": "Target Center",
             "ac": "Minneapolis",
             "as": "MN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -15974,7 +17087,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -15997,24 +17110,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "1-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "6-3",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "112"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626157",
+                  "fn": "Karl-Anthony",
+                  "ln": "Towns",
+                  "val": "31",
+                  "tid": 1610612750,
+                  "ta": "MIN",
+                  "tn": "Timberwolves",
+                  "tc": "Minnesota"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -16029,8 +17156,8 @@ var nba = {
             "an": "Pepsi Center",
             "ac": "Denver",
             "as": "CO",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16072,24 +17199,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "7-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "127"
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "5-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "108"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201142",
+                  "fn": "Kevin",
+                  "ln": "Durant",
+                  "val": "25",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -16104,8 +17245,8 @@ var nba = {
             "an": "Quicken Loans Arena",
             "ac": "Cleveland",
             "as": "OH",
-            "st": "1",
-            "stt": "3:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16124,7 +17265,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -16138,7 +17279,7 @@ var nba = {
                 },
                 {
                   "seq": 5,
-                  "disp": "92.9 FM \"The Game\"",
+                  "disp": "V-103 FM",
                   "scope": "away",
                   "type": "radio",
                   "lan": "English"
@@ -16147,24 +17288,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-8",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "117"
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "4-6",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "115"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "20:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203471",
+                  "fn": "Dennis",
+                  "ln": "Schroder",
+                  "val": "28",
+                  "tid": 1610612737,
+                  "ta": "ATL",
+                  "tn": "Hawks",
+                  "tc": "Atlanta"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -16179,8 +17334,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "3:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16215,24 +17370,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "4-5",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-4",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "101"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "20:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201933",
+                  "fn": "Blake",
+                  "ln": "Griffin",
+                  "val": "23",
+                  "tid": 1610612746,
+                  "ta": "LAC",
+                  "tn": "Clippers",
+                  "tc": "LA"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -16247,8 +17416,8 @@ var nba = {
             "an": "Amway Center",
             "ac": "Orlando",
             "as": "FL",
-            "st": "1",
-            "stt": "6:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16283,24 +17452,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "8-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "6-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "88"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627759",
+                  "fn": "Jaylen",
+                  "ln": "Brown",
+                  "val": "18",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                },
+                {
+                  "pid": "203932",
+                  "fn": "Aaron",
+                  "ln": "Gordon",
+                  "val": "18",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -16315,13 +17508,13 @@ var nba = {
             "an": "Air Canada Centre",
             "ac": "Toronto",
             "as": "ON",
-            "st": "1",
-            "stt": "6:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "TSN2",
+                  "disp": "TSN4",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -16335,7 +17528,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN2",
+                  "disp": "TSN4",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -16358,24 +17551,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "5-4",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "107"
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "5-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "96"
             },
             "gweek": 3,
             "gdtutc": "2017-11-05",
             "utctm": "23:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203078",
+                  "fn": "Bradley",
+                  "ln": "Beal",
+                  "val": "38",
+                  "tid": 1610612764,
+                  "ta": "WAS",
+                  "tn": "Wizards",
+                  "tc": "Washington"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -16390,8 +17597,8 @@ var nba = {
             "an": "Toyota Center",
             "ac": "Houston",
             "as": "TX",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16419,24 +17626,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-5",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "8-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "137"
             },
             "gweek": 3,
             "gdtutc": "2017-11-06",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201935",
+                  "fn": "James",
+                  "ln": "Harden",
+                  "val": "56",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -16451,8 +17672,8 @@ var nba = {
             "an": "AT&T Center",
             "ac": "San Antonio",
             "as": "TX",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16487,24 +17708,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-6",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "95"
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "6-4",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "112"
             },
             "gweek": 3,
             "gdtutc": "2017-11-06",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "200746",
+                  "fn": "LaMarcus",
+                  "ln": "Aldridge",
+                  "val": "21",
+                  "tid": 1610612759,
+                  "ta": "SAS",
+                  "tn": "Spurs",
+                  "tc": "San Antonio"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -16519,8 +17754,8 @@ var nba = {
             "an": "Madison Square Garden",
             "ac": "New York",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16548,24 +17783,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "5-5",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "5-4",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "108"
             },
             "gweek": 3,
             "gdtutc": "2017-11-06",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "204001",
+                  "fn": "Kristaps",
+                  "ln": "Porzingis",
+                  "val": "40",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -16580,8 +17829,8 @@ var nba = {
             "an": "Target Center",
             "ac": "Minneapolis",
             "as": "MN",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16616,24 +17865,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-5",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-3",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "112"
             },
             "gweek": 3,
             "gdtutc": "2017-11-06",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203952",
+                  "fn": "Andrew",
+                  "ln": "Wiggins",
+                  "val": "20",
+                  "tid": 1610612750,
+                  "ta": "MIN",
+                  "tn": "Timberwolves",
+                  "tc": "Minnesota"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -16648,8 +17911,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16668,7 +17931,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -16691,24 +17954,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "4-5",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-4",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "103"
             },
             "gweek": 3,
             "gdtutc": "2017-11-06",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203081",
+                  "fn": "Damian",
+                  "ln": "Lillard",
+                  "val": "36",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 9
           },
           {
@@ -16723,8 +18000,8 @@ var nba = {
             "an": "Staples Center",
             "ac": "Los Angeles",
             "as": "CA",
-            "st": "1",
-            "stt": "9:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16736,7 +18013,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -16759,24 +18036,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "6-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "102"
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-5",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "107"
             },
             "gweek": 3,
             "gdtutc": "2017-11-06",
             "utctm": "02:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201936",
+                  "fn": "Tyreke",
+                  "ln": "Evans",
+                  "val": "26",
+                  "tid": 1610612763,
+                  "ta": "MEM",
+                  "tn": "Grizzlies",
+                  "tc": "Memphis"
+                }
+              ]
+            },
             "seq": 10
           },
           {
@@ -16791,8 +18082,8 @@ var nba = {
             "an": "Philips Arena",
             "ac": "Atlanta",
             "as": "GA",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16834,24 +18125,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "9-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "110"
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-9",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "107"
             },
             "gweek": 4,
             "gdtutc": "2017-11-07",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202681",
+                  "fn": "Kyrie",
+                  "ln": "Irving",
+                  "val": "35",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -16866,40 +18171,33 @@ var nba = {
             "an": "Talking Stick Resort Arena",
             "ac": "Phoenix",
             "as": "AZ",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
-                  "scope": "natl",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 2,
                   "disp": "FSAZ+",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 3,
+                  "seq": 2,
                   "disp": "YES",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 4,
+                  "seq": 3,
                   "disp": "Arizona Sports 98.7 FM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WFAN",
                   "scope": "away",
                   "type": "radio",
@@ -16909,24 +18207,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "4-6",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "98"
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-7",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "92"
             },
             "gweek": 4,
             "gdtutc": "2017-11-07",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626156",
+                  "fn": "D'Angelo",
+                  "ln": "Russell",
+                  "val": "23",
+                  "tid": 1610612751,
+                  "ta": "BKN",
+                  "tn": "Nets",
+                  "tc": "Brooklyn"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -16941,8 +18253,8 @@ var nba = {
             "an": "ORACLE Arena",
             "ac": "Oakland",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -16984,24 +18296,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "4-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "80"
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "8-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "97"
             },
             "gweek": 4,
             "gdtutc": "2017-11-07",
             "utctm": "03:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201142",
+                  "fn": "Kevin",
+                  "ln": "Durant",
+                  "val": "21",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                },
+                {
+                  "pid": "201949",
+                  "fn": "James",
+                  "ln": "Johnson",
+                  "val": "21",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -17016,13 +18352,13 @@ var nba = {
             "an": "Quicken Loans Arena",
             "ac": "Cleveland",
             "as": "OH",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -17059,24 +18395,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "4-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "119"
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "124"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203507",
+                  "fn": "Giannis",
+                  "ln": "Antetokounmpo",
+                  "val": "40",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -17091,8 +18441,8 @@ var nba = {
             "an": "Bankers Life Fieldhouse",
             "ac": "Indianapolis",
             "as": "IN",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17127,24 +18477,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "117"
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "5-6",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "112"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203076",
+                  "fn": "Anthony",
+                  "ln": "Davis",
+                  "val": "37",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -17159,8 +18523,8 @@ var nba = {
             "an": "Capital One Arena",
             "ac": "Washington",
             "as": "DC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17195,24 +18559,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
-              "s": ""
+              "s": "113"
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "5-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "99"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203084",
+                  "fn": "Harrison",
+                  "ln": "Barnes",
+                  "val": "31",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -17227,8 +18605,8 @@ var nba = {
             "an": "Madison Square Garden",
             "ac": "New York",
             "as": "NY",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17256,24 +18634,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-6",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "113"
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-4",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "118"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "204001",
+                  "fn": "Kristaps",
+                  "ln": "Porzingis",
+                  "val": "28",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -17288,8 +18680,8 @@ var nba = {
             "an": "Air Canada Centre",
             "ac": "Toronto",
             "as": "ON",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17331,24 +18723,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-7",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "114"
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "6-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "119"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201942",
+                  "fn": "DeMar",
+                  "ln": "DeRozan",
+                  "val": "24",
+                  "tid": 1610612761,
+                  "ta": "TOR",
+                  "tn": "Raptors",
+                  "tc": "Toronto"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -17363,8 +18769,8 @@ var nba = {
             "an": "AT&T Center",
             "ac": "San Antonio",
             "as": "TX",
-            "st": "1",
-            "stt": "8:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17399,24 +18805,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-5",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "107"
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "120"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "01:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "200746",
+                  "fn": "LaMarcus",
+                  "ln": "Aldridge",
+                  "val": "25",
+                  "tid": 1610612759,
+                  "ta": "SAS",
+                  "tn": "Spurs",
+                  "tc": "San Antonio"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -17431,8 +18851,8 @@ var nba = {
             "an": "Pepsi Center",
             "ac": "Denver",
             "as": "CO",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17467,24 +18887,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "4-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "6-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "112"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203999",
+                  "fn": "Nikola",
+                  "ln": "Jokic",
+                  "val": "41",
+                  "tid": 1610612743,
+                  "ta": "DEN",
+                  "tn": "Nuggets",
+                  "tc": "Denver"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -17499,8 +18933,8 @@ var nba = {
             "an": "Vivint Smart Home Arena",
             "ac": "Salt Lake City",
             "as": "UT",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17535,24 +18969,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-4",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-6",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "97"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203967",
+                  "fn": "Dario",
+                  "ln": "Saric",
+                  "val": "25",
+                  "tid": 1610612755,
+                  "ta": "PHI",
+                  "tn": "76ers",
+                  "tc": "Philadelphia"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -17567,8 +19015,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17580,14 +19028,14 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -17610,24 +19058,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
-              "s": ""
+              "s": "98"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-5",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "97"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "03:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203468",
+                  "fn": "CJ",
+                  "ln": "McCollum",
+                  "val": "36",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 9
           },
           {
@@ -17642,13 +19104,13 @@ var nba = {
             "an": "Golden 1 Center",
             "ac": "Sacramento",
             "as": "CA",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -17692,24 +19154,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "4-6",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "86"
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "2-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "94"
             },
             "gweek": 4,
             "gdtutc": "2017-11-08",
             "utctm": "03:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627741",
+                  "fn": "Buddy",
+                  "ln": "Hield",
+                  "val": "21",
+                  "tid": 1610612758,
+                  "ta": "SAC",
+                  "tn": "Kings",
+                  "tc": "Sacramento"
+                }
+              ]
+            },
             "seq": 10
           },
           {
@@ -17724,8 +19200,8 @@ var nba = {
             "an": "Little Caesars Arena",
             "ac": "Detroit",
             "as": "MI",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17760,24 +19236,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "97"
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "8-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "114"
             },
             "gweek": 4,
             "gdtutc": "2017-11-09",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202699",
+                  "fn": "Tobias",
+                  "ln": "Harris",
+                  "val": "23",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -17792,8 +19282,8 @@ var nba = {
             "an": "Amway Center",
             "ac": "Orlando",
             "as": "FL",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17821,24 +19311,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
-              "s": ""
+              "s": "99"
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "7-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "112"
             },
             "gweek": 4,
             "gdtutc": "2017-11-09",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203501",
+                  "fn": "Tim",
+                  "ln": "Hardaway Jr.",
+                  "val": "26",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -17853,8 +19357,8 @@ var nba = {
             "an": "TD Garden",
             "ac": "Boston",
             "as": "MA",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17866,34 +19370,27 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBCSB",
-                  "scope": "home",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 3,
                   "disp": "SpecSN/SpecD",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 4,
+                  "seq": 3,
                   "disp": "TSN",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "100.7 WZLX",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 6,
+                  "seq": 5,
                   "disp": "710 AM ESPN / 1330 AM ESPN DEPORTES",
                   "scope": "away",
                   "type": "radio",
@@ -17903,24 +19400,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-6",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "96"
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "10-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "107"
             },
             "gweek": 4,
             "gdtutc": "2017-11-09",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203382",
+                  "fn": "Aron",
+                  "ln": "Baynes",
+                  "val": "21",
+                  "tid": 1610612738,
+                  "ta": "BOS",
+                  "tn": "Celtics",
+                  "tc": "Boston"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -17935,8 +19446,8 @@ var nba = {
             "an": "Talking Stick Resort Arena",
             "ac": "Phoenix",
             "as": "AZ",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -17955,20 +19466,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "Arizona Sports 98.7 FM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "790 The Ticket / S: WAQI 710 AM",
                   "scope": "away",
                   "type": "radio",
@@ -17978,24 +19482,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "5-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "126"
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-8",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "115"
             },
             "gweek": 4,
             "gdtutc": "2017-11-09",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626164",
+                  "fn": "Devin",
+                  "ln": "Booker",
+                  "val": "30",
+                  "tid": 1610612756,
+                  "ta": "PHX",
+                  "tn": "Suns",
+                  "tc": "Phoenix"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -18010,8 +19528,8 @@ var nba = {
             "an": "ORACLE Arena",
             "ac": "Oakland",
             "as": "CA",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18060,24 +19578,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
-              "s": ""
+              "s": "125"
             },
             "gweek": 4,
             "gdtutc": "2017-11-09",
             "utctm": "03:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202691",
+                  "fn": "Klay",
+                  "ln": "Thompson",
+                  "val": "28",
+                  "tid": 1610612744,
+                  "ta": "GSW",
+                  "tn": "Warriors",
+                  "tc": "Golden State"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -18092,8 +19624,8 @@ var nba = {
             "an": "Capital One Arena",
             "ac": "Washington",
             "as": "DC",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18128,24 +19660,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
-              "s": ""
+              "s": "95"
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
-              "s": ""
+              "s": "111"
             },
             "gweek": 4,
             "gdtutc": "2017-11-10",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202322",
+                  "fn": "John",
+                  "ln": "Wall",
+                  "val": "23",
+                  "tid": 1610612764,
+                  "ta": "WAS",
+                  "tn": "Wizards",
+                  "tc": "Washington"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -18160,8 +19706,8 @@ var nba = {
             "an": "Air Canada Centre",
             "ac": "Toronto",
             "as": "ON",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18203,24 +19749,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
-              "s": ""
+              "s": "118"
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
-              "s": ""
+              "s": "122"
             },
             "gweek": 4,
             "gdtutc": "2017-11-10",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201950",
+                  "fn": "Jrue",
+                  "ln": "Holiday",
+                  "val": "34",
+                  "tid": 1610612740,
+                  "ta": "NOP",
+                  "tn": "Pelicans",
+                  "tc": "New Orleans"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -18235,8 +19795,8 @@ var nba = {
             "an": "Toyota Center",
             "ac": "Houston",
             "as": "TX",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18264,24 +19824,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
-              "s": ""
+              "s": "113"
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
-              "s": ""
+              "s": "117"
             },
             "gweek": 4,
             "gdtutc": "2017-11-10",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "201935",
+                  "fn": "James",
+                  "ln": "Harden",
+                  "val": "35",
+                  "tid": 1610612745,
+                  "ta": "HOU",
+                  "tn": "Rockets",
+                  "tc": "Houston"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -18296,8 +19870,8 @@ var nba = {
             "an": "Golden 1 Center",
             "ac": "Sacramento",
             "as": "CA",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18332,24 +19906,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
-              "s": ""
+              "s": "108"
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
-              "s": ""
+              "s": "109"
             },
             "gweek": 4,
             "gdtutc": "2017-11-10",
             "utctm": "03:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203496",
+                  "fn": "Robert",
+                  "ln": "Covington",
+                  "val": "24",
+                  "tid": 1610612755,
+                  "ta": "PHI",
+                  "tn": "76ers",
+                  "tc": "Philadelphia"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -18364,8 +19952,8 @@ var nba = {
             "an": "Pepsi Center",
             "ac": "Denver",
             "as": "CO",
-            "st": "1",
-            "stt": "10:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18414,24 +20002,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "4-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
-              "s": ""
+              "s": "102"
             },
             "gweek": 4,
             "gdtutc": "2017-11-10",
             "utctm": "03:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "2546",
+                  "fn": "Carmelo",
+                  "ln": "Anthony",
+                  "val": "28",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -18446,8 +20048,8 @@ var nba = {
             "an": "Little Caesars Arena",
             "ac": "Detroit",
             "as": "MI",
-            "st": "1",
-            "stt": "7:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18482,24 +20084,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
-              "s": ""
+              "s": "104"
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
-              "s": ""
+              "s": "111"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "00:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203145",
+                  "fn": "Kent",
+                  "ln": "Bazemore",
+                  "val": "22",
+                  "tid": 1610612737,
+                  "ta": "ATL",
+                  "tn": "Hawks",
+                  "tc": "Atlanta"
+                },
+                {
+                  "pid": "202704",
+                  "fn": "Reggie",
+                  "ln": "Jackson",
+                  "val": "22",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
             "seq": 1
           },
           {
@@ -18514,8 +20140,8 @@ var nba = {
             "an": "TD Garden",
             "ac": "Boston",
             "as": "MA",
-            "st": "1",
-            "stt": "7:30 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18534,7 +20160,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -18557,24 +20183,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
-              "s": ""
+              "s": "87"
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
-              "s": ""
+              "s": "90"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "00:30",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202689",
+                  "fn": "Kemba",
+                  "ln": "Walker",
+                  "val": "20",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
             "seq": 2
           },
           {
@@ -18589,8 +20229,8 @@ var nba = {
             "an": "United Center",
             "ac": "Chicago",
             "as": "IL",
-            "st": "1",
-            "stt": "8:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18625,24 +20265,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
-              "s": ""
+              "s": "105"
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
-              "s": ""
+              "s": "87"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "01:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203506",
+                  "fn": "Victor",
+                  "ln": "Oladipo",
+                  "val": "25",
+                  "tid": 1610612754,
+                  "ta": "IND",
+                  "tn": "Pacers",
+                  "tc": "Indiana"
+                }
+              ]
+            },
             "seq": 3
           },
           {
@@ -18657,8 +20311,8 @@ var nba = {
             "an": "Chesapeake Energy Arena",
             "ac": "Oklahoma City",
             "as": "OK",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18693,24 +20347,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
-              "s": ""
+              "s": "111"
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
-              "s": ""
+              "s": "120"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202331",
+                  "fn": "Paul",
+                  "ln": "George",
+                  "val": "42",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                }
+              ]
+            },
             "seq": 4
           },
           {
@@ -18725,8 +20393,8 @@ var nba = {
             "an": "AT&T Center",
             "ac": "San Antonio",
             "as": "TX",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18752,20 +20420,13 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "TSN2",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 5,
                   "disp": "WOAI 1200AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 6,
+                  "seq": 5,
                   "disp": "AM 620 WTMJ",
                   "scope": "away",
                   "type": "radio",
@@ -18775,24 +20436,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
-              "s": ""
+              "s": "94"
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
-              "s": ""
+              "s": "87"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203507",
+                  "fn": "Giannis",
+                  "ln": "Antetokounmpo",
+                  "val": "28",
+                  "tid": 1610612749,
+                  "ta": "MIL",
+                  "tn": "Bucks",
+                  "tc": "Milwaukee"
+                }
+              ]
+            },
             "seq": 5
           },
           {
@@ -18807,8 +20482,8 @@ var nba = {
             "an": "Talking Stick Resort Arena",
             "ac": "Phoenix",
             "as": "AZ",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18843,24 +20518,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
-              "s": ""
+              "s": "128"
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
-              "s": ""
+              "s": "112"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203932",
+                  "fn": "Aaron",
+                  "ln": "Gordon",
+                  "val": "22",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
             "seq": 6
           },
           {
@@ -18875,8 +20564,8 @@ var nba = {
             "an": "Vivint Smart Home Arena",
             "ac": "Salt Lake City",
             "as": "UT",
-            "st": "1",
-            "stt": "9:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18911,24 +20600,38 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
-              "s": ""
+              "s": "84"
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
-              "s": ""
+              "s": "74"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "02:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203079",
+                  "fn": "Dion",
+                  "ln": "Waiters",
+                  "val": "21",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                }
+              ]
+            },
             "seq": 7
           },
           {
@@ -18943,8 +20646,8 @@ var nba = {
             "an": "Moda Center",
             "ac": "Portland",
             "as": "OR",
-            "st": "1",
-            "stt": "10:00 pm ET",
+            "st": "3",
+            "stt": "Final",
             "bd": {
               "b": [
                 {
@@ -18963,7 +20666,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -18986,24 +20689,48 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
-              "s": ""
+              "s": "101"
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
-              "s": ""
+              "s": "97"
             },
             "gweek": 4,
             "gdtutc": "2017-11-11",
             "utctm": "03:00",
             "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626156",
+                  "fn": "D'Angelo",
+                  "ln": "Russell",
+                  "val": "21",
+                  "tid": 1610612751,
+                  "ta": "BKN",
+                  "tn": "Nets",
+                  "tc": "Brooklyn"
+                },
+                {
+                  "pid": "203994",
+                  "fn": "Jusuf",
+                  "ln": "Nurkic",
+                  "val": "21",
+                  "tid": 1610612757,
+                  "ta": "POR",
+                  "tn": "Trail Blazers",
+                  "tc": "Portland"
+                }
+              ]
+            },
             "seq": 8
           },
           {
@@ -19054,7 +20781,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -19062,7 +20789,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -19122,7 +20849,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -19130,7 +20857,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -19183,7 +20910,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -19191,7 +20918,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -19228,7 +20955,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -19244,7 +20971,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -19252,7 +20979,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -19289,7 +21016,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "FSOhio",
+                  "disp": "FOX SPORTS OHIO/WUAB",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -19319,7 +21046,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -19327,7 +21054,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -19371,7 +21098,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -19394,7 +21121,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -19402,7 +21129,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -19432,34 +21159,27 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
-                  "scope": "natl",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 2,
                   "disp": "FSSW",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 3,
+                  "seq": 2,
                   "disp": "NBCSCH",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 4,
+                  "seq": 3,
                   "disp": "WOAI 1200AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WLS-AM 890",
                   "scope": "away",
                   "type": "radio",
@@ -19469,7 +21189,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -19477,7 +21197,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -19521,20 +21241,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN2",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "95.7 The Game",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "97.5 The Fanatic",
                   "scope": "away",
                   "type": "radio",
@@ -19544,7 +21257,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -19552,7 +21265,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -19612,7 +21325,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -19620,7 +21333,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -19680,7 +21393,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -19688,7 +21401,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -19718,27 +21431,34 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
+                  "disp": "NBA TV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
                   "disp": "ATTSN-RM",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 2,
+                  "seq": 3,
                   "disp": "YES",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 3,
+                  "seq": 4,
                   "disp": "97.5 FM | 1280 AM The Zone",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 4,
+                  "seq": 5,
                   "disp": "WCBS 880 AM",
                   "scope": "away",
                   "type": "radio",
@@ -19748,7 +21468,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -19756,7 +21476,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -19823,7 +21543,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -19831,7 +21551,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -19891,7 +21611,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -19899,7 +21619,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -19959,7 +21679,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -19967,7 +21687,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -20011,7 +21731,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -20034,7 +21754,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -20042,7 +21762,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -20072,7 +21792,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -20109,7 +21829,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -20117,7 +21837,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -20177,7 +21897,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -20185,7 +21905,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -20222,14 +21942,14 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -20252,7 +21972,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -20260,7 +21980,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -20320,7 +22040,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -20328,7 +22048,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -20388,7 +22108,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -20396,7 +22116,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -20456,7 +22176,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -20464,7 +22184,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -20524,7 +22244,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -20532,7 +22252,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -20599,7 +22319,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -20607,7 +22327,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -20651,7 +22371,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -20674,7 +22394,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -20682,7 +22402,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -20742,7 +22462,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -20750,7 +22470,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -20780,7 +22500,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -20794,14 +22514,14 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN",
+                  "disp": "TSN1/4/5",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 4,
-                  "disp": "TSN",
+                  "disp": "TSN1/4/5",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -20817,7 +22537,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -20825,7 +22545,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -20885,7 +22605,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -20893,7 +22613,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -20953,7 +22673,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -20961,7 +22681,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -21021,7 +22741,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -21029,7 +22749,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -21082,7 +22802,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -21090,7 +22810,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -21150,7 +22870,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -21158,7 +22878,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -21188,7 +22908,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -21218,7 +22938,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -21226,7 +22946,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -21286,7 +23006,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -21294,7 +23014,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -21354,7 +23074,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -21362,7 +23082,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -21429,7 +23149,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -21437,7 +23157,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -21497,7 +23217,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -21505,7 +23225,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -21549,7 +23269,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -21572,7 +23292,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -21580,7 +23300,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -21647,7 +23367,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -21655,7 +23375,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -21729,7 +23449,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -21737,7 +23457,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -21804,7 +23524,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -21812,7 +23532,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -21872,7 +23592,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -21880,7 +23600,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -21940,7 +23660,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -21948,7 +23668,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -22008,7 +23728,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -22016,7 +23736,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -22076,7 +23796,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -22084,7 +23804,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -22144,7 +23864,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -22152,7 +23872,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -22212,7 +23932,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -22220,7 +23940,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -22287,7 +24007,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -22295,7 +24015,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -22355,7 +24075,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -22363,7 +24083,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -22423,7 +24143,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -22431,7 +24151,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -22475,7 +24195,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -22498,7 +24218,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -22506,7 +24226,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -22573,7 +24293,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -22581,7 +24301,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -22641,7 +24361,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -22649,7 +24369,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -22709,7 +24429,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -22717,7 +24437,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -22777,7 +24497,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -22785,7 +24505,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -22829,7 +24549,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN",
+                  "disp": "TSN1/4",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -22852,7 +24572,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -22860,7 +24580,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -22890,7 +24610,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -22913,7 +24633,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -22921,7 +24641,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -22965,7 +24685,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -22988,7 +24708,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -22996,7 +24716,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -23040,7 +24760,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN",
+                  "disp": "TSN1/4",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -23063,7 +24783,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -23071,7 +24791,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -23138,7 +24858,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -23146,7 +24866,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -23206,7 +24926,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -23214,7 +24934,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -23274,7 +24994,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -23282,7 +25002,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -23342,7 +25062,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -23350,7 +25070,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -23394,7 +25114,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -23417,7 +25137,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -23425,7 +25145,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -23492,7 +25212,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -23500,7 +25220,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -23560,7 +25280,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -23568,7 +25288,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -23612,20 +25332,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "TSN2",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "97.1 FM The Ticket",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
                   "scope": "away",
                   "type": "radio",
@@ -23635,7 +25348,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -23643,7 +25356,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -23673,7 +25386,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -23694,20 +25407,13 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 5,
                   "disp": "ESPN 580 / Salsa 98.1 FM (ESP)",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 6,
+                  "seq": 5,
                   "disp": "1070 The Fan/107.5 FM",
                   "scope": "away",
                   "type": "radio",
@@ -23717,7 +25423,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -23725,7 +25431,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -23785,7 +25491,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -23793,7 +25499,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -23846,7 +25552,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -23854,7 +25560,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -23884,7 +25590,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -23914,7 +25620,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -23922,7 +25628,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -23982,7 +25688,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -23990,7 +25696,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -24050,7 +25756,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -24058,7 +25764,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -24118,7 +25824,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -24126,7 +25832,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -24177,7 +25883,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "92.9 FM \"The Game\"",
+                  "disp": "V-103 FM",
                   "scope": "away",
                   "type": "radio",
                   "lan": "English"
@@ -24186,7 +25892,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -24194,7 +25900,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -24238,7 +25944,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -24261,7 +25967,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -24269,7 +25975,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -24299,7 +26005,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -24343,7 +26049,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -24351,7 +26057,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -24411,7 +26117,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -24419,7 +26125,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -24479,7 +26185,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -24487,7 +26193,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -24547,7 +26253,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -24555,7 +26261,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -24615,7 +26321,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -24623,7 +26329,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -24683,7 +26389,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -24691,7 +26397,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -24751,7 +26457,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -24759,7 +26465,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -24812,7 +26518,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -24820,7 +26526,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -24850,7 +26556,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -24880,7 +26586,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -24888,7 +26594,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -24948,7 +26654,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -24956,7 +26662,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -25016,7 +26722,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -25024,7 +26730,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -25091,7 +26797,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -25099,7 +26805,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -25166,7 +26872,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -25174,7 +26880,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -25234,7 +26940,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -25242,7 +26948,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -25316,7 +27022,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -25324,7 +27030,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -25368,7 +27074,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -25391,7 +27097,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -25399,7 +27105,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -25452,7 +27158,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -25460,7 +27166,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -25520,7 +27226,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -25528,7 +27234,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -25558,7 +27264,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -25595,7 +27301,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -25603,7 +27309,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -25670,7 +27376,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -25678,7 +27384,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -25738,7 +27444,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -25746,7 +27452,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -25806,7 +27512,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -25814,7 +27520,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -25851,7 +27557,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -25874,7 +27580,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -25882,7 +27588,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -25942,7 +27648,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -25950,7 +27656,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -25980,7 +27686,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -26024,7 +27730,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -26032,7 +27738,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -26092,7 +27798,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -26100,7 +27806,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -26160,7 +27866,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -26168,7 +27874,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -26228,7 +27934,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -26236,7 +27942,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -26303,7 +28009,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -26311,7 +28017,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -26378,7 +28084,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -26386,7 +28092,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -26416,7 +28122,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -26439,7 +28145,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -26447,7 +28153,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -26507,7 +28213,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -26515,7 +28221,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -26575,7 +28281,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -26583,7 +28289,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -26627,7 +28333,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -26650,7 +28356,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -26658,7 +28364,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -26718,7 +28424,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -26726,7 +28432,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -26786,7 +28492,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -26794,7 +28500,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -26838,20 +28544,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "830 WCCO",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "ESPN 620 AM",
                   "scope": "away",
                   "type": "radio",
@@ -26861,7 +28560,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -26869,7 +28568,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -26899,7 +28598,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -26913,7 +28612,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -26936,7 +28635,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -26944,7 +28643,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -27004,7 +28703,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -27012,7 +28711,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -27079,7 +28778,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -27087,7 +28786,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -27131,7 +28830,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -27154,7 +28853,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -27162,7 +28861,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -27215,7 +28914,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -27223,7 +28922,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -27276,7 +28975,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -27284,7 +28983,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -27314,7 +29013,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -27351,7 +29050,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -27359,7 +29058,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -27426,7 +29125,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -27434,7 +29133,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -27494,7 +29193,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -27502,7 +29201,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -27532,7 +29231,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -27576,7 +29275,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -27584,7 +29283,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -27644,7 +29343,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -27652,7 +29351,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -27719,7 +29418,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -27727,7 +29426,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -27778,7 +29477,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -27801,7 +29500,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -27809,7 +29508,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -27869,7 +29568,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -27877,7 +29576,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -27937,7 +29636,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -27945,7 +29644,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -28005,7 +29704,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -28013,7 +29712,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -28043,7 +29742,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -28080,7 +29779,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -28088,7 +29787,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -28141,7 +29840,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -28149,7 +29848,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -28216,7 +29915,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -28224,7 +29923,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -28277,7 +29976,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -28285,7 +29984,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -28345,7 +30044,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -28353,7 +30052,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -28413,7 +30112,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -28421,7 +30120,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -28458,7 +30157,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -28481,7 +30180,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -28489,7 +30188,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -28519,7 +30218,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -28563,7 +30262,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -28571,7 +30270,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -28615,7 +30314,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -28638,7 +30337,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -28646,7 +30345,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -28676,7 +30375,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -28720,7 +30419,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -28728,7 +30427,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -28788,7 +30487,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -28796,7 +30495,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -28826,7 +30525,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -28870,7 +30569,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -28878,7 +30577,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -28938,7 +30637,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -28946,7 +30645,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -29013,7 +30712,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -29021,7 +30720,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -29081,7 +30780,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -29089,7 +30788,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -29156,7 +30855,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -29164,7 +30863,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -29224,7 +30923,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -29232,7 +30931,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -29292,7 +30991,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -29300,7 +30999,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -29330,7 +31029,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -29360,7 +31059,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -29368,7 +31067,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -29398,7 +31097,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -29435,7 +31134,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -29443,7 +31142,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -29503,7 +31202,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -29511,7 +31210,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -29555,7 +31254,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -29578,7 +31277,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -29586,7 +31285,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -29646,7 +31345,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -29654,7 +31353,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -29714,7 +31413,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -29722,7 +31421,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -29759,7 +31458,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -29789,7 +31488,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -29797,7 +31496,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -29857,7 +31556,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -29865,7 +31564,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -29925,7 +31624,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -29933,7 +31632,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -29977,7 +31676,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -30000,7 +31699,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -30008,7 +31707,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -30075,7 +31774,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -30083,7 +31782,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -30136,7 +31835,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -30144,7 +31843,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -30211,7 +31910,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -30219,7 +31918,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -30279,7 +31978,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -30287,7 +31986,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -30317,7 +32016,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -30338,7 +32037,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -30361,7 +32060,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -30369,7 +32068,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -30399,7 +32098,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -30436,7 +32135,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -30444,7 +32143,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -30504,7 +32203,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -30512,7 +32211,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -30565,7 +32264,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -30573,7 +32272,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -30633,7 +32332,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -30641,7 +32340,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -30701,7 +32400,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -30709,7 +32408,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -30739,7 +32438,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -30760,7 +32459,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -30783,7 +32482,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -30791,7 +32490,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -30851,7 +32550,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -30859,7 +32558,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -30889,7 +32588,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -30919,7 +32618,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -30927,7 +32626,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -30994,7 +32693,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -31002,7 +32701,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -31062,7 +32761,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -31070,7 +32769,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -31130,7 +32829,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -31138,7 +32837,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -31198,7 +32897,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -31206,7 +32905,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -31236,7 +32935,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -31280,7 +32979,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -31288,7 +32987,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -31348,7 +33047,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -31356,7 +33055,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -31386,7 +33085,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -31430,7 +33129,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -31438,7 +33137,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -31498,7 +33197,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -31506,7 +33205,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -31566,7 +33265,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -31574,7 +33273,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -31634,7 +33333,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -31642,7 +33341,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -31702,7 +33401,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -31710,7 +33409,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -31747,7 +33446,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -31763,7 +33462,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -31771,7 +33470,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -31838,7 +33537,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -31846,7 +33545,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -31906,7 +33605,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -31914,7 +33613,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -31958,7 +33657,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -31981,7 +33680,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -31989,7 +33688,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -32049,7 +33748,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -32057,7 +33756,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -32131,7 +33830,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -32139,7 +33838,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -32213,7 +33912,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -32221,7 +33920,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -32265,7 +33964,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -32288,7 +33987,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -32296,7 +33995,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -32356,7 +34055,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -32364,7 +34063,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -32431,7 +34130,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -32439,7 +34138,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -32499,7 +34198,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -32507,7 +34206,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -32574,7 +34273,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -32582,7 +34281,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -32642,7 +34341,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -32650,7 +34349,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -32710,7 +34409,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -32718,7 +34417,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -32748,7 +34447,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -32785,7 +34484,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -32793,7 +34492,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -32853,7 +34552,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -32861,7 +34560,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -32921,7 +34620,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -32929,7 +34628,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -32980,7 +34679,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -33003,7 +34702,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -33011,7 +34710,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -33055,7 +34754,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -33078,7 +34777,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -33086,7 +34785,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -33116,7 +34815,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -33137,7 +34836,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -33160,7 +34859,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -33168,7 +34867,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -33228,7 +34927,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -33236,7 +34935,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -33296,7 +34995,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -33304,7 +35003,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -33364,7 +35063,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -33372,7 +35071,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -33425,7 +35124,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -33433,7 +35132,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -33463,7 +35162,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -33484,7 +35183,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -33507,7 +35206,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -33515,7 +35214,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -33545,7 +35244,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -33575,7 +35274,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -33583,7 +35282,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -33643,7 +35342,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -33651,7 +35350,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -33704,7 +35403,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -33712,7 +35411,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -33779,7 +35478,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -33787,7 +35486,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -33847,7 +35546,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -33855,7 +35554,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -33915,7 +35614,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -33923,7 +35622,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -33990,7 +35689,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -33998,7 +35697,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -34058,7 +35757,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -34066,7 +35765,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -34110,7 +35809,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -34126,7 +35825,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -34134,7 +35833,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -34201,7 +35900,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -34209,7 +35908,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -34239,7 +35938,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -34260,7 +35959,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -34276,7 +35975,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -34284,7 +35983,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -34314,7 +36013,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -34344,7 +36043,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -34352,7 +36051,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -34412,7 +36111,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -34420,7 +36119,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -34480,7 +36179,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -34488,7 +36187,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -34518,7 +36217,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -34562,7 +36261,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -34570,7 +36269,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -34630,7 +36329,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -34638,7 +36337,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -34682,7 +36381,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -34705,7 +36404,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -34713,7 +36412,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -34773,7 +36472,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -34781,7 +36480,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -34841,7 +36540,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -34849,7 +36548,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -34916,7 +36615,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -34924,7 +36623,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -34998,7 +36697,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -35006,7 +36705,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -35050,7 +36749,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -35073,7 +36772,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -35081,7 +36780,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -35148,7 +36847,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -35156,7 +36855,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -35216,7 +36915,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -35224,7 +36923,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -35261,7 +36960,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -35284,7 +36983,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -35292,7 +36991,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -35352,7 +37051,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -35360,7 +37059,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -35420,7 +37119,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -35428,7 +37127,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -35488,7 +37187,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -35496,7 +37195,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -35556,7 +37255,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -35564,7 +37263,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -35631,7 +37330,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -35639,7 +37338,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -35692,7 +37391,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -35700,7 +37399,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -35744,7 +37443,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -35767,7 +37466,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -35775,7 +37474,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -35828,7 +37527,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -35836,7 +37535,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -35910,7 +37609,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -35918,7 +37617,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -35978,7 +37677,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -35986,7 +37685,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -36060,7 +37759,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -36068,7 +37767,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -36128,7 +37827,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -36136,7 +37835,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -36196,7 +37895,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -36204,7 +37903,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -36264,7 +37963,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -36272,7 +37971,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -36332,7 +38031,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -36340,7 +38039,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -36400,7 +38099,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -36408,7 +38107,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -36475,7 +38174,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -36483,7 +38182,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -36550,7 +38249,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -36558,7 +38257,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -36588,7 +38287,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -36618,7 +38317,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -36626,7 +38325,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -36686,7 +38385,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -36694,7 +38393,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -36754,7 +38453,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -36762,7 +38461,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -36813,7 +38512,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -36829,7 +38528,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -36837,7 +38536,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -36897,7 +38596,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -36905,7 +38604,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -36972,7 +38671,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -36980,7 +38679,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -37010,22 +38709,22 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
+                  "disp": "NBA TV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
                   "disp": "MSG",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
-                  "seq": 2,
+                  "seq": 3,
                   "disp": "FS Oklahoma HD",
                   "scope": "away",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 3,
-                  "disp": "TSN2",
-                  "scope": "can",
                   "type": "tv",
                   "lan": "English"
                 },
@@ -37040,7 +38739,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -37048,7 +38747,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -37108,7 +38807,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -37116,7 +38815,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -37169,7 +38868,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -37177,7 +38876,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -37221,7 +38920,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -37244,7 +38943,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -37252,7 +38951,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -37312,7 +39011,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -37320,7 +39019,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -37350,7 +39049,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -37380,7 +39079,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -37388,7 +39087,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -37455,7 +39154,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -37463,7 +39162,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -37523,7 +39222,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -37531,7 +39230,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -37575,7 +39274,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -37598,7 +39297,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -37606,7 +39305,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -37673,7 +39372,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -37681,7 +39380,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -37734,7 +39433,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -37742,7 +39441,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -37802,7 +39501,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -37810,7 +39509,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -37854,7 +39553,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "92.9 FM \"The Game\"",
+                  "disp": "V-103 FM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
@@ -37870,7 +39569,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -37878,7 +39577,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -37938,7 +39637,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -37946,7 +39645,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -37999,7 +39698,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -38007,7 +39706,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -38074,7 +39773,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -38082,7 +39781,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -38112,7 +39811,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -38156,7 +39855,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -38164,7 +39863,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -38224,7 +39923,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -38232,7 +39931,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -38292,7 +39991,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -38300,7 +39999,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -38330,7 +40029,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -38374,7 +40073,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -38382,7 +40081,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -38426,7 +40125,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -38449,7 +40148,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -38457,7 +40156,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -38517,7 +40216,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -38525,7 +40224,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -38555,7 +40254,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -38599,7 +40298,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -38607,7 +40306,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -38674,7 +40373,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -38682,7 +40381,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -38742,7 +40441,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -38750,7 +40449,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -38810,7 +40509,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -38818,7 +40517,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -38878,7 +40577,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -38886,7 +40585,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -38946,7 +40645,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -38954,7 +40653,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -38984,7 +40683,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -39014,7 +40713,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -39022,7 +40721,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -39082,7 +40781,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -39090,7 +40789,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -39150,7 +40849,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -39158,7 +40857,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -39218,7 +40917,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -39226,7 +40925,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -39270,7 +40969,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -39293,7 +40992,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -39301,7 +41000,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -39331,7 +41030,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -39345,7 +41044,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -39375,7 +41074,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -39383,7 +41082,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -39443,7 +41142,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -39451,7 +41150,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -39511,7 +41210,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -39519,7 +41218,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -39586,7 +41285,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -39594,7 +41293,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -39654,7 +41353,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -39662,7 +41361,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -39699,7 +41398,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -39722,7 +41421,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -39730,7 +41429,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -39804,7 +41503,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -39812,7 +41511,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -39856,7 +41555,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -39872,7 +41571,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -39880,7 +41579,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -39940,7 +41639,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -39948,7 +41647,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -40008,7 +41707,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -40016,7 +41715,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -40076,7 +41775,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -40084,7 +41783,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -40151,7 +41850,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -40159,7 +41858,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -40219,7 +41918,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -40227,7 +41926,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -40287,7 +41986,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -40295,7 +41994,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -40339,7 +42038,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -40362,7 +42061,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -40370,7 +42069,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -40437,7 +42136,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -40445,7 +42144,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -40512,7 +42211,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -40520,7 +42219,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -40580,7 +42279,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -40588,7 +42287,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -40648,7 +42347,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -40656,7 +42355,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -40716,7 +42415,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -40724,7 +42423,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -40784,7 +42483,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -40792,7 +42491,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -40859,7 +42558,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -40867,7 +42566,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -40927,7 +42626,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -40935,7 +42634,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -40965,7 +42664,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -40995,7 +42694,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -41003,7 +42702,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -41063,7 +42762,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -41071,7 +42770,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -41138,7 +42837,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -41146,7 +42845,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -41206,7 +42905,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -41214,7 +42913,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -41258,7 +42957,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -41281,7 +42980,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -41289,7 +42988,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -41349,7 +43048,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -41357,7 +43056,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -41424,7 +43123,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -41432,7 +43131,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -41499,7 +43198,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -41507,7 +43206,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -41574,7 +43273,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -41582,7 +43281,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -41635,7 +43334,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -41643,7 +43342,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -41710,7 +43409,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -41718,7 +43417,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -41778,7 +43477,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -41786,7 +43485,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -41853,7 +43552,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -41861,7 +43560,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -41921,7 +43620,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -41929,7 +43628,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -41959,7 +43658,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -41996,7 +43695,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -42004,7 +43703,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -42064,7 +43763,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -42072,7 +43771,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -42116,7 +43815,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -42139,7 +43838,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -42147,7 +43846,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -42184,7 +43883,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -42207,7 +43906,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -42215,7 +43914,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -42245,7 +43944,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -42289,7 +43988,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -42297,7 +43996,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -42357,7 +44056,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -42365,7 +44064,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -42425,7 +44124,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -42433,7 +44132,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -42493,7 +44192,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -42501,7 +44200,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -42554,7 +44253,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -42562,7 +44261,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -42622,7 +44321,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -42630,7 +44329,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -42690,7 +44389,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -42698,7 +44397,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -42728,7 +44427,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -42772,7 +44471,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -42780,7 +44479,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -42840,7 +44539,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -42848,7 +44547,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -42878,7 +44577,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -42922,7 +44621,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -42930,7 +44629,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -42967,14 +44666,14 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -42997,7 +44696,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -43005,7 +44704,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -43065,7 +44764,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -43073,7 +44772,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -43140,7 +44839,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -43148,7 +44847,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -43192,7 +44891,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -43215,7 +44914,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -43223,7 +44922,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -43276,7 +44975,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -43284,7 +44983,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -43351,7 +45050,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -43359,7 +45058,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -43389,7 +45088,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -43419,7 +45118,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -43427,7 +45126,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -43494,7 +45193,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -43502,7 +45201,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -43562,7 +45261,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -43570,7 +45269,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -43630,7 +45329,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -43638,7 +45337,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -43698,7 +45397,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -43706,7 +45405,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -43766,7 +45465,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -43774,7 +45473,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -43804,7 +45503,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -43825,7 +45524,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -43848,7 +45547,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -43856,7 +45555,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -43923,7 +45622,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -43931,7 +45630,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -43991,7 +45690,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -43999,7 +45698,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -44059,7 +45758,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -44067,7 +45766,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -44127,7 +45826,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -44135,7 +45834,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -44188,7 +45887,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -44196,7 +45895,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -44256,7 +45955,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -44264,7 +45963,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -44301,7 +46000,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "FSOhio",
+                  "disp": "FOX SPORTS OHIO/WUAB",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -44331,7 +46030,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -44339,7 +46038,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -44376,7 +46075,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -44399,7 +46098,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -44407,7 +46106,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -44451,7 +46150,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -44474,7 +46173,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -44482,7 +46181,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -44526,20 +46225,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "1500 AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WLS-AM 890",
                   "scope": "away",
                   "type": "radio",
@@ -44549,7 +46241,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -44557,7 +46249,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -44617,7 +46309,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -44625,7 +46317,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -44685,7 +46377,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -44693,7 +46385,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -44746,7 +46438,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -44754,7 +46446,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -44814,7 +46506,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -44822,7 +46514,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -44882,7 +46574,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -44890,7 +46582,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -44927,7 +46619,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -44950,7 +46642,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -44958,7 +46650,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -45002,7 +46694,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -45025,7 +46717,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -45033,7 +46725,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -45100,7 +46792,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -45108,7 +46800,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -45175,7 +46867,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -45183,7 +46875,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -45243,7 +46935,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -45251,7 +46943,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -45311,7 +47003,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -45319,7 +47011,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -45349,7 +47041,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -45393,7 +47085,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -45401,7 +47093,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -45454,7 +47146,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -45462,7 +47154,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -45522,7 +47214,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -45530,7 +47222,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -45574,7 +47266,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -45597,7 +47289,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -45605,7 +47297,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -45635,7 +47327,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -45649,7 +47341,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -45679,7 +47371,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -45687,7 +47379,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -45740,7 +47432,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -45748,7 +47440,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -45808,7 +47500,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -45816,7 +47508,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -45869,7 +47561,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -45877,7 +47569,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -45937,7 +47629,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -45945,7 +47637,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -46005,7 +47697,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -46013,7 +47705,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -46080,7 +47772,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -46088,7 +47780,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -46155,7 +47847,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -46163,7 +47855,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -46223,7 +47915,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -46231,7 +47923,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -46291,7 +47983,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -46299,7 +47991,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -46343,7 +48035,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -46366,7 +48058,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -46374,7 +48066,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -46434,7 +48126,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -46442,7 +48134,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -46509,7 +48201,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -46517,7 +48209,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -46577,7 +48269,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -46585,7 +48277,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -46659,7 +48351,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -46667,7 +48359,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -46720,7 +48412,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -46728,7 +48420,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -46788,7 +48480,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -46796,7 +48488,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -46856,7 +48548,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -46864,7 +48556,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -46931,7 +48623,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -46939,7 +48631,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -46999,7 +48691,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -47007,7 +48699,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -47067,7 +48759,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -47075,7 +48767,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -47135,7 +48827,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -47143,7 +48835,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -47180,7 +48872,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -47194,7 +48886,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -47217,7 +48909,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -47225,7 +48917,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -47285,7 +48977,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -47293,7 +48985,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -47353,7 +49045,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -47361,7 +49053,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -47428,7 +49120,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -47436,7 +49128,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -47480,7 +49172,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -47503,7 +49195,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -47511,7 +49203,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -47564,7 +49256,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -47572,7 +49264,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -47632,7 +49324,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -47640,7 +49332,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -47707,7 +49399,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -47715,7 +49407,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -47775,7 +49467,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -47783,7 +49475,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -47827,7 +49519,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -47850,7 +49542,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -47858,7 +49550,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -47918,7 +49610,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -47926,7 +49618,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -47986,7 +49678,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -47994,7 +49686,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -48047,7 +49739,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -48055,7 +49747,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -48122,7 +49814,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -48130,7 +49822,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -48160,7 +49852,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -48181,7 +49873,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -48204,7 +49896,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -48212,7 +49904,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -48279,7 +49971,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -48287,7 +49979,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -48317,7 +50009,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -48354,7 +50046,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -48362,7 +50054,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -48429,7 +50121,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -48437,7 +50129,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -48490,7 +50182,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -48498,7 +50190,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -48558,7 +50250,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -48566,7 +50258,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -48626,7 +50318,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -48634,7 +50326,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -48694,7 +50386,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -48702,7 +50394,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -48769,7 +50461,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -48777,7 +50469,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -48821,7 +50513,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -48844,7 +50536,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -48852,7 +50544,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -48919,7 +50611,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -48927,7 +50619,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -48957,7 +50649,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -48994,7 +50686,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -49002,7 +50694,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -49062,7 +50754,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -49070,7 +50762,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -49100,7 +50792,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -49144,7 +50836,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -49152,7 +50844,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -49212,7 +50904,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -49220,7 +50912,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -49280,7 +50972,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -49288,7 +50980,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -49348,7 +51040,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -49356,7 +51048,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -49416,7 +51108,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -49424,7 +51116,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -49477,7 +51169,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -49485,7 +51177,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -49529,7 +51221,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -49545,7 +51237,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -49553,7 +51245,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -49583,7 +51275,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -49613,7 +51305,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -49621,7 +51313,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -49681,7 +51373,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -49689,7 +51381,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -49770,7 +51462,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -49778,7 +51470,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -49838,7 +51530,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -49846,7 +51538,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -49920,7 +51612,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -49928,7 +51620,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -49958,7 +51650,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -49979,7 +51671,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -50002,7 +51694,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -50010,7 +51702,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -50084,7 +51776,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -50092,7 +51784,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -50152,7 +51844,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -50160,7 +51852,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -50227,7 +51919,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -50235,7 +51927,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -50295,7 +51987,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -50303,7 +51995,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -50363,7 +52055,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -50371,7 +52063,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -50431,7 +52123,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -50439,7 +52131,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -50499,7 +52191,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -50507,7 +52199,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -50581,7 +52273,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -50589,7 +52281,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -50642,7 +52334,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -50650,7 +52342,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -50694,7 +52386,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -50717,7 +52409,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -50725,7 +52417,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -50762,7 +52454,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -50785,7 +52477,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -50793,7 +52485,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -50860,7 +52552,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -50868,7 +52560,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -50912,20 +52604,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "ESPN 103.3 FM / 1270 AM (ESP)",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "710 AM ESPN / 1330 AM ESPN DEPORTES",
                   "scope": "away",
                   "type": "radio",
@@ -50935,7 +52620,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -50943,7 +52628,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -51003,7 +52688,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -51011,7 +52696,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -51055,7 +52740,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -51078,7 +52763,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -51086,7 +52771,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -51146,7 +52831,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -51154,7 +52839,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -51221,7 +52906,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -51229,7 +52914,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -51289,7 +52974,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -51297,7 +52982,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -51357,7 +53042,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -51365,7 +53050,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -51409,7 +53094,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -51432,7 +53117,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -51440,7 +53125,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -51493,7 +53178,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -51501,7 +53186,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -51545,7 +53230,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -51568,7 +53253,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -51576,7 +53261,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -51650,7 +53335,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -51658,7 +53343,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -51688,7 +53373,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -51725,7 +53410,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -51733,7 +53418,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -51800,7 +53485,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -51808,7 +53493,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -51868,7 +53553,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -51876,7 +53561,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -51906,7 +53591,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -51927,7 +53612,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -51950,7 +53635,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -51958,7 +53643,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -52011,7 +53696,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -52019,7 +53704,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -52079,7 +53764,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -52087,7 +53772,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -52124,7 +53809,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -52168,7 +53853,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -52176,7 +53861,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -52236,7 +53921,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -52244,7 +53929,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -52318,7 +54003,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -52326,7 +54011,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -52386,7 +54071,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -52394,7 +54079,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -52454,7 +54139,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -52462,7 +54147,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -52506,7 +54191,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -52529,7 +54214,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -52537,7 +54222,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -52567,7 +54252,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -52611,7 +54296,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -52619,7 +54304,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -52679,7 +54364,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -52687,7 +54372,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -52717,7 +54402,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -52761,7 +54446,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -52769,7 +54454,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -52829,7 +54514,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -52837,7 +54522,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -52897,7 +54582,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -52905,7 +54590,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -52965,7 +54650,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -52973,7 +54658,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -53040,7 +54725,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -53048,7 +54733,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -53108,7 +54793,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -53116,7 +54801,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -53146,7 +54831,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -53169,7 +54854,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -53177,7 +54862,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -53237,7 +54922,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -53245,7 +54930,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -53312,7 +54997,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -53320,7 +55005,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -53380,7 +55065,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -53388,7 +55073,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -53462,7 +55147,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -53470,7 +55155,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -53544,7 +55229,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -53552,7 +55237,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -53596,7 +55281,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -53619,7 +55304,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -53627,7 +55312,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -53694,7 +55379,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -53702,7 +55387,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -53746,7 +55431,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -53769,7 +55454,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -53777,7 +55462,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -53844,7 +55529,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -53852,7 +55537,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -53912,7 +55597,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -53920,7 +55605,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -53987,7 +55672,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -53995,7 +55680,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -54025,7 +55710,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -54055,7 +55740,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -54063,7 +55748,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -54123,7 +55808,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -54131,7 +55816,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -54182,7 +55867,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -54198,7 +55883,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -54206,7 +55891,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -54266,7 +55951,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -54274,7 +55959,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -54334,7 +56019,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -54342,7 +56027,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -54386,7 +56071,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -54409,7 +56094,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -54417,7 +56102,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -54477,7 +56162,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -54485,7 +56170,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -54522,7 +56207,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -54545,7 +56230,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -54553,7 +56238,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -54613,7 +56298,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -54621,7 +56306,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -54674,7 +56359,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -54682,7 +56367,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -54749,7 +56434,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -54757,7 +56442,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -54817,7 +56502,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -54825,7 +56510,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -54869,7 +56554,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -54892,7 +56577,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -54900,7 +56585,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -54967,7 +56652,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -54975,7 +56660,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -55035,7 +56720,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -55043,7 +56728,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -55087,7 +56772,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -55110,7 +56795,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -55118,7 +56803,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -55178,7 +56863,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -55186,7 +56871,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -55246,7 +56931,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -55254,7 +56939,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -55314,7 +56999,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -55322,7 +57007,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -55352,7 +57037,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -55389,7 +57074,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -55397,7 +57082,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -55427,7 +57112,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -55441,20 +57126,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "WMFS",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "97.5 The Fanatic",
                   "scope": "away",
                   "type": "radio",
@@ -55464,7 +57142,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -55472,7 +57150,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -55532,7 +57210,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -55540,7 +57218,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -55600,7 +57278,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -55608,7 +57286,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -55668,7 +57346,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -55676,7 +57354,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -55736,7 +57414,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -55744,7 +57422,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -55774,7 +57452,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -55795,7 +57473,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -55818,7 +57496,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -55826,7 +57504,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -55870,7 +57548,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -55893,7 +57571,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -55901,7 +57579,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -55968,7 +57646,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -55976,7 +57654,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -56043,7 +57721,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -56051,7 +57729,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -56111,7 +57789,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -56119,7 +57797,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -56186,7 +57864,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -56194,7 +57872,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -56254,7 +57932,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -56262,7 +57940,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -56322,7 +58000,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -56330,7 +58008,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -56390,7 +58068,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -56398,7 +58076,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -56458,7 +58136,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -56466,7 +58144,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -56533,7 +58211,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -56541,7 +58219,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -56601,7 +58279,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -56609,7 +58287,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -56639,7 +58317,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -56669,7 +58347,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -56677,7 +58355,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -56744,7 +58422,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -56752,7 +58430,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -56803,7 +58481,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -56826,7 +58504,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -56834,7 +58512,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -56894,7 +58572,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -56902,7 +58580,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -56969,7 +58647,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -56977,7 +58655,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -57021,7 +58699,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -57037,7 +58715,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -57045,7 +58723,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -57119,7 +58797,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -57127,7 +58805,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -57187,7 +58865,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -57195,7 +58873,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -57255,7 +58933,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -57263,7 +58941,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -57330,7 +59008,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -57338,7 +59016,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -57398,7 +59076,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -57406,7 +59084,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -57436,7 +59114,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -57466,7 +59144,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -57474,7 +59152,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -57534,7 +59212,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -57542,7 +59220,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -57595,7 +59273,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -57603,7 +59281,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -57663,7 +59341,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -57671,7 +59349,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -57731,7 +59409,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -57739,7 +59417,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -57792,7 +59470,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -57800,7 +59478,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -57860,7 +59538,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -57868,7 +59546,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -57928,7 +59606,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -57936,7 +59614,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -57996,7 +59674,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -58004,7 +59682,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -58048,7 +59726,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -58071,7 +59749,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -58079,7 +59757,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -58146,7 +59824,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -58154,7 +59832,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -58214,7 +59892,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -58222,7 +59900,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -58282,7 +59960,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -58290,7 +59968,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -58350,7 +60028,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -58358,7 +60036,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -58388,7 +60066,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -58409,7 +60087,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -58425,7 +60103,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -58433,7 +60111,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -58493,7 +60171,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -58501,7 +60179,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -58561,7 +60239,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -58569,7 +60247,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -58636,7 +60314,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -58644,7 +60322,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -58704,7 +60382,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -58712,7 +60390,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -58772,7 +60450,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -58780,7 +60458,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -58840,7 +60518,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -58848,7 +60526,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -58915,7 +60593,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -58923,7 +60601,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -58953,7 +60631,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -58983,7 +60661,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -58991,7 +60669,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -59035,7 +60713,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -59058,7 +60736,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -59066,7 +60744,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -59126,7 +60804,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -59134,7 +60812,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -59164,7 +60842,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -59208,7 +60886,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -59216,7 +60894,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -59276,7 +60954,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -59284,7 +60962,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -59337,7 +61015,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -59345,7 +61023,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -59412,7 +61090,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -59420,7 +61098,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -59487,7 +61165,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -59495,7 +61173,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -59548,7 +61226,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -59556,7 +61234,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -59616,7 +61294,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -59624,7 +61302,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -59684,7 +61362,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -59692,7 +61370,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -59752,7 +61430,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -59760,7 +61438,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -59827,7 +61505,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -59835,7 +61513,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -59872,7 +61550,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -59895,7 +61573,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -59903,7 +61581,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -59963,7 +61641,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -59971,7 +61649,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -60031,7 +61709,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -60039,7 +61717,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -60083,7 +61761,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -60106,7 +61784,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -60114,7 +61792,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -60144,7 +61822,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "FSOhio",
+                  "disp": "FOX SPORTS OHIO/WUAB",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -60181,7 +61859,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -60189,7 +61867,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -60249,7 +61927,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -60257,7 +61935,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -60301,7 +61979,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -60324,7 +62002,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -60332,7 +62010,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -60406,7 +62084,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -60414,7 +62092,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -60458,7 +62136,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -60481,7 +62159,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -60489,7 +62167,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -60556,7 +62234,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -60564,7 +62242,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -60624,7 +62302,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -60632,7 +62310,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -60685,7 +62363,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -60693,7 +62371,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -60767,7 +62445,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -60775,7 +62453,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -60835,7 +62513,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -60843,7 +62521,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -60903,7 +62581,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -60911,7 +62589,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -60971,7 +62649,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -60979,7 +62657,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -61046,7 +62724,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -61054,7 +62732,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -61121,7 +62799,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -61129,7 +62807,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -61182,7 +62860,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -61190,7 +62868,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -61250,7 +62928,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -61258,7 +62936,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -61302,7 +62980,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -61325,7 +63003,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -61333,7 +63011,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -61407,7 +63085,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -61415,7 +63093,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -61459,7 +63137,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -61482,7 +63160,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -61490,7 +63168,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -61550,7 +63228,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -61558,7 +63236,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -61618,7 +63296,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -61626,7 +63304,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -61686,7 +63364,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -61694,7 +63372,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -61731,7 +63409,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -61754,7 +63432,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -61762,7 +63440,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -61822,7 +63500,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -61830,7 +63508,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -61890,7 +63568,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -61898,7 +63576,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -61965,7 +63643,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -61973,7 +63651,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -62033,7 +63711,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -62041,7 +63719,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -62101,7 +63779,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -62109,7 +63787,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -62169,7 +63847,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -62177,7 +63855,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -62230,7 +63908,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -62238,7 +63916,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -62275,7 +63953,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -62305,7 +63983,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -62313,7 +63991,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -62373,7 +64051,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -62381,7 +64059,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -62425,7 +64103,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -62448,7 +64126,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -62456,7 +64134,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -62523,7 +64201,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -62531,7 +64209,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -62591,7 +64269,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -62599,7 +64277,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -62643,20 +64321,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "790 The Ticket / S: WAQI 710 AM",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "ESPN 580 / Salsa 98.1 FM (ESP)",
                   "scope": "away",
                   "type": "radio",
@@ -62666,7 +64337,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -62674,7 +64345,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -62704,7 +64375,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -62748,7 +64419,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -62756,7 +64427,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -62816,7 +64487,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -62824,7 +64495,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -62884,7 +64555,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -62892,7 +64563,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -62922,7 +64593,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -62966,7 +64637,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -62974,7 +64645,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -63034,7 +64705,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -63042,7 +64713,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -63109,7 +64780,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -63117,7 +64788,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -63154,7 +64825,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -63177,7 +64848,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -63185,7 +64856,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -63238,7 +64909,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -63246,7 +64917,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -63299,7 +64970,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -63307,7 +64978,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -63374,7 +65045,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -63382,7 +65053,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -63449,7 +65120,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -63457,7 +65128,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -63501,7 +65172,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -63524,7 +65195,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -63532,7 +65203,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -63592,7 +65263,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -63600,7 +65271,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -63660,7 +65331,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -63668,7 +65339,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -63742,7 +65413,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -63750,7 +65421,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -63780,7 +65451,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -63794,7 +65465,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -63817,7 +65488,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -63825,7 +65496,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -63885,7 +65556,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -63893,7 +65564,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -63967,7 +65638,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -63975,7 +65646,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -64035,7 +65706,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -64043,7 +65714,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -64103,7 +65774,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -64111,7 +65782,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -64171,7 +65842,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -64179,7 +65850,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -64223,7 +65894,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -64246,7 +65917,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -64254,7 +65925,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -64321,7 +65992,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -64329,7 +66000,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -64403,7 +66074,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -64411,7 +66082,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -64471,7 +66142,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -64479,7 +66150,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -64539,7 +66210,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -64547,7 +66218,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -64614,7 +66285,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -64622,7 +66293,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -64682,7 +66353,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -64690,7 +66361,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -64750,7 +66421,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -64758,7 +66429,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -64825,7 +66496,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -64833,7 +66504,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -64877,7 +66548,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -64893,7 +66564,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -64901,7 +66572,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -64961,7 +66632,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -64969,7 +66640,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -65043,7 +66714,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -65051,7 +66722,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -65095,7 +66766,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -65118,7 +66789,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -65126,7 +66797,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -65186,7 +66857,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -65194,7 +66865,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -65254,7 +66925,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -65262,7 +66933,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -65322,7 +66993,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -65330,7 +67001,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -65390,7 +67061,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -65398,7 +67069,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -65435,7 +67106,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -65465,7 +67136,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -65473,7 +67144,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -65533,7 +67204,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -65541,7 +67212,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -65608,7 +67279,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -65616,7 +67287,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -65660,7 +67331,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -65683,7 +67354,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -65691,7 +67362,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -65758,7 +67429,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -65766,7 +67437,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -65819,7 +67490,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -65827,7 +67498,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -65857,7 +67528,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -65878,7 +67549,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -65894,7 +67565,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -65902,7 +67573,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -65962,7 +67633,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -65970,7 +67641,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -66007,7 +67678,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -66030,7 +67701,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -66038,7 +67709,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -66098,7 +67769,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -66106,7 +67777,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -66150,20 +67821,13 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 4,
                   "disp": "97.1 FM The Ticket",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WRNO 99.5FM",
                   "scope": "away",
                   "type": "radio",
@@ -66173,7 +67837,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -66181,7 +67845,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -66211,7 +67875,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -66248,7 +67912,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -66256,7 +67920,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -66316,7 +67980,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -66324,7 +67988,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -66384,7 +68048,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -66392,7 +68056,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -66452,7 +68116,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -66460,7 +68124,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -66490,7 +68154,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -66534,7 +68198,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -66542,7 +68206,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -66609,7 +68273,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -66617,7 +68281,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -66677,7 +68341,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -66685,7 +68349,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -66738,7 +68402,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -66746,7 +68410,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -66813,7 +68477,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -66821,7 +68485,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -66881,7 +68545,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -66889,7 +68553,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -66940,7 +68604,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -66970,7 +68634,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -66978,7 +68642,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -67038,7 +68702,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -67046,7 +68710,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -67106,7 +68770,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -67114,7 +68778,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -67174,7 +68838,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -67182,7 +68846,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -67242,7 +68906,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -67250,7 +68914,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -67303,7 +68967,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -67311,7 +68975,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -67378,7 +69042,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -67386,7 +69050,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -67453,7 +69117,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -67461,7 +69125,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -67514,7 +69178,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -67522,7 +69186,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -67552,7 +69216,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -67582,7 +69246,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -67590,7 +69254,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -67650,7 +69314,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -67658,7 +69322,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -67718,7 +69382,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -67726,7 +69390,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -67777,7 +69441,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -67800,7 +69464,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -67808,7 +69472,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -67868,7 +69532,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -67876,7 +69540,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -67920,7 +69584,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -67950,7 +69614,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -67958,7 +69622,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -68018,7 +69682,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -68026,7 +69690,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -68079,7 +69743,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -68087,7 +69751,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -68131,7 +69795,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -68168,7 +69832,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -68176,7 +69840,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -68236,7 +69900,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -68244,7 +69908,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -68304,7 +69968,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -68312,7 +69976,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -68386,7 +70050,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -68394,7 +70058,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -68454,7 +70118,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -68462,7 +70126,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -68522,7 +70186,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -68530,7 +70194,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -68590,7 +70254,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -68598,7 +70262,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -68665,7 +70329,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -68673,7 +70337,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -68733,7 +70397,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -68741,7 +70405,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -68771,14 +70435,14 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 2,
-                  "disp": "FSOhio",
+                  "disp": "FOX SPORTS OHIO/WUAB",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -68801,7 +70465,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -68809,7 +70473,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -68869,7 +70533,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -68877,7 +70541,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -68937,7 +70601,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -68945,7 +70609,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -69005,7 +70669,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -69013,7 +70677,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -69073,7 +70737,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -69081,7 +70745,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -69132,7 +70796,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -69155,7 +70819,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -69163,7 +70827,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -69223,7 +70887,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -69231,7 +70895,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -69268,7 +70932,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -69291,7 +70955,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -69299,7 +70963,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -69352,7 +71016,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -69360,7 +71024,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -69427,7 +71091,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -69435,7 +71099,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -69495,7 +71159,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -69503,7 +71167,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -69547,7 +71211,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -69570,7 +71234,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -69578,7 +71242,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -69638,7 +71302,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -69646,7 +71310,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -69706,7 +71370,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -69714,7 +71378,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -69758,7 +71422,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -69781,7 +71445,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -69789,7 +71453,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -69849,7 +71513,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -69857,7 +71521,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -69894,27 +71558,20 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
-                  "scope": "can",
-                  "type": "tv",
-                  "lan": "English"
-                },
-                {
-                  "seq": 3,
                   "disp": "ESPNR",
                   "scope": "natl",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 4,
+                  "seq": 3,
                   "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
                   "scope": "home",
                   "type": "radio",
                   "lan": "English"
                 },
                 {
-                  "seq": 5,
+                  "seq": 4,
                   "disp": "WOAI 1200AM",
                   "scope": "away",
                   "type": "radio",
@@ -69924,7 +71581,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -69932,7 +71589,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -70006,7 +71663,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -70014,7 +71671,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -70058,7 +71715,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -70074,7 +71731,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -70082,7 +71739,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -70142,7 +71799,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -70150,7 +71807,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -70187,7 +71844,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -70210,7 +71867,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -70218,7 +71875,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -70278,7 +71935,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -70286,7 +71943,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -70316,7 +71973,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -70346,7 +72003,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -70354,7 +72011,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -70421,7 +72078,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -70429,7 +72086,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -70489,7 +72146,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -70497,7 +72154,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -70557,7 +72214,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -70565,7 +72222,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -70625,7 +72282,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -70633,7 +72290,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -70686,7 +72343,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -70694,7 +72351,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -70724,7 +72381,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -70768,7 +72425,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -70776,7 +72433,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -70836,7 +72493,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -70844,7 +72501,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -70911,7 +72568,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -70919,7 +72576,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -70963,7 +72620,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -70986,7 +72643,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -70994,7 +72651,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -71061,7 +72718,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -71069,7 +72726,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -71113,7 +72770,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -71136,7 +72793,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -71144,7 +72801,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -71218,7 +72875,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -71226,7 +72883,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -71286,7 +72943,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -71294,7 +72951,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -71361,7 +73018,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -71369,7 +73026,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -71429,7 +73086,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -71437,7 +73094,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -71497,7 +73154,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -71505,7 +73162,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -71572,7 +73229,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -71580,7 +73237,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -71610,7 +73267,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -71640,7 +73297,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -71648,7 +73305,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -71708,7 +73365,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -71716,7 +73373,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -71776,7 +73433,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -71784,7 +73441,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -71835,7 +73492,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "TSN",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -71851,7 +73508,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -71859,7 +73516,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -71910,7 +73567,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -71933,7 +73590,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -71941,7 +73598,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -72022,7 +73679,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -72030,7 +73687,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -72074,7 +73731,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -72097,7 +73754,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -72105,7 +73762,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -72172,7 +73829,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -72180,7 +73837,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -72240,7 +73897,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -72248,7 +73905,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -72308,7 +73965,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -72316,7 +73973,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -72376,7 +74033,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -72384,7 +74041,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -72458,7 +74115,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -72466,7 +74123,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -72526,7 +74183,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -72534,7 +74191,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -72564,7 +74221,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -72594,7 +74251,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -72602,7 +74259,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -72662,7 +74319,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -72670,7 +74327,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -72730,7 +74387,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -72738,7 +74395,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -72812,7 +74469,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -72820,7 +74477,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -72873,7 +74530,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -72881,7 +74538,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -72918,7 +74575,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -72941,7 +74598,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -72949,7 +74606,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -72993,7 +74650,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -73016,7 +74673,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -73024,7 +74681,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -73084,7 +74741,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -73092,7 +74749,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -73145,7 +74802,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -73153,7 +74810,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -73213,7 +74870,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -73221,7 +74878,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -73265,7 +74922,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -73288,7 +74945,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -73296,7 +74953,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -73356,7 +75013,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -73364,7 +75021,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -73408,7 +75065,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -73431,7 +75088,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -73439,7 +75096,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -73506,7 +75163,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -73514,7 +75171,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -73574,7 +75231,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -73582,7 +75239,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -73642,7 +75299,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -73650,7 +75307,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -73701,7 +75358,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -73724,7 +75381,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -73732,7 +75389,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -73799,7 +75456,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -73807,7 +75464,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -73860,7 +75517,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -73868,7 +75525,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -73898,7 +75555,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -73942,7 +75599,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -73950,7 +75607,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -74010,7 +75667,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -74018,7 +75675,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -74062,7 +75719,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -74085,7 +75742,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -74093,7 +75750,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -74153,7 +75810,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -74161,7 +75818,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -74198,7 +75855,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -74221,7 +75878,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -74229,7 +75886,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -74289,7 +75946,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -74297,7 +75954,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -74327,7 +75984,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -74371,7 +76028,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -74379,7 +76036,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -74439,7 +76096,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -74447,7 +76104,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -74514,7 +76171,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -74522,7 +76179,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -74582,7 +76239,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -74590,7 +76247,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -74650,7 +76307,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -74658,7 +76315,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -74718,7 +76375,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -74726,7 +76383,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -74779,7 +76436,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -74787,7 +76444,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -74854,7 +76511,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -74862,7 +76519,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -74906,7 +76563,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -74936,7 +76593,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -74944,7 +76601,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -75004,7 +76661,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -75012,7 +76669,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -75086,7 +76743,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -75094,7 +76751,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -75131,7 +76788,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -75154,7 +76811,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -75162,7 +76819,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -75215,7 +76872,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -75223,7 +76880,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -75283,7 +76940,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -75291,7 +76948,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -75365,7 +77022,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -75373,7 +77030,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -75417,7 +77074,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -75440,7 +77097,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -75448,7 +77105,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -75508,7 +77165,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -75516,7 +77173,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -75560,7 +77217,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -75583,7 +77240,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -75591,7 +77248,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -75658,7 +77315,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -75666,7 +77323,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -75726,7 +77383,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -75734,7 +77391,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -75801,7 +77458,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -75809,7 +77466,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -75869,7 +77526,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -75877,7 +77534,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -75937,7 +77594,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -75945,7 +77602,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -76005,7 +77662,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -76013,7 +77670,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -76043,7 +77700,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -76073,7 +77730,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -76081,7 +77738,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -76134,7 +77791,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -76142,7 +77799,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -76172,7 +77829,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -76209,7 +77866,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -76217,7 +77874,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -76277,7 +77934,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -76285,7 +77942,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -76352,7 +78009,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -76360,7 +78017,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -76420,7 +78077,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -76428,7 +78085,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -76458,7 +78115,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -76479,7 +78136,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -76502,7 +78159,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -76510,7 +78167,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -76554,7 +78211,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -76577,7 +78234,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -76585,7 +78242,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -76645,7 +78302,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -76653,7 +78310,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -76690,7 +78347,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -76713,7 +78370,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -76721,7 +78378,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -76758,7 +78415,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -76781,7 +78438,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -76789,7 +78446,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -76849,7 +78506,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -76857,7 +78514,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -76917,7 +78574,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -76925,7 +78582,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -76969,7 +78626,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -76992,7 +78649,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -77000,7 +78657,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -77067,7 +78724,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -77075,7 +78732,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -77135,7 +78792,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -77143,7 +78800,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -77203,7 +78860,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -77211,7 +78868,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -77264,7 +78921,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -77272,7 +78929,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -77332,7 +78989,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -77340,7 +78997,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -77384,7 +79041,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -77407,7 +79064,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -77415,7 +79072,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -77489,7 +79146,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -77497,7 +79154,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -77557,7 +79214,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -77565,7 +79222,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -77595,7 +79252,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -77609,7 +79266,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -77632,7 +79289,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -77640,7 +79297,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -77700,7 +79357,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -77708,7 +79365,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -77782,7 +79439,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -77790,7 +79447,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -77850,7 +79507,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -77858,7 +79515,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -77888,7 +79545,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -77925,7 +79582,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -77933,7 +79590,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -77993,7 +79650,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -78001,7 +79658,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -78068,7 +79725,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -78076,7 +79733,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -78129,7 +79786,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -78137,7 +79794,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -78197,7 +79854,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -78205,7 +79862,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -78265,7 +79922,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -78273,7 +79930,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -78333,7 +79990,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -78341,7 +79998,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -78401,7 +80058,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -78409,7 +80066,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -78476,7 +80133,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -78484,7 +80141,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -78514,7 +80171,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -78535,7 +80192,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -78558,7 +80215,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -78566,7 +80223,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -78610,7 +80267,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -78633,7 +80290,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -78641,7 +80298,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -78715,7 +80372,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -78723,7 +80380,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -78767,7 +80424,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -78790,7 +80447,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -78798,7 +80455,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -78872,7 +80529,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -78880,7 +80537,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -78947,7 +80604,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -78955,7 +80612,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -79015,7 +80672,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -79023,7 +80680,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -79076,7 +80733,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -79084,7 +80741,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -79114,7 +80771,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -79144,7 +80801,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -79152,7 +80809,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -79182,7 +80839,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -79212,7 +80869,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -79220,7 +80877,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -79280,7 +80937,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -79288,7 +80945,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -79332,7 +80989,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -79355,7 +81012,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -79363,7 +81020,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -79423,7 +81080,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -79431,7 +81088,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -79498,7 +81155,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -79506,7 +81163,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -79566,7 +81223,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -79574,7 +81231,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -79634,7 +81291,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -79642,7 +81299,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -79709,7 +81366,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -79717,7 +81374,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -79747,7 +81404,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -79784,7 +81441,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -79792,7 +81449,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -79852,7 +81509,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -79860,7 +81517,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -79890,7 +81547,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -79911,7 +81568,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -79934,7 +81591,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -79942,7 +81599,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -80002,7 +81659,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -80010,7 +81667,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -80070,7 +81727,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -80078,7 +81735,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -80131,7 +81788,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -80139,7 +81796,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -80199,7 +81856,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -80207,7 +81864,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -80260,7 +81917,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -80268,7 +81925,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -80335,7 +81992,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -80343,7 +82000,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -80373,7 +82030,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -80403,7 +82060,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -80411,7 +82068,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -80441,7 +82098,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -80462,7 +82119,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -80485,7 +82142,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -80493,7 +82150,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -80553,7 +82210,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -80561,7 +82218,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -80628,7 +82285,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -80636,7 +82293,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -80696,7 +82353,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -80704,7 +82361,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -80771,7 +82428,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -80779,7 +82436,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -80839,7 +82496,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -80847,7 +82504,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -80877,7 +82534,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -80914,7 +82571,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -80922,7 +82579,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -80952,7 +82609,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -80996,7 +82653,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -81004,7 +82661,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -81078,7 +82735,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -81086,7 +82743,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -81153,7 +82810,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -81161,7 +82818,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -81205,7 +82862,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -81228,7 +82885,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -81236,7 +82893,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -81273,7 +82930,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -81296,7 +82953,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -81304,7 +82961,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -81364,7 +83021,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -81372,7 +83029,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -81425,7 +83082,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -81433,7 +83090,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -81507,7 +83164,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -81515,7 +83172,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -81559,7 +83216,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -81582,7 +83239,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -81590,7 +83247,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -81657,7 +83314,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -81665,7 +83322,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -81739,7 +83396,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -81747,7 +83404,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -81807,7 +83464,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -81815,7 +83472,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -81875,7 +83532,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -81883,7 +83540,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -81943,7 +83600,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -81951,7 +83608,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -81995,7 +83652,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -82018,7 +83675,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -82026,7 +83683,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -82093,7 +83750,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -82101,7 +83758,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -82175,7 +83832,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -82183,7 +83840,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -82220,7 +83877,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -82243,7 +83900,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -82251,7 +83908,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -82311,7 +83968,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -82319,7 +83976,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -82372,7 +84029,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -82380,7 +84037,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -82440,7 +84097,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -82448,7 +84105,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -82508,7 +84165,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -82516,7 +84173,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -82590,7 +84247,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -82598,7 +84255,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -82635,7 +84292,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -82658,7 +84315,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -82666,7 +84323,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -82696,7 +84353,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -82717,7 +84374,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -82740,7 +84397,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -82748,7 +84405,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -82801,7 +84458,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -82809,7 +84466,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -82869,7 +84526,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -82877,7 +84534,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -82937,7 +84594,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -82945,7 +84602,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -82975,7 +84632,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -82996,7 +84653,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -83019,7 +84676,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -83027,7 +84684,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -83087,7 +84744,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -83095,7 +84752,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -83125,7 +84782,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -83162,7 +84819,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -83170,7 +84827,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -83230,7 +84887,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -83238,7 +84895,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -83291,7 +84948,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -83299,7 +84956,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -83366,7 +85023,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -83374,7 +85031,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -83434,7 +85091,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -83442,7 +85099,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -83502,7 +85159,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -83510,7 +85167,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -83570,7 +85227,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -83578,7 +85235,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -83608,7 +85265,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -83629,7 +85286,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -83652,7 +85309,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -83660,7 +85317,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -83727,7 +85384,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -83735,7 +85392,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -83779,7 +85436,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -83802,7 +85459,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -83810,7 +85467,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -83870,7 +85527,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -83878,7 +85535,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -83938,7 +85595,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -83946,7 +85603,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -83976,7 +85633,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -84006,7 +85663,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -84014,7 +85671,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -84044,7 +85701,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -84074,7 +85731,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -84082,7 +85739,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -84126,7 +85783,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -84149,7 +85806,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -84157,7 +85814,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -84201,7 +85858,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -84224,7 +85881,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -84232,7 +85889,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -84292,7 +85949,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -84300,7 +85957,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -84360,7 +86017,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -84368,7 +86025,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -84435,7 +86092,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -84443,7 +86100,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -84473,7 +86130,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -84503,7 +86160,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -84511,7 +86168,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -84571,7 +86228,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -84579,7 +86236,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -84639,7 +86296,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -84647,7 +86304,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -84700,7 +86357,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -84708,7 +86365,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -84738,7 +86395,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -84782,7 +86439,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -84790,7 +86447,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -84834,7 +86491,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -84850,7 +86507,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -84858,7 +86515,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -84918,7 +86575,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -84926,7 +86583,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -84956,7 +86613,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -85000,7 +86657,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -85008,7 +86665,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -85045,7 +86702,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -85075,7 +86732,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -85083,7 +86740,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -85113,7 +86770,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -85157,7 +86814,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -85165,7 +86822,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -85225,7 +86882,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -85233,7 +86890,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -85300,7 +86957,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -85308,7 +86965,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -85375,7 +87032,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -85383,7 +87040,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -85436,7 +87093,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -85444,7 +87101,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -85504,7 +87161,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -85512,7 +87169,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -85556,7 +87213,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -85579,7 +87236,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -85587,7 +87244,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -85654,7 +87311,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -85662,7 +87319,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -85736,7 +87393,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -85744,7 +87401,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -85774,7 +87431,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -85788,7 +87445,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "FSOhio",
+                  "disp": "FOX SPORTS OHIO/WUAB",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -85818,7 +87475,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -85826,7 +87483,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -85886,7 +87543,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -85894,7 +87551,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -85954,7 +87611,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -85962,7 +87619,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -85992,7 +87649,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -86006,7 +87663,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -86029,7 +87686,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -86037,7 +87694,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -86097,7 +87754,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -86105,7 +87762,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -86179,7 +87836,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -86187,7 +87844,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -86247,7 +87904,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -86255,7 +87912,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -86299,7 +87956,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -86322,7 +87979,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -86330,7 +87987,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -86374,7 +88031,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -86397,7 +88054,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -86405,7 +88062,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -86465,7 +88122,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -86473,7 +88130,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -86547,7 +88204,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -86555,7 +88212,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -86615,7 +88272,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -86623,7 +88280,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -86697,7 +88354,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -86705,7 +88362,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -86765,7 +88422,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -86773,7 +88430,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -86833,7 +88490,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -86841,7 +88498,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -86908,7 +88565,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -86916,7 +88573,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -86969,7 +88626,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -86977,7 +88634,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -87021,7 +88678,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -87044,7 +88701,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -87052,7 +88709,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -87112,7 +88769,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -87120,7 +88777,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -87157,7 +88814,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -87180,7 +88837,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -87188,7 +88845,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -87232,7 +88889,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -87255,7 +88912,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -87263,7 +88920,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -87337,7 +88994,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -87345,7 +89002,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -87375,7 +89032,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -87396,7 +89053,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -87419,7 +89076,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -87427,7 +89084,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -87480,7 +89137,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -87488,7 +89145,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -87518,7 +89175,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -87562,7 +89219,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -87570,7 +89227,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -87630,7 +89287,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -87638,7 +89295,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -87705,7 +89362,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -87713,7 +89370,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -87750,7 +89407,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -87771,7 +89428,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -87794,7 +89451,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -87802,7 +89459,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -87862,7 +89519,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -87870,7 +89527,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -87907,7 +89564,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -87930,7 +89587,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -87938,7 +89595,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -87998,7 +89655,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -88006,7 +89663,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -88066,7 +89723,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -88074,7 +89731,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -88127,7 +89784,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -88135,7 +89792,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -88165,7 +89822,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -88209,7 +89866,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -88217,7 +89874,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -88277,7 +89934,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -88285,7 +89942,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -88352,7 +90009,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -88360,7 +90017,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -88420,7 +90077,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -88428,7 +90085,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -88495,7 +90152,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -88503,7 +90160,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -88540,14 +90197,14 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -88570,7 +90227,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -88578,7 +90235,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -88608,7 +90265,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -88652,7 +90309,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -88660,7 +90317,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -88727,7 +90384,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -88735,7 +90392,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -88788,7 +90445,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -88796,7 +90453,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -88856,7 +90513,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -88864,7 +90521,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -88917,7 +90574,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -88925,7 +90582,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -88985,7 +90642,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -88993,7 +90650,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -89046,7 +90703,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -89054,7 +90711,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -89114,7 +90771,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -89122,7 +90779,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -89189,7 +90846,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -89197,7 +90854,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -89257,7 +90914,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -89265,7 +90922,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -89325,7 +90982,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -89333,7 +90990,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -89393,7 +91050,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -89401,7 +91058,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -89445,7 +91102,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -89468,7 +91125,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -89476,7 +91133,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -89550,7 +91207,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -89558,7 +91215,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -89618,7 +91275,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -89626,7 +91283,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -89686,7 +91343,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -89694,7 +91351,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -89768,7 +91425,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -89776,7 +91433,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -89836,7 +91493,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -89844,7 +91501,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -89881,14 +91538,14 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -89911,7 +91568,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -89919,7 +91576,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -89979,7 +91636,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -89987,7 +91644,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -90047,7 +91704,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -90055,7 +91712,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -90122,7 +91779,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -90130,7 +91787,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -90174,7 +91831,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -90190,7 +91847,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -90198,7 +91855,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -90251,7 +91908,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -90259,7 +91916,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -90319,7 +91976,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -90327,7 +91984,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -90401,7 +92058,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -90409,7 +92066,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -90469,7 +92126,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -90477,7 +92134,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -90537,7 +92194,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -90545,7 +92202,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -90575,7 +92232,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -90596,7 +92253,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -90619,7 +92276,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -90627,7 +92284,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -90687,7 +92344,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -90695,7 +92352,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -90755,7 +92412,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -90763,7 +92420,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -90816,7 +92473,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -90824,7 +92481,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -90891,7 +92548,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -90899,7 +92556,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -90929,7 +92586,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -90959,7 +92616,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -90967,7 +92624,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -91027,7 +92684,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -91035,7 +92692,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -91065,7 +92722,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -91086,7 +92743,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -91109,7 +92766,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -91117,7 +92774,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -91147,7 +92804,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -91168,7 +92825,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -91191,7 +92848,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -91199,7 +92856,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -91252,7 +92909,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -91260,7 +92917,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -91313,7 +92970,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -91321,7 +92978,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -91358,7 +93015,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -91381,7 +93038,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -91389,7 +93046,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -91449,7 +93106,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -91457,7 +93114,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -91517,7 +93174,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -91525,7 +93182,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -91585,7 +93242,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -91593,7 +93250,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -91623,7 +93280,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -91644,7 +93301,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -91667,7 +93324,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -91675,7 +93332,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -91705,14 +93362,14 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "home",
                   "type": "tv",
                   "lan": "English"
@@ -91726,7 +93383,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -91749,7 +93406,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -91757,7 +93414,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -91787,7 +93444,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -91831,7 +93488,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -91839,7 +93496,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -91899,7 +93556,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -91907,7 +93564,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -91967,7 +93624,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -91975,7 +93632,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -92005,7 +93662,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -92049,7 +93706,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -92057,7 +93714,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -92124,7 +93781,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -92132,7 +93789,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -92185,7 +93842,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -92193,7 +93850,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -92253,7 +93910,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -92261,7 +93918,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -92291,7 +93948,7 @@ var nba = {
               "b": [
                 {
                   "seq": 1,
-                  "disp": "NBATV",
+                  "disp": "NBA TV",
                   "scope": "natl",
                   "type": "tv",
                   "lan": "English"
@@ -92321,7 +93978,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -92329,7 +93986,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -92389,7 +94046,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -92397,7 +94054,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -92434,7 +94091,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -92457,7 +94114,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -92465,7 +94122,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -92525,7 +94182,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
@@ -92533,7 +94190,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -92600,7 +94257,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -92608,7 +94265,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -92652,7 +94309,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -92675,7 +94332,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -92683,7 +94340,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -92727,7 +94384,7 @@ var nba = {
                 },
                 {
                   "seq": 3,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -92750,7 +94407,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612766,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "CHA",
               "tn": "Hornets",
               "tc": "Charlotte",
@@ -92758,7 +94415,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612754,
-              "re": "2-2",
+              "re": "6-7",
               "ta": "IND",
               "tn": "Pacers",
               "tc": "Indiana",
@@ -92818,7 +94475,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -92826,7 +94483,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612737,
-              "re": "1-3",
+              "re": "2-10",
               "ta": "ATL",
               "tn": "Hawks",
               "tc": "Atlanta",
@@ -92907,7 +94564,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -92915,7 +94572,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -92975,7 +94632,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612756,
-              "re": "1-3",
+              "re": "4-9",
               "ta": "PHX",
               "tn": "Suns",
               "tc": "Phoenix",
@@ -92983,7 +94640,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612742,
-              "re": "0-4",
+              "re": "2-10",
               "ta": "DAL",
               "tn": "Mavericks",
               "tc": "Dallas",
@@ -93050,7 +94707,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612744,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "GSW",
               "tn": "Warriors",
               "tc": "Golden State",
@@ -93058,7 +94715,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -93132,7 +94789,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -93140,7 +94797,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -93193,7 +94850,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612751,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "BKN",
               "tn": "Nets",
               "tc": "Brooklyn",
@@ -93201,7 +94858,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612738,
-              "re": "2-2",
+              "re": "11-2",
               "ta": "BOS",
               "tn": "Celtics",
               "tc": "Boston",
@@ -93254,7 +94911,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612752,
-              "re": "0-3",
+              "re": "6-5",
               "ta": "NYK",
               "tn": "Knicks",
               "tc": "New York",
@@ -93262,7 +94919,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612739,
-              "re": "3-1",
+              "re": "5-7",
               "ta": "CLE",
               "tn": "Cavaliers",
               "tc": "Cleveland",
@@ -93329,7 +94986,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612761,
-              "re": "2-1",
+              "re": "7-4",
               "ta": "TOR",
               "tn": "Raptors",
               "tc": "Toronto",
@@ -93337,7 +94994,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612748,
-              "re": "2-1",
+              "re": "6-6",
               "ta": "MIA",
               "tn": "Heat",
               "tc": "Miami",
@@ -93397,7 +95054,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612764,
-              "re": "3-0",
+              "re": "6-5",
               "ta": "WAS",
               "tn": "Wizards",
               "tc": "Washington",
@@ -93405,7 +95062,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612753,
-              "re": "3-1",
+              "re": "8-4",
               "ta": "ORL",
               "tn": "Magic",
               "tc": "Orlando",
@@ -93472,7 +95129,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612749,
-              "re": "3-1",
+              "re": "5-6",
               "ta": "MIL",
               "tn": "Bucks",
               "tc": "Milwaukee",
@@ -93480,7 +95137,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612755,
-              "re": "1-3",
+              "re": "6-5",
               "ta": "PHI",
               "tn": "76ers",
               "tc": "Philadelphia",
@@ -93540,7 +95197,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612765,
-              "re": "2-2",
+              "re": "9-3",
               "ta": "DET",
               "tn": "Pistons",
               "tc": "Detroit",
@@ -93548,7 +95205,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612741,
-              "re": "0-3",
+              "re": "2-8",
               "ta": "CHI",
               "tn": "Bulls",
               "tc": "Chicago",
@@ -93608,7 +95265,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612743,
-              "re": "1-2",
+              "re": "7-5",
               "ta": "DEN",
               "tn": "Nuggets",
               "tc": "Denver",
@@ -93616,7 +95273,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612750,
-              "re": "2-2",
+              "re": "7-4",
               "ta": "MIN",
               "tn": "Timberwolves",
               "tc": "Minnesota",
@@ -93676,7 +95333,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612759,
-              "re": "3-0",
+              "re": "7-5",
               "ta": "SAS",
               "tn": "Spurs",
               "tc": "San Antonio",
@@ -93684,7 +95341,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612740,
-              "re": "1-3",
+              "re": "6-6",
               "ta": "NOP",
               "tn": "Pelicans",
               "tc": "New Orleans",
@@ -93721,7 +95378,7 @@ var nba = {
                 },
                 {
                   "seq": 2,
-                  "disp": "Fox Sports Tennessee",
+                  "disp": "Fox Sports Southeast - Memphis",
                   "scope": "away",
                   "type": "tv",
                   "lan": "English"
@@ -93744,7 +95401,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612763,
-              "re": "3-0",
+              "re": "7-4",
               "ta": "MEM",
               "tn": "Grizzlies",
               "tc": "Memphis",
@@ -93752,7 +95409,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612760,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "OKC",
               "tn": "Thunder",
               "tc": "Oklahoma City",
@@ -93819,7 +95476,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612747,
-              "re": "1-2",
+              "re": "5-7",
               "ta": "LAL",
               "tn": "Lakers",
               "tc": "Los Angeles",
@@ -93827,7 +95484,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612746,
-              "re": "3-0",
+              "re": "5-6",
               "ta": "LAC",
               "tn": "Clippers",
               "tc": "LA",
@@ -93878,7 +95535,7 @@ var nba = {
                 },
                 {
                   "seq": 4,
-                  "disp": "NBATV Canada",
+                  "disp": "NBA TV Canada",
                   "scope": "can",
                   "type": "tv",
                   "lan": "English"
@@ -93901,7 +95558,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612762,
-              "re": "2-2",
+              "re": "5-7",
               "ta": "UTA",
               "tn": "Jazz",
               "tc": "Utah",
@@ -93909,7 +95566,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612757,
-              "re": "3-1",
+              "re": "6-6",
               "ta": "POR",
               "tn": "Trail Blazers",
               "tc": "Portland",
@@ -93962,7 +95619,7 @@ var nba = {
             },
             "v": {
               "tid": 1610612745,
-              "re": "3-1",
+              "re": "9-3",
               "ta": "HOU",
               "tn": "Rockets",
               "tc": "Houston",
@@ -93970,7 +95627,7 @@ var nba = {
             },
             "h": {
               "tid": 1610612758,
-              "re": "1-3",
+              "re": "3-8",
               "ta": "SAC",
               "tn": "Kings",
               "tc": "Sacramento",
