@@ -91,7 +91,7 @@
 					var network = '';
 					var networks = nba_games[i].bd.b;
 					for (i in networks) {
-						if ( (networks[i].scope == 'natl') && (networks[i].type == 'tv') && (networks[i].disp != 'NBATV') ) {
+						if ( (networks[i].scope == 'natl') && (networks[i].type == 'tv') && (networks[i].disp != 'NBATV') && (networks[i].disp != 'NBA TV') ) {
 							network = networks[i].disp;
 						};
 					};
