@@ -315,8 +315,10 @@
 				if ( (i > 0) && ( time == moment(games[i-1].start).format('h:mma') ) ) {
 					same_time_as_last = true;
 				};
-				if (national) {
+				if (national && network_logo) {
 					display_time += " on <img src='" + network_logo + "' alt='" + network +"'>";
+				} else if (national) {
+					display_time += " on " + network;
 				};
 				
 				var html = "<div class='logos'>";
@@ -435,7 +437,7 @@
 						"color":"#BA0C2F"
 					},
 					"start": moment().format('MMM DD YYYY hh:mm:ss'),
-					"network":""
+					"network":"NBA TV"
 				},
 				{
 					"league":"NBA",
