@@ -121,10 +121,10 @@ main {
 	cursor: default;
 	border-radius:.25em;
 }
-#gameFeed .game:hover {
+#gameFeed a.game:hover {
 	box-shadow: 0 0 13px 0 #e0e0e0;
 }
-#gameFeed .game:active .data .action {
+#gameFeed a.game:active .data .action {
 	color:inherit;
 }
 
