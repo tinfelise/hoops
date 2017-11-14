@@ -419,6 +419,8 @@
 		};
 		function NBAVariety () {
 			games = [];
+			var now = moment().format('x');
+				now = parseInt(now);
 			var second = 1000;
 			var minute = second*60;
 			var hour = minute*60;
@@ -451,7 +453,7 @@
 						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/POR.svg",
 						"color":"#F0163A"
 					},
-					"start": moment( now + (minute*15) + (second*3) ).format('MMM DD YYYY hh:mm:ss'),
+					"start": moment( now + (minute*15) + (second*3), 'x' ).format('MMM DD YYYY hh:mm:ss'),
 					"network":"ESPN"
 				},
 				{
@@ -466,12 +468,12 @@
 						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/NOP.svg",
 						"color":"#002B5C"
 					},
-					"start": moment( now + (hour*1) ).format('MMM DD YYYY hh:mm:ss'),
+					"start": moment( now + (hour*1), 'x' ).format('MMM DD YYYY hh:mm:ss'),
 					"network":"TNT"	
 				},
 				{
 					"league":"NBA",
-					"home":{
+					"home":{	
 						"team":"Knicks",
 						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/NYK.svg",
 						"color":"#003DA5"
@@ -481,7 +483,22 @@
 						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/LAL.svg",
 						"color":"#702F8A"
 					},
-					"start": moment( now + (hour*2) ).format('MMM DD YYYY hh:mm:ss'),
+					"start": moment( now + (hour*2), 'x' ).format('MMM DD YYYY hh:mm:ss'),
+					"network":"Nickelodeon"	
+				},
+				{
+					"league":"NBA",
+					"home":{	
+						"team":"Spurs",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/UTA.svg",
+						"color":"#B6BFBF"
+					},
+					"away":{
+						"team":"Nets",
+						"logo":"https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/BKN.svg",
+						"color":"#FFFFFF"
+					},
+					"start": moment( now + (minute*15) + 3, 'x' ).format('MMM DD YYYY hh:mm:ss'),
 					"network":""	
 				}
 			];
