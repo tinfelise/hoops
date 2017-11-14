@@ -278,13 +278,17 @@
 				var cta = '';
 				var network_logo = '';
 				var national = false;
-
-				if (games[i].network) {
+				
+				var network = games[i].network;
+				if (network) {
 					national = true;
-					var network = games[i].network;
-					cta = networks[network].link;
-					network_logo = networks[network].logo;
-					destination = "Watch on <img src='" + network_logo + "' alt='" +  network +"'>";
+					if (networks[network]) {
+						cta = networks[network].link;
+						network_logo = networks[network].logo;
+						destination = "Watch on <img src='" + network_logo + "' alt='" +  network +"'>";
+					} else {
+						destination = "Watch on " + network;
+					};
 				} else {
 					// destination = "Search on Reddit";
 					cta = reddit(games[i].league,games[i].home.team,games[i].away.team);
