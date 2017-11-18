@@ -274,6 +274,7 @@
 		};
 
 		function createDailyFeed () {
+			orderGames();
 			var games_html = '';
 			if (games.length == 0) {
 				games_html = '<h2 id="noGames">There are no games today. <span>Stay strong.</span></h2>';
