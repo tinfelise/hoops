@@ -51,12 +51,14 @@ ncaaScoreboard.dispScoreboard = function(data) {
 	createDailyFeed();
 };
 
-function fetch_ncaa() {
-	var divisions = ['d1','d2','d3'];
+var ncaa_divisions = ['d1','d2','d3'];
+var ncaa_divisions = ['d1'];
+
+function fetch_ncaa(day, divisions) {
 	for (i in divisions) {
 		var ncaa_url = "https://data.ncaa.com/jsonp/scoreboard/basketball-men/"
 			+ divisions[i] + '/'
-			+ moment().format('YYYY/MM/DD')
+			+ moment(day, 'YYYY/MM/DD').format('YYYY/MM/DD')
 			+ "/scoreboard.html?callback=ncaaScoreboard.dispScoreboard";
 		// var ncaa_url = "https://data.ncaa.com/jsonp/scoreboard/basketball-men/d1/2017/11/10/scoreboard.html?callback=ncaaScoreboard.dispScoreboard";
 		var ncaa_settings = {
