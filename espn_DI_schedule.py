@@ -3,10 +3,18 @@ print 'Geting ESPN DI Schedule...'
 from lxml import html
 import requests
 from lxml import etree
+import datetime
 
 # urls = ['http://www.espn.com/mens-college-basketball/schedule/_/date/20171120/group/50','http://www.espn.com/mens-college-basketball/schedule/_/date/20171121/group/50']
-dates = ['20171120','20171121']
 # create dates for the season to construct the URLs
+dates = ['20171120','20171121']
+today = datetime.datetime.today()
+numdays = 100
+dateList = [] # remove once date formatting is correct
+for x in range (0, numdays):
+    dateList.append(today + datetime.timedelta(days = x))
+    # format and append to date instead
+print dateList
 
 espn_games = []
 for date in dates:
@@ -60,4 +68,6 @@ for date in dates:
 	# conference = tree.xpath("//div[@class='coach-conf']/div[@class='row clearfix'][2]/a[@class='value']")[0].text_content()
 	# ncaa_teams[school] = {'logo':logo, 'mascot':mascot, 'division':'DIII', 'conference':conference}
 
-print espn_games
+# print espn_games
+
+
