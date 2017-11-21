@@ -32,7 +32,8 @@ for date in dates:
 
 			if away_team_name != 'TBD':
 				away_full = game.xpath("./td[1]//*[@class='team-name']/abbr/@title")[0]
-				away_team['mascot'] = away_full.split(away_team_name + ' ')[1]
+				if len(away_full.split(away_team_name + ' ')) > 1:
+					away_team['mascot'] = away_full.split(away_team_name + ' ')[1]
 				away_team['abbr'] = game.xpath("./td[1]//*[@class='team-name']/abbr/text()")[0]
 				away_logo = game.xpath("./td[1]//img/@src")
 				if away_logo:
@@ -41,7 +42,8 @@ for date in dates:
 
 			if home_team_name != 'TBD':
 				home_full = game.xpath("./td[2]//*[@class='team-name']/abbr/@title")[0]
-				home_team['mascot'] = home_full.split(home_team_name + ' ')[1]
+				if len(home_full.split(home_team_name + ' ')) > 1:
+					home_team['mascot'] = home_full.split(home_team_name + ' ')[1]
 				home_team['abbr'] = game.xpath("./td[2]//*[@class='team-name']/abbr/text()")[0]
 				home_logo = game.xpath("./td[2]//img/@src")
 				if home_logo:
