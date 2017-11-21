@@ -263,14 +263,33 @@
 			});
 		};
 
-		function reddit (league, home, away) {
+		function search_link (league, home, away) {
 			var link = "";
 			if (league == "NBA") {
 				link = "https://www.reddit.com/r/nbastreams/search?q=";
 				link += home + "+" + away;
 				link += "&restrict_sr=on";
 			};
+			if (league == "NCAA") {
+				link = "https://www.google.com/search?q=";
+				link += home + "+" + away;
+				link += "+basketball+live+stream";
+			}
 			return link;
+		};
+		function search_cta (league, home, away) {
+			var network_logo = '';
+			var search_engine = '';
+			if (league == "NBA") {
+				// network_logo = 'http://svgshare.com/i/2SL.svg';
+				network_logo = 'https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/1024px-Reddit_logo_and_wordmark.svg.png';
+				search_engine = 'Reddit';
+			};
+			if (league == "NCAA") {
+				network_logo = 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg';
+				search_engine = 'Google';
+			};
+			return "Search on <img src='" + network_logo +"' alt='" + search_engine + "'>";
 		};
 
 		function createDailyFeed () {
@@ -298,11 +317,8 @@
 						destination = "Watch on " + network;
 					};
 				} else {
-					// destination = "Search on Reddit";
-					cta = reddit(games[i].league,games[i].home.team,games[i].away.team);
-					// network_logo = 'http://svgshare.com/i/2SL.svg';
-					network_logo = 'https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/1024px-Reddit_logo_and_wordmark.svg.png';
-					destination = "Search on <img src='" + network_logo +"' alt='Reddit'>";
+					cta = search_link(games[i].league,games[i].home.team,games[i].away.team);
+					destination = search_cta(games[i].league,games[i].home.team,games[i].away.team);
 				}
 				
 				// if (games[i].league == 'NBA') {
