@@ -290,6 +290,11 @@
 			};
 			return "Search on <img src='" + network_logo +"' alt='" + search_engine + "'>";
 		};
+		function action_class (league) {
+			if (league == "NCAA") {
+				return 'google';
+			};
+		};
 
 		function createDailyFeed () {
 			orderGames();
@@ -301,6 +306,7 @@
 				var league_logo = league_logos[games[i].league];
 				var destination = '';
 				var cta = '';
+				var action_class_name ='';
 				var network_logo = '';
 				var national = false;
 				var network = games[i].network;
@@ -317,6 +323,7 @@
 				} else {
 					cta = search_link(games[i].league,games[i].home.team,games[i].away.team);
 					destination = search_cta(games[i].league,games[i].home.team,games[i].away.team);
+					action_class_name = action_class(games[i].league);
 				}
 				
 				var time = moment(games[i].start).format('h:mma');
@@ -350,8 +357,7 @@
 						+ "<div class='data'>"
 							+ "<h3>" + games[i].away.team + " @ " + games[i].home.team + "</h3>"
 								+ "<span class='time'>" + display_time + "</span>"
-								+ "<span class='action'>" //href='" + cta + "' target='blank_'
-									// + "<img src='" + network_logo + "' >"
+								+ "<span class='action " + action_class_name + "'>"
 									+ destination 
 								+ "</span>"
 						+ "</div>"
