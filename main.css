@@ -94,7 +94,7 @@ main {
 	display:flex;
 }
 #gameFeed.loaded {
-	max-height:1000vh;
+	max-height:10000vh;
 	/*overflow:scroll;*/
 	display:block;
 }
