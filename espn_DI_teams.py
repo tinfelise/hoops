@@ -2,7 +2,7 @@
 print 'Geting ESPN DI Teams...'
 from lxml import html
 import requests
-from lxml import etree
+# from lxml import etree
 import datetime
 
 dates = []
