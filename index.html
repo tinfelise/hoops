@@ -296,7 +296,6 @@
 			var games_html = '';
 			if (games.length == 0) {
 				games_html = '<h2 id="noGames">There are no games today. <span>Stay strong.</span></h2>';
-				// $('footer div').hide();
 			};
 			for (i in games) {
 				var league_logo = league_logos[games[i].league];
@@ -320,10 +319,6 @@
 					destination = search_cta(games[i].league,games[i].home.team,games[i].away.team);
 				}
 				
-				// if (games[i].league == 'NBA') {
-				// 	var home_logo = nba_teams[games[i].home_team].logo;
-				// 	var away_logo = nba_teams[games[i].away_team].logo;
-				// };
 				var time = moment(games[i].start).format('h:mma');
 				var display_time = time;
 				var unix_time = moment(games[i].start).format('x');
@@ -354,13 +349,11 @@
 					html += "</div>"
 						+ "<div class='data'>"
 							+ "<h3>" + games[i].away.team + " @ " + games[i].home.team + "</h3>"
-							// + "<div>"
 								+ "<span class='time'>" + display_time + "</span>"
 								+ "<span class='action'>" //href='" + cta + "' target='blank_'
 									// + "<img src='" + network_logo + "' >"
 									+ destination 
 								+ "</span>"
-							// + "</div>"
 						+ "</div>"
 						+ "<img class='leagueIcon' src='" + league_logo + "' alt='" + games[i].league + " logo'>";
 					if (cta) {
