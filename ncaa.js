@@ -85,7 +85,6 @@ function fetch_ncaa(day, divisions) {
 			+ divisions[i] + '/'
 			+ moment(day, 'YYYY/MM/DD').format('YYYY/MM/DD')
 			+ "/scoreboard.html?callback=ncaaScoreboard.dispScoreboard";
-		// var ncaa_url = "https://data.ncaa.com/jsonp/scoreboard/basketball-men/d1/2017/11/10/scoreboard.html?callback=ncaaScoreboard.dispScoreboard";
 		var ncaa_settings = {
 		  "dataType": 'jsonp',
 		  "url": ncaa_url
@@ -95,21 +94,21 @@ function fetch_ncaa(day, divisions) {
 };
 // fetch_ncaa();
 
-function get_ncaa_team_names (days) {
-	var ncaa_divisions = ['d1','d2','d3'];
-	for (i=0; i<=days; i++) {
-		var day = moment().add(i, 'days').format('YYYY/MM/DD');
-		fetch_ncaa(day, ncaa_divisions);
-	};
-	var team_names_from_ncaa_com = [];
-	for (game in games) {
-		if (games[game].league == 'NCAA') {
-			team_names_from_ncaa_com.push(games[game].away.team);
-			team_names_from_ncaa_com.push(games[game].home.team);
-		};
-	};
-	console.log(team_names_from_ncaa_com);
-};
+// function get_ncaa_team_names (days) {
+// 	var ncaa_divisions = ['d1','d2','d3'];
+// 	for (i=0; i<=days; i++) {
+// 		var day = moment().add(i, 'days').format('YYYY/MM/DD');
+// 		fetch_ncaa(day, ncaa_divisions);
+// 	};
+// 	var team_names_from_ncaa_com = [];
+// 	for (game in games) {
+// 		if (games[game].league == 'NCAA') {
+// 			team_names_from_ncaa_com.push(games[game].away.team);
+// 			team_names_from_ncaa_com.push(games[game].home.team);
+// 		};
+// 	};
+// 	console.log(team_names_from_ncaa_com);
+// };
 // get_ncaa_team_names(2);
 
 
