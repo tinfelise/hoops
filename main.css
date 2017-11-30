@@ -307,6 +307,9 @@ svg path {
 		height:3em;
 		min-width:3em;
 	}
+	#gameFeed .game .logos .missing {
+		font-size:1em;
+	}
 	#madeBy {
 		margin-bottom:1em;
 	}
