@@ -41,23 +41,27 @@ ncaaScoreboard.dispScoreboard = function(data) {
 		var game = ncaa_games[i];
 		var away = {};
 			away.team = game.away.nameRaw;
-			away.logo = 'https://www.ncaa.com' + game.away.iconURL;
 			away.color = game.away.color;
 			away.rank = game.away.teamRank;
-			if(ncaa_teams[away.team]) {
-				away.logo = ncaa_teams[away.team].logo;
-				away.conference = ncaa_teams[away.team].conference;
-				away.division = ncaa_teams[away.team].division;
+			away.short = game.away.shortname;
+			// away.logo = 'https://www.ncaa.com' + game.away.iconURL;
+			var away_lookup = lookup_ncaa_team(away);
+			if (away_lookup) {
+				away.logo = ncaa_teams[away_lookup].logo;
+				away.conference = ncaa_teams[away_lookup].conference;
+				away.division = ncaa_teams[away_lookup].division;
 			};
 		var home = {};
 			home.team = game.home.nameRaw;
-			home.logo = 'https://www.ncaa.com' + game.home.iconURL;
 			home.color = game.home.color;
 			home.rank = game.home.teamRank;
-			if(ncaa_teams[home.team]) {
-				home.logo = ncaa_teams[home.team].logo;
-				home.conference = ncaa_teams[home.team].conference;
-				home.division = ncaa_teams[home.team].division;
+			home.short = game.home.shortname;
+			// home.logo = 'https://www.ncaa.com' + game.home.iconURL;
+			var home_lookup = lookup_ncaa_team(home);
+			if (home_lookup) {
+				home.logo = ncaa_teams[home_lookup].logo;
+				home.conference = ncaa_teams[home_lookup].conference;
+				home.division = ncaa_teams[home_lookup].division;
 			};
 		var start = '';
 		if (game.startTime != 'TBA') {
