@@ -412,6 +412,7 @@
 				var val = currentURL[i].split('=')[1];
 				parameters[key] = val;
 			};
+			installed_apps(parameters);
 			check_for_tests(parameters);
 		};
 		parseURLs();
@@ -439,6 +440,14 @@
 			};
 		};
 
+		function installed_apps (obj) {
+			var url_apps = obj.apps;
+			var apps = [];
+			if (url_apps) {
+				apps = url_apps.split(',')
+				console.log('Installed apps:' + apps);
+			};
+		};
 		
 		function college (divisions) {
 			divisions = divisions.split(',');
