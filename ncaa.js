@@ -37,8 +37,6 @@ function lookup_ncaa_team (obj) {
 var ncaaScoreboard = {};
 ncaaScoreboard.dispScoreboard = function(data) {
     var ncaa_games = data.scoreboard[0].games;
-    console.log('NCAA games:');
-    console.log(ncaa_games);
 	for (i in ncaa_games) {
 		var game = ncaa_games[i];
 		var away = {};
@@ -73,10 +71,7 @@ ncaaScoreboard.dispScoreboard = function(data) {
 			console.log(away.team + ' @ ' + home.team + ' is TBA');
 		};
 		createGame('NCAA', home, away, start, network, division, conference);
-		// createGame('NCAA', home, away, start, network);
 	};
-	// console.log('Clean:');
-	// console.log(games);
 	createDailyFeed();
 };
 
@@ -115,6 +110,5 @@ function get_ncaa_team_names (days) {
 	console.log(team_names_from_ncaa_com);
 };
 // get_ncaa_team_names(2);
-
 
 
