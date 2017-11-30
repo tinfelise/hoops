@@ -342,15 +342,15 @@
 				var html = "<div class='logos'>";
 
 					if (games[i].away.logo) {
-						html += "<img class='away' src='" + games[i].away.logo + "' alt='" + games[i].away.team + " Logo'>";
+						html += "<img class='away' src='" + games[i].away.logo + "' alt='" + games[i].away.team.slice(0,1) + "' data-color='" + games[i].home.color + "'>"
 					} else {
-						html += "<div style='background-color:" + games[i].away.color + "'>" + games[i].away.team.slice(0,1) + "</div>";
+						html += "<div class='missing' style='background-color:" + games[i].away.color + "'>" + games[i].away.team.slice(0,1) + "</div>";
 					};
 
 					if (games[i].home.logo) {
-						html += "<img class='home' src='" + games[i].home.logo + "' alt='" + games[i].home.team + " Logo'>"
+						html += "<img class='home' src='" + games[i].home.logo + "' alt='" + games[i].home.team.slice(0,1) + "' data-color='" + games[i].home.color + "'>"
 					} else {
-						html += "<div style='background-color:" + games[i].home.color + "'>" + games[i].home.team.slice(0,1) + "</div>";
+						html += "<div class='missing' style='background-color:" + games[i].home.color + "'>" + games[i].home.team.slice(0,1) + "</div>";
 					};
 					
 					html += "</div>"
