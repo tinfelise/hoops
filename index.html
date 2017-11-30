@@ -419,10 +419,11 @@
 		function check_for_tests (obj) {
 			var test = obj.test;
 			if (test) {
+				console.log('Test:' + test)
 				var input = test.split('(')[1];
 				if (input) {
 					input = input.split(')')[0];
-					console.log('with input: ' + input);
+					console.log('with input(s): ' + input);
 				};
 				test = test.split('(')[0];
 				window[test](input);
