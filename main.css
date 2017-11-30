@@ -305,6 +305,7 @@ svg path {
 	}
 	#gameFeed .game .logos img {
 		height:3em;
+		min-width:3em;
 	}
 	#madeBy {
 		margin-bottom:1em;
