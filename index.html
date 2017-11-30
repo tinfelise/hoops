@@ -54,6 +54,7 @@
 
 	<!-- Javascript -->
 	<script src="nba.js"></script>
+	<script src="ncaa.js"></script>
 	<script>
 
 		var today = moment().format('YYYYMMDD');
@@ -296,7 +297,7 @@
 			};
 		};
 
-		function createDailyFeed () {
+		function createDailyFeed (test) {
 			orderGames();
 			var games_html = '';
 			if (games.length == 0) {
@@ -384,6 +385,9 @@
 			createCountdowns('.block');
 			guess_timezone();
 			$('#gameFeed').addClass('loaded');
+			if (test == 'gametime') {
+				gametime();
+			}
 
 		};
 
@@ -423,12 +427,22 @@
 				test = test.split('(')[0];
 				window[test](input);
 			};
-			if (test != 'notLoading') {
-				createDailyFeed();
+			if (test == 'NBAVariety' || test == 'noGames') {
+				createDailyFeed(test);
+			} else if (test != 'notLoading') {
+				filterNBAData(today);
+				var ncaa_divisions = ['d1','d2','d3'];
+				// var ncaa_divisions = ['d1'];
+				// fetch_ncaa(today, ncaa_divisions);
+				createDailyFeed(test);
 			};
 		};
 
-
+		
+		function college (divisions) {
+			divisions = divisions.split(',');
+			fetch_ncaa(today, divisions);
+		};
 		function noGames () {
 			games = [];
 		};

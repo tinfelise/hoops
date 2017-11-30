@@ -79,9 +79,6 @@ ncaaScoreboard.dispScoreboard = function(data) {
 	createDailyFeed();
 };
 
-var ncaa_divisions = ['d1','d2','d3'];
-var ncaa_divisions = ['d1'];
-
 function fetch_ncaa(day, divisions) {
 	for (i in divisions) {
 		var ncaa_url = "https://data.ncaa.com/jsonp/scoreboard/basketball-men/"
