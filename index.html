@@ -296,6 +296,18 @@
 			};
 		};
 
+		function abbr(str) {
+			var words = str.split(' ');
+			var abbr = '';
+			for (word in words) {
+				var first = words[word].slice(0,1);
+				if (word < 3 && first != '(') {
+					abbr += first;
+				};
+			};
+			return abbr;
+		};
+
 		function createDailyFeed (test) {
 			orderGames();
 			var games_html = '';
@@ -342,15 +354,15 @@
 				var html = "<div class='logos'>";
 
 					if (games[i].away.logo) {
-						html += "<img class='away' src='" + games[i].away.logo + "' alt='" + games[i].away.team.slice(0,1) + "' data-color='" + games[i].home.color + "'>"
+						html += "<img class='away' src='" + games[i].away.logo + "' alt='" + abbr(games[i].away.team) + "' data-color='" + games[i].home.color + "'>"
 					} else {
-						html += "<div class='missing' style='background-color:" + games[i].away.color + "'>" + games[i].away.team.slice(0,1) + "</div>";
+						html += "<div class='missing' style='background-color:" + games[i].away.color + "'>" + abbr(games[i].away.team) + "</div>";
 					};
 
 					if (games[i].home.logo) {
-						html += "<img class='home' src='" + games[i].home.logo + "' alt='" + games[i].home.team.slice(0,1) + "' data-color='" + games[i].home.color + "'>"
+						html += "<img class='home' src='" + games[i].home.logo + "' alt='" + abbr(games[i].home.team) + "' data-color='" + games[i].home.color + "'>"
 					} else {
-						html += "<div class='missing' style='background-color:" + games[i].home.color + "'>" + games[i].home.team.slice(0,1) + "</div>";
+						html += "<div class='missing' style='background-color:" + games[i].home.color + "'>" + abbr(games[i].home.team) + "</div>";
 					};
 					
 					html += "</div>"
