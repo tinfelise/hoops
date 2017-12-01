@@ -306,8 +306,12 @@ svg path {
 	#gameFeed .game .logos img {
 		height:3em;
 		min-width:3em;
+		line-height:3em;
 	}
 	#gameFeed .game .logos .missing {
+		font-size:1em;
+	}
+	#gameFeed .game .logos img:after {
 		font-size:1em;
 	}
 	#madeBy {
