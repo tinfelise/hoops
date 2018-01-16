@@ -157,14 +157,18 @@ main {
 }
 #gameFeed .game .logos .missing {
 	font-size:2em;
-	height:3em;
-	width:3em;
-	line-height:3em;
+	height:2.5em;
+	width:2.5em;
+	line-height:2.5em;
+	margin:.5rem;
 	border-radius:50%;
 	text-align: center;
 	color:#fff;
 	background-color:#aaa;
 	/*background-color:attr(data-color);*/
+}
+#gameFeed .game .logos *:first-of-type + .missing {
+	margin-left:0;
 }
 #gameFeed .game .logos .home {
 	transform: translate(-.5em);
