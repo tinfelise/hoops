@@ -93,7 +93,7 @@
 					for (i in networks) {
 						if ( (networks[i].scope == 'natl') && (networks[i].type == 'tv') && (networks[i].disp != 'NBATV') && (networks[i].disp != 'NBA TV') ) {
 							network = networks[i].disp;
-						} else if (local_networks.indexOf(networks[i].disp) >= 0) {
+						} else if ((local_networks) && (local_networks.indexOf(networks[i].disp)) >= 0) {
 							network = networks[i].disp;
 						};
 					};
