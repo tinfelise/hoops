@@ -61,7 +61,7 @@
 
 		var games = [];
 
-		function filterNBAData (date) {
+		function filterNBAData (date, local_networks) {
 			games = [];
 			var x = 0;
 			var nba_games = [];
@@ -92,6 +92,8 @@
 					var networks = nba_games[i].bd.b;
 					for (i in networks) {
 						if ( (networks[i].scope == 'natl') && (networks[i].type == 'tv') && (networks[i].disp != 'NBATV') && (networks[i].disp != 'NBA TV') ) {
+							network = networks[i].disp;
+						} else if (local_networks.indexOf(networks[i].disp) >= 0) {
 							network = networks[i].disp;
 						};
 					};
@@ -195,7 +197,15 @@
 					"link":"nba://",
 					"icon":"http://cdn.nba.net/assets/icons/apple-touch-icon.png"
 				}
-			}
+			},
+			"NBCSBA": {
+				"logo":"https://nbcsportsgrouppressbox.files.wordpress.com/2017/03/nbcs_ba_horiz_fc_pos.png",
+				"link":"https://www.nbcsports.com/bayarea/",
+				"app": {
+					"link":"",
+					"icon":"https://nbcsportsgrouppressbox.files.wordpress.com/2016/07/nbcs_app_h_stream_rgb_rev.png"
+				}
+			},
 		};
 
 		function createGame(league, home, away, start, network, division, conference) {
@@ -423,7 +433,6 @@
 				var val = currentURL[i].split('=')[1];
 				parameters[key] = val;
 			};
-			installed_apps(parameters);
 			check_for_tests(parameters);
 		};
 		parseURLs();
@@ -443,7 +452,7 @@
 			if (test == 'NBAVariety' || test == 'noGames') {
 				createDailyFeed(test);
 			} else if (test != 'notLoading') {
-				filterNBAData(today);
+				customizations(obj);
 				var ncaa_divisions = ['d1','d2','d3'];
 				// var ncaa_divisions = ['d1'];
 				// fetch_ncaa(today, ncaa_divisions);
@@ -458,6 +467,23 @@
 				apps = url_apps.split(',')
 				console.log('Installed apps:' + apps);
 			};
+		};
+
+		function loc (obj) {
+			var url_location = obj.loc;
+			var local_networks = {
+				"bayarea":["NBCSBA"]
+			};
+			if (url_location) {
+				return local_networks[url_location];
+			};
+		};
+
+		function customizations (obj) {
+			var local_stations;
+			installed_apps(obj);
+			local_stations = loc(obj);
+			filterNBAData(today, local_stations);
 		};
 		
 		function college (divisions) {
