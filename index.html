@@ -206,6 +206,14 @@
 					"icon":"https://nbcsportsgrouppressbox.files.wordpress.com/2016/07/nbcs_app_h_stream_rgb_rev.png"
 				}
 			},
+			"NBC SPORTS BOSTON": {
+				"logo":"https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png",
+				"link":"https://www.nbcsports.com/boston/"
+			},
+			"NBCSB": {
+				"logo":"https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png",
+				"link":"https://www.nbcsports.com/boston/"
+			}
 		};
 
 		function createGame(league, home, away, start, network, division, conference) {
@@ -473,7 +481,8 @@
 		function loc (obj) {
 			var url_location = obj.loc;
 			var local_networks = {
-				"bayarea":["NBCSBA"]
+				"bayarea":["NBCSBA"],
+				"beantown":["NBC SPORTS BOSTON","NBCSB"]
 			};
 			if (url_location) {
 				return local_networks[url_location];
