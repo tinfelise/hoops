@@ -10,7 +10,8 @@ function get_nba_data (season, date, stations) {
   var settings = {
       url: path,
       beforeSend: function () {
-        console.log('Getting the ' + season + ' NBA schedule...')
+        console.log('Getting the ' + season + ' NBA schedule...');
+        console.log(path);
       },
       error: function (request, error) {
         console.log('Airball. (' + error + ')');
@@ -53,15 +54,16 @@ function filterNBAData (data, date, local_networks) {
         start = start + '-04:00'; // EST timezone offset
       var network = '';
       var networks = nba_games[i].bd.b;
-      for (i in networks) {
-        if ( (networks[i].scope == 'natl') && (networks[i].type == 'tv') && (networks[i].disp != 'NBATV') && (networks[i].disp != 'NBA TV') ) {
-          network = networks[i].disp;
-        } else if ((local_networks) && (local_networks.indexOf(networks[i].disp)) >= 0) {
-          network = networks[i].disp;
+      for (net in networks) {
+        if ( (networks[net].scope == 'natl') && (networks[net].type == 'tv') && (networks[net].disp != 'NBATV') && (networks[net].disp != 'NBA TV') ) {
+          network = networks[net].disp;
+        } else if ((local_networks) && (local_networks.indexOf(networks[net].disp)) >= 0) {
+          network = networks[net].disp;
         };
       };
       createGame('NBA', home, away, start, network);
-    }
+    };
   };
+  createDailyFeed();
 };
 

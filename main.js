@@ -68,12 +68,12 @@ function createCountdowns (selector) {
 
 function search_link (league, home, away) {
 	var link = "";
-	if (league == "NBA") {
-		link = "https://www.reddit.com/r/nbastreams/search?q=";
-		link += home + "+" + away;
-		link += "&restrict_sr=on";
-	};
-	if (league == "NCAA") {
+	// if (league == "NBA") {
+	// 	link = "https://www.reddit.com/r/nbastreams/search?q=";
+	// 	link += home + "+" + away;
+	// 	link += "&restrict_sr=on";
+	// };
+	if (league == "NCAA" || league == "NBA") {
 		link = "https://www.google.com/search?q=";
 		link += home + "+" + away;
 		link += "+basketball+live+stream";
@@ -83,19 +83,19 @@ function search_link (league, home, away) {
 function search_cta (league, home, away) {
 	var network_logo = '';
 	var search_engine = '';
-	if (league == "NBA") {
-		// network_logo = 'http://svgshare.com/i/2SL.svg';
-		network_logo = 'reddit.svg';
-		search_engine = 'Reddit';
-	};
-	if (league == "NCAA") {
+	// if (league == "NBA") {
+	// 	// network_logo = 'http://svgshare.com/i/2SL.svg';
+	// 	network_logo = 'reddit.svg';
+	// 	search_engine = 'Reddit';
+	// };
+	if (league == "NCAA" || league == "NBA") {
 		network_logo = 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg';
 		search_engine = 'Google';
 	};
 	return "Search on <img src='" + network_logo +"' alt='" + search_engine + "'>";
 };
 function action_class (league) {
-	if (league == "NCAA") {
+	if (league == "NCAA" || league == "NBA") {
 		return 'google';
 	};
 };
@@ -250,7 +250,7 @@ function check_for_tests (obj) {
 		var ncaa_divisions = ['d1','d2','d3'];
 		// var ncaa_divisions = ['d1'];
 		// fetch_ncaa(today, ncaa_divisions);
-		createDailyFeed(test);
+		// createDailyFeed(test);
 	};
 };
 
